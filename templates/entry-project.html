@@ -15,8 +15,10 @@
 
 <section id=post-nav>
 	<section>
-	if $siblings do
+	if !@is_first do
 		:previous-page
+	endif
+	if !@is_last do
 		:next-page
 	endif
 	</section>
