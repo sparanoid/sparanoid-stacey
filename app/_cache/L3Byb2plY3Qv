@@ -1,0 +1,184 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>Projects, Sparanoid's Portfolio </title>
+    <link rel="alternate" type="application/atom+xml" href="../?/feed/">
+    <link rel="stylesheet" href="../public/docs/css/screen.css" type="text/css" media="screen"> 
+  </head>
+  <body>
+    <div id="container">
+      <h1 class="col three">
+        <a href="../">Sparanoid</a>
+        <strong>Gräphic Designer</strong>
+      </h1>
+      <em class="col three"><p><a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#111;:&#x69;&#110;&#102;&#x6f;&#x40;&#115;p&#x61;&#114;&#97;&#x6e;&#x6f;&#105;&#100;&#x2e;&#x63;&#111;&#x6d;">&#x69;&#110;&#102;&#x6f;&#x40;&#115;p&#x61;&#114;&#97;&#x6e;&#x6f;&#105;&#100;&#x2e;&#x63;&#111;&#x6d;</a></p>
+</em>
+      <hr>
+      <header id=pages>
+	<div class=pages>
+	<ul>
+		<li><a href="../">Home</a></li>
+					<li>
+				<a href="../project/">Projects</a>
+<!-- 				  <ol class="children">
+      <li>
+      <a href="../project/slimbox-and-voxgrowl/">Slimbox And Voxgrowl</a>
+      
+    </li>
+      <li>
+      <a href="../project/project-1/">Project 1</a>
+      
+    </li>
+      <li>
+      <a href="../project/movie-project-2/">Movie Project 2</a>
+      
+    </li>
+      <li>
+      <a href="../project/project-name-3/">Project Name 3</a>
+      
+    </li>
+      <li>
+      <a href="../project/youtube-project-4/">Youtube Project 4</a>
+      
+    </li>
+      <li>
+      <a href="../project/vimeo-project-5/">Vimeo Project 5</a>
+      
+    </li>
+      <li>
+      <a href="../project/swf-project-6/">Swf Project 6</a>
+      
+    </li>
+      <li>
+      <a href="../project/mixed-media-project-7/">Mixed Media Project 7</a>
+      
+    </li>
+      <li>
+      <a href="../project/project-name-8/">Project Name 8</a>
+      
+    </li>
+      <li>
+      <a href="../project/project-name-9/">Project Name 9</a>
+      
+    </li>
+      <li>
+      <a href="../project/project-name-10/">Project Name 10</a>
+      
+    </li>
+  
+  </ol>
+ -->
+			</li>
+					<li>
+				<a href="../archive/">Archives</a>
+<!-- 				 -->
+			</li>
+					<li>
+				<a href="../read/">Read</a>
+<!-- 				 -->
+			</li>
+					<li>
+				<a href="../goodies/">Goodies</a>
+<!-- 				 -->
+			</li>
+					<li>
+				<a href="../about/">About</a>
+<!-- 				 -->
+			</li>
+		
+	</ul>
+	</div>
+</header>
+
+      <div id="content" class="col eight">
+          <ul class="projects">
+          <li class="col seven">
+        <p class="date col one">5 Dec 2010</p>
+        <h2 class="col five">
+          <img src="../content/5.project/11.slimbox-and-voxgrowl/thumb.jpg" class="project-thumb" alt=""> 
+          <a href="../project/slimbox-and-voxgrowl/">SlimBox & VoxGrowl - The Missing Growl Styles for Your Mac</a>
+        </h2>
+      </li>
+          <li class="col seven">
+        <p class="date col one">2009, Jun–</p>
+        <h2 class="col five">
+          <img src="../content/5.project/10.project-1/thumb.jpg" class="project-thumb" alt=""> 
+          <a href="../project/project-1/">The Test Project 1</a>
+        </h2>
+      </li>
+          <li class="col seven">
+        <p class="date col one">2009, Feb–</p>
+        <h2 class="col five">
+          <img src="../content/5.project/9.movie-project-2/thumb.jpg" class="project-thumb" alt=""> 
+          <a href="../project/movie-project-2/">Movie Project 2</a>
+        </h2>
+      </li>
+          <li class="col seven">
+        <p class="date col one">2009, Aug–</p>
+        <h2 class="col five">
+          <img src="../content/5.project/8.project-name-3/thumb.jpg" class="project-thumb" alt=""> 
+          <a href="../project/project-name-3/">The Test Project 3</a>
+        </h2>
+      </li>
+          <li class="col seven">
+        <p class="date col one">2009, Dec–</p>
+        <h2 class="col five">
+          <img src="../content/5.project/7.youtube-project-4/thumb.jpg" class="project-thumb" alt=""> 
+          <a href="../project/youtube-project-4/">Youtube Project 4</a>
+        </h2>
+      </li>
+          <li class="col seven">
+        <p class="date col one">2009, Jun–</p>
+        <h2 class="col five">
+          <img src="../content/5.project/6.vimeo-project-5/thumb.jpg" class="project-thumb" alt=""> 
+          <a href="../project/vimeo-project-5/">The Vimeo Project 5</a>
+        </h2>
+      </li>
+          <li class="col seven">
+        <p class="date col one">2009, Jun–</p>
+        <h2 class="col five">
+          <img src="../content/5.project/5.swf-project-6/thumb.jpg" class="project-thumb" alt=""> 
+          <a href="../project/swf-project-6/">The SWF Project 6</a>
+        </h2>
+      </li>
+          <li class="col seven">
+        <p class="date col one">2009, Jun–</p>
+        <h2 class="col five">
+          <img src="../content/5.project/4.mixed-media-project-7/thumb.jpg" class="project-thumb" alt=""> 
+          <a href="../project/mixed-media-project-7/">The Mixed Media Project 7</a>
+        </h2>
+      </li>
+          <li class="col seven">
+        <p class="date col one">2009, Jun–</p>
+        <h2 class="col five">
+          <img src="../content/5.project/3.project-name-8/thumb.jpg" class="project-thumb" alt=""> 
+          <a href="../project/project-name-8/">The Test Project 8</a>
+        </h2>
+      </li>
+          <li class="col seven">
+        <p class="date col one">2009, Jun–</p>
+        <h2 class="col five">
+          <img src="../content/5.project/2.project-name-9/thumb.jpg" class="project-thumb" alt=""> 
+          <a href="../project/project-name-9/">Project 9</a>
+        </h2>
+      </li>
+          <li class="col seven">
+        <p class="date col one">2009, Jun–</p>
+        <h2 class="col five">
+          <img src="../content/5.project/1.project-name-10/thumb.jpg" class="project-thumb" alt=""> 
+          <a href="../project/project-name-10/">The Test Project 10</a>
+        </h2>
+      </li>
+    
+  </ul>
+
+      </div>
+      <hr>
+      <p id="footer" class="col six">&copy; Copyright Sparanoid 2010 <a class="atom-rss" href="../?/feed/">RSS</a><br>
+        <em>Content managed by <a href="http://www.staceyapp.com">stacey</a></em></p>
+    </div>
+  </body>
+</html>
+<!-- Stacey(2.2.1): 284e47e96aae2735df355d992cba898e -->

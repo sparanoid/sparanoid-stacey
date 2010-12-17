@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html dir=ltr lang=en-US>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name=HandheldFriendly content=True>
+
+<title>Sparanoid &middot;  Sparanoid</title>
+
+<link rel=stylesheet media=all href="./public/docs/css/desktop.css" type=text/css>
+<link rel=alternate type=application/atom+xml title="Atom - All Posts" href="./feed/">
+
+
+
+<!--[if lt IE 9]>
+<script>(function(){if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,bb,canvas,datagrid,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(',');for(var i=0;i<e.length;i++){document.createElement(e[i])}})()</script>
+<![endif]-->
+</head>
+
+<body>
+<!--section style="text-align:center; background:#fffeeb; font-size:0.75em;">
+	<p>This new theme is still under constructions.</p>
+</section-->
+
+<header id=top-logo>
+<h1 id=site-title>
+	<a href="./" title="Sparanoid [x]" rel=home accesskey=x>Sparanoid</a>
+</h1>
+</header>
+
+
+<header id=pages>
+	<div class=pages>
+	<ul>
+		<li><a href="./">Home</a></li>
+					<li>
+				<a href="./project/">Projects</a>
+<!-- 				  <ol class="children">
+      <li>
+      <a href="./project/slimbox-and-voxgrowl/">Slimbox And Voxgrowl</a>
+      
+    </li>
+      <li>
+      <a href="./project/project-1/">Project 1</a>
+      
+    </li>
+      <li>
+      <a href="./project/movie-project-2/">Movie Project 2</a>
+      
+    </li>
+      <li>
+      <a href="./project/project-name-3/">Project Name 3</a>
+      
+    </li>
+      <li>
+      <a href="./project/youtube-project-4/">Youtube Project 4</a>
+      
+    </li>
+      <li>
+      <a href="./project/vimeo-project-5/">Vimeo Project 5</a>
+      
+    </li>
+      <li>
+      <a href="./project/swf-project-6/">Swf Project 6</a>
+      
+    </li>
+      <li>
+      <a href="./project/mixed-media-project-7/">Mixed Media Project 7</a>
+      
+    </li>
+      <li>
+      <a href="./project/project-name-8/">Project Name 8</a>
+      
+    </li>
+      <li>
+      <a href="./project/project-name-9/">Project Name 9</a>
+      
+    </li>
+      <li>
+      <a href="./project/project-name-10/">Project Name 10</a>
+      
+    </li>
+  
+  </ol>
+ -->
+			</li>
+					<li>
+				<a href="./archive/">Archives</a>
+<!-- 				 -->
+			</li>
+					<li>
+				<a href="./read/">Read</a>
+<!-- 				 -->
+			</li>
+					<li>
+				<a href="./goodies/">Goodies</a>
+<!-- 				 -->
+			</li>
+					<li>
+				<a href="./about/">About</a>
+<!-- 				 -->
+			</li>
+		
+	</ul>
+	</div>
+</header>
+
+
+<section id=decoration-wrap>
+<section id=decoration>
+<!-- -->
+<p>Sparanoid</p>
+<!--  -->
+</section>
+</section>
+
+
+<section id=wrap>
+<!-- This is a wrap for this theme, limiting the width except the navigation, end in footer.html -->
+
+<article id=home-sticky>
+		<header class=entry-title>
+		<h1>SlimBox & VoxGrowl - The Missing Growl Styles for Your Mac</h1>
+		<section class=entry-meta>
+			<a href="project/slimbox-and-voxgrowl/" title="2010-09-17T08:00:00-05:00" rel=bookmark><time pubdate datetime="2010-09-17T08:00:00-05:00">5 Dec 2010</time></a>
+		</section>
+	</header>
+
+	<section class=entry-content>
+		<p><img src="http://static.sparanoid.com/slimbox-voxgrowl.png" alt="VoxGrowl - Just Another Growl Styles for Vox"></p>
+
+<p><section></p>
+
+<p>Yes, These two <a href="http://growl.info/">Growl</a> styles are now updated, I'm fed up with the white one so I change the SlimBox to the dark one in this version. VoxGrowl is used for <a href="http://www.voxapp.uni.cc/">Vox</a> music player for Mac OS X, but it also can be used by any other music player that displays album art. You can have a quick preview here:</p>
+
+<p></section></p>
+
+<p><video controls>
+    <source src="http://static.sparanoid.com/slimbox-voxgrowl.mov" type=video/mp4>
+</video></p>
+
+<p class=download><a href="http://github.com/downloads/sparanoid/slimbox/SlimBox-1.1.dmg">SlimBox-1.1.dmg</a> (70 KB) / <a href="http://github.com/downloads/sparanoid/voxgrowl/VoxGrowl-1.1.dmg">VoxGrowl-1.1.dmg</a> (370 KB)</p>
+
+	</section>
+	
+</article>
+
+
+<section class=entry-content>
+<section>
+		<ul class=archive-excerpt>
+							<li>
+					<a href="./project/slimbox-and-voxgrowl/" rel=bookmark title="SlimBox & VoxGrowl - The Missing Growl Styles for Your Mac">SlimBox & VoxGrowl - The Missing Growl Styles for Your Mac</a>
+					<span>
+						<p>@excerpt</p>
+					</span>
+				</li>
+							<li>
+					<a href="./project/project-1/" rel=bookmark title="The Test Project 1">The Test Project 1</a>
+					<span>
+						<p>@excerpt</p>
+					</span>
+				</li>
+							<li>
+					<a href="./project/movie-project-2/" rel=bookmark title="Movie Project 2">Movie Project 2</a>
+					<span>
+						<p>@excerpt</p>
+					</span>
+				</li>
+							<li>
+					<a href="./project/project-name-3/" rel=bookmark title="The Test Project 3">The Test Project 3</a>
+					<span>
+						<p>@excerpt</p>
+					</span>
+				</li>
+							<li>
+					<a href="./project/youtube-project-4/" rel=bookmark title="Youtube Project 4">Youtube Project 4</a>
+					<span>
+						<p>@excerpt</p>
+					</span>
+				</li>
+							<li>
+					<a href="./project/vimeo-project-5/" rel=bookmark title="The Vimeo Project 5">The Vimeo Project 5</a>
+					<span>
+						<p>@excerpt</p>
+					</span>
+				</li>
+							<li>
+					<a href="./project/swf-project-6/" rel=bookmark title="The SWF Project 6">The SWF Project 6</a>
+					<span>
+						<p>@excerpt</p>
+					</span>
+				</li>
+							<li>
+					<a href="./project/mixed-media-project-7/" rel=bookmark title="The Mixed Media Project 7">The Mixed Media Project 7</a>
+					<span>
+						<p>@excerpt</p>
+					</span>
+				</li>
+							<li>
+					<a href="./project/project-name-8/" rel=bookmark title="The Test Project 8">The Test Project 8</a>
+					<span>
+						<p>@excerpt</p>
+					</span>
+				</li>
+							<li>
+					<a href="./project/project-name-9/" rel=bookmark title="Project 9">Project 9</a>
+					<span>
+						<p>@excerpt</p>
+					</span>
+				</li>
+							<li>
+					<a href="./project/project-name-10/" rel=bookmark title="The Test Project 10">The Test Project 10</a>
+					<span>
+						<p>@excerpt</p>
+					</span>
+				</li>
+			
+		</ul>
+	
+</section>
+</section>
+
+
+<footer>
+	<a href="#footer" id=footer accesskey=b class=hide-this-shortcut-for-print-style></a>
+	<section id=search-form>
+	<form action=http://www.google.com/cse id=cse-search-box>
+			<input type=hidden name=cx value=012621050422714259885:jabcs0nmacy>
+			<input type=hidden name=ie value=utf-8>
+			<input type=search name=q size=16 placeholder="search">
+			<!--input type=submit name=sa value=Search-->
+	</form>
+	</section>
+
+	<p id=footer-meta>
+		<a href="./feed/" title="Atom (The Atom Syndication Format)">(Atom) Feed</a> - 
+		<a href="./about/#license" title="Contents licensed under a Creative Commons License (Attribution-NonCommercial-NoDerivs 3.0 Unported" rel=license>by-nc-nd</a> - 
+		<a href="#" title="Back to top [t]" accesskey=t>top</a>
+	</p>
+
+	<p class=footer-printable>
+		<a href="./" title="Sparanoid" rel=home>Sparanoid</a>
+		<a href="http://sparanoid.com/project/lindsay-koinaka/" class=lindsayisgod title="lindsay-koinaka - built with WordPress without love and hope.">&#9829; lindsay wu</a>
+	</p>
+</footer>
+
+</section>
+<!-- #wrap -->
+
+</body>
+</html>
+
+
+<!-- Stacey(2.2.1): 284e47e96aae2735df355d992cba898e -->

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html dir=ltr lang=en-US>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name=HandheldFriendly content=True>
+
+<title>if @title do @title &middot; endif @name</title>
+
+<link rel=stylesheet media=all href="@root_path/public/docs/css/desktop.css" type=text/css>
+<link rel=alternate type=application/atom+xml title="Atom - All Posts" href="@root_path/feed/">
+
+if $css do
+	foreach $css do
+		<link rel=stylesheet media=screen href="@url"> 
+	endforeach
+endif
+
+<!--[if lt IE 9]>
+<script>(function(){if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,bb,canvas,datagrid,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(',');for(var i=0;i<e.length;i++){document.createElement(e[i])}})()</script>
+<![endif]-->
+</head>
+
+<body>
+<!--section style="text-align:center; background:#fffeeb; font-size:0.75em;">
+	<p>This new theme is still under constructions.</p>
+</section-->
+
+<header id=top-logo>
+<h1 id=site-title>
+	<a href="@root_path" title="@name [x]" rel=home accesskey=x>@name</a>
+</h1>
+</header>

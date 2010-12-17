@@ -1,0 +1,30 @@
+# file named .gitignore
+
+# Ignore this file
+# .gitignore
+
+# Mac OS X files
+.DS_Store
+
+# Espresso project file
+*.esproj
+
+# Image, font original files
+*.psd
+*.ai
+*.vfb
+
+# Vim leave-behinds
+*.swp
+
+# Logs, Leftovers
+*.log
+!errors.log
+*.bak
+
+# Specified file for lindsay-koinaka
+section-sponsor.php
+
+# for stacey only
+~*
+

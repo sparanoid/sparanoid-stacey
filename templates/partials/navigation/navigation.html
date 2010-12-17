@@ -1,0 +1,13 @@
+<header id=pages>
+	<div class=pages>
+	<ul>
+		<li><a href="@root_path">Home</a></li>
+		foreach $root do
+			<li>
+				<a href="@url">@title</a>
+<!-- 				:children -->
+			</li>
+		endforeach
+	</ul>
+	</div>
+</header>
