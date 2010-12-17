@@ -63,8 +63,30 @@ AddType video/mp4 mp4
 	Header set Cache-Control "max-age=172800, must-revalidate"
 </FilesMatch>
 
+# custom error pages
 ErrorDocument 404 /404.html
+ErrorDocument 403 /error/403.php
+ErrorDocument 404 /error/404.php
+ErrorDocument 500 /error/500.php
+ErrorDocument 503 /error/503.php
 
+# old posts
+Redirect 301 /blog/feed/ http://sparanoid.com/feed/
+Redirect 301 /blog http://sparanoid.com
+Redirect 302 /lab/7z/archive/ http://code.google.com/p/7-zip/downloads/list
+Redirect 301 /4/12-eminem-mockingbird.mp3 http://sparanoid.com/
+Redirect 301 /4/06-fort_minor-whered_you_go_(feat._holly_brook_and_jonah_matranga).mp3 http://sparanoid.com/
+
+# from wordpress to stacey
+Redirect 301 /artwork/hello-world												/news/hello-world
+Redirect 301 /game/logging-cwow-with-us-client									/notebook/logging-cwow-with-us-client
+Redirect 301 /project/igoogle-theme-somilody-2									/notebook/igoogle-theme-somilody-2
+Redirect 301 /project/7-zip-chinese-simplified-language-file-revision-1			/project/7z-language-revision
+Redirect 301 /project/judgment-screensaver-icon-from-academy-city				/project/judgment-screensaver-icon
+Redirect 301 /project/angel-beats-girls-dead-monster-logo						/project/angel-beats-and-girls-dead-monster
+Redirect 301 /project/lucky-star-skin-qq-sogou-pinyin							/project/lucky-star-ime-theme
+
+# BEGIN Stacey
 # Rewrite any calls to *.html, *.json, *.xml, *.atom, *.rss, *.rdf or *.txt if a folder matching * exists
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_URI} !public/

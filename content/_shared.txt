@@ -8,5 +8,7 @@ profession: Gräphic Designer
 -
 googe-custom-search: 012621050422714259885:jabcs0nmacy
 -
+shortener: http://ѕ.ws/
+-
 email: 
 <info@sparanoid.com>
