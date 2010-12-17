@@ -4,7 +4,7 @@ date: 15 Sep 2010
 -
 timestamp: 2010-09-15T08:00:00+08:00
 -
-short-url: gsyQ5p
+short-url: hGUSd0
 -
 latest: 
 -

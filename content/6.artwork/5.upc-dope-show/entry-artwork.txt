@@ -12,6 +12,6 @@ excerpt:
 We're all stars now, in the dope show
 -
 content:
-<p><a href="http://static.sparanoid.com/work/upc-dope-show.jpg" rel="lightbox"><img src="http://static.sparanoid.com/work/upc-dope-show.jpg" alt="UPC Dope Show"></a></p>
+<p><img src="http://static.sparanoid.com/work/upc-dope-show.jpg" alt="UPC Dope Show"></p>
 
-<p><a href="http://static.sparanoid.com/work/upc-dope-show-single.jpg" rel="lightbox"><img src="http://static.sparanoid.com/work/upc-dope-show-single.jpg" alt="UPC Dope Show [Single]"></a></p>
+<p><img src="http://static.sparanoid.com/work/upc-dope-show-single.jpg" alt="UPC Dope Show [Single]"></p>

@@ -4,7 +4,7 @@ date: 6 Oct 2007
 -
 timestamp: 2007-10-06T08:00:00+08:00
 -
-short-url: gbskae
+short-url: eoPHSB
 -
 latest: 
 -
@@ -13,13 +13,13 @@ excerpt:
 -
 content:
 <p>明天還有期中考試，我卻在這裏亂塗亂畫，這的確是罪該萬死了</p>
-<p><a href="http://static.sparanoid.com/work/rx-rts_01.jpg" rel="lightbox"><img src="http://static.sparanoid.com/work/rx-rts_01.jpg" alt="RX R.T.S_01"></a></p>
+<p><img src="http://static.sparanoid.com/work/rx-rts_01.jpg" alt="RX R.T.S_01"></p>
 
 <p>最近經常 R.T.S，這的確很難受，窗外的這番景象看了 16 年，我想還是用我的方式給記錄下來吧</p>
-<p><a href="http://static.sparanoid.com/work/rx-rts_02.jpg" rel="lightbox"><img src="http://static.sparanoid.com/work/rx-rts_02.jpg" alt="RX R.T.S_02"></a></p>
+<p><img src="http://static.sparanoid.com/work/rx-rts_02.jpg" alt="RX R.T.S_02"></p>
 
 <p>還是用鼠標畫的，數位板可望不可及</p>
-<p><a href="http://static.sparanoid.com/work/rx-rts_03.jpg" rel="lightbox"><img src="http://static.sparanoid.com/work/rx-rts_03.jpg" alt="RX R.T.S_03"></a></p>
+<p><img src="http://static.sparanoid.com/work/rx-rts_03.jpg" alt="RX R.T.S_03"></p>
 
 <p>這個時間比較長，7 hr（小時），分了兩天畫的</p>
-<p><a href="http://static.sparanoid.com/work/rx-rts_04.jpg" rel="lightbox"><img src="http://static.sparanoid.com/work/rx-rts_04.jpg" alt="RX R.T.S_03"></a></p>
+<p><img src="http://static.sparanoid.com/work/rx-rts_04.jpg" alt="RX R.T.S_03"></p>

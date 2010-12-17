@@ -9,8 +9,9 @@ short-url: hg8war
 latest: 
 -
 excerpt:
-學校搬家前的校舍，正在上最後一課
+My old high school, before we moved to a new one.
 -
 content:
-<p>學校搬家前的校舍，正在上最後一課</p>
-<p><a href="http://static.sparanoid.com/work/old_high_school.jpg" rel="lightbox"><img src="http://static.sparanoid.com/work/old_high_school.jpg" alt="Old High School" class="center"></a></p>
+<p><img src="http://static.sparanoid.com/work/old_high_school.jpg" alt="Old High School" class="center"></p>
+
+<p>My old high school, before we moved to a new one. 學校搬家前的校舍，正在上最後一課</p>

@@ -1,0 +1,139 @@
+title: HTML Example
+-
+date: 17 Jun 1989
+-
+timestamp: 1989-06-17T08:00:00+08:00
+-
+short-url: eZBAM1
+-
+latest: 
+-
+excerpt:
+RAW HTML Markup Example, used for theming test
+-
+content:
+<h1>st firefox different flash & ffl ffi fb ffb ffh ffj ffk fh fk gis ct cb chinese cp share skin sparanoid quit fj it ip 1/2 3/4 1/4 [test] [TAbawW] sb Queen, 1000</h1> 
+
+<blockquote lang=zh>本頁面可以查看不同的 HTML 元素在這個設計中如何顯示。</blockquote>
+
+<h2>Jules Verne - Around the World in 80 Days</h2>
+<p>It was Passepartout; and what had happened to him was as follows: Shortly after Fix left the opium den, two waiters had lifted the unconscious Passepartout, and had carried him to the bed reserved for the smokers. Three hours later, pursued even in his dreams by a fixed idea, the poor fellow awoke, and struggled against the stupefying influence of the narcotic. The thought of a duty unfulfilled shook off his torpor, and he hurried from the abode of drunkenness. Staggering and holding himself up by keeping against the walls, falling down and creeping up again, and irresistibly impelled by a kind of instinct, he kept crying out, "The Carnatic! the Carnatic!"</p>
+
+<h3>Edgar Rice Burroughs - At the Earth's Core</h3>
+<p>Down the hillside I made my way into the gorgeous field of flowers, and then across the rolling land toward the shadowless columns that guard the ways to buried Phutra. At a quarter-mile from the nearest entrance I was discovered by the Sagoth guard, and in an instant four of the gorilla-men were dashing toward me.</p>
+
+<h4>L. Frank Baum - The Wizard of Oz</h4>
+<p>"Get an oil-can and oil my joints," he answered. "They are rusted so badly that I cannot move them at all; if I am well oiled I shall soon be all right again. You will find an oil-can on a shelf in my cottage."</p>
+
+<h4>魯迅－狂人日記</h4>
+<p>至于我家大哥，也毫不冤枉他。他對我講書的時候，親口說過可以“易子而食”⑸；又一回偶然議論起一個不好的人，他便說不但該殺，還當“食肉寢皮”⑹。我那時年紀還小，心跳了好半天。前天狼子村佃戶來說吃心肝的事，他也毫不奇怪，不住的點頭。可見心思是同從前一樣狠。既然可以“易子而食”，便什麽都易得，什麽人都吃得。我從前單聽他講道理，也胡塗過去；現在曉得他講道理的時候，不但唇邊還抹著人油，而且心裏滿裝著吃人的意思。</p>
+
+<h5>魯迅－黑暗中國的文藝界的現狀</h5>
+<p>連契訶夫（Ａ．Chekhov）和安特來夫（L．Andreev）的有些小說也都在禁止之列。於是使書店只好出算學教科書和童話，如 Mr.Cat 和 Miss Rose 談天，稱讚春天如何可愛之類</p>
+
+<h5>Links in Paragraph</h5>
+<p>The <a href="http://en.wikipedia.org/wiki/Royal_Swedish_Academy_of_Sciences">Royal Swedish Academy of Sciences</a> awards the Nobel Prize in Physics, the Nobel Prize in Chemistry, and the Nobel Memorial Prize in Economic Sciences. The <a href="http://en.wikipedia.org/wiki/Nobel_Assembly_at_Karolinska_Institutet">Nobel Assembly</a> at <a href="http://en.wikipedia.org/wiki/Karolinska_Institutet">Karolinska Institutet</a> awards the Nobel Prize in Physiology or Medicine. The <a href="http://en.wikipedia.org/wiki/Swedish_Academy">Swedish Academy</a> grants the Nobel Prize in Literature. The Nobel Peace Prize is not awarded by a Swedish organisation but by the <a href="http://en.wikipedia.org/wiki/Norwegian_Nobel_Committee">Norwegian Nobel Committee</a>.</p>
+
+<blockquote cite="//sparanoid.com/" title="Example of blockquote">"And you promised to give me courage," said the Cowardly Lion. <a href="#" title="Element link child">link</a></blockquote>
+
+<blockquote lang=zh>只是偶然看見還有可以商榷的兩處：一是「三百大錢九二串」當譯為「三百大錢，以九十二文作為一百」的意思；二是「柿油黨」不如譯音，因為原是「自由黨」，鄉下人不能懂，便訛成他們能懂的「柿油黨」了。</blockquote>
+
+<h5>Styles Test</h5>
+<p>
+	<strong>Bold text</strong>
+	<em>Italic text</em>
+	<del datetime="2009-10-04T07:06:23+00:00">Deleted text</del>
+	<ins dateTime="2007-05-19T04:50:42+00:00">Inserted text</ins>
+	<mark>Marked text</mark>
+	<cite title="Example citation">Reference text</cite>
+	<abbr title="abbreviation">ABBR</abbr>
+</p>
+
+<h5>Code Test</h5>
+
+<pre lang=php>// Use of the pre element for PHP code
+function sandbox_blog_lang() {
+	if ( function_exists('language_attributes') )
+		return language_attributes();
+}</pre>
+
+<p>Here, the <code>myClass</code> and <code><a href="//sparanoid.com" title="Text here">noClass</a></code> classes are removed from all paragraphs, while <code>yourClass</code> is added.</p>
+
+<p>As of jQuery 1.4, the <code>.addClass()</code> method allows us to set the class name by passing in a function.</p>
+
+<pre lang=javascript>
+$('ul li:last').addClass(function() {
+  return 'item-' + $(this).index();
+});
+</pre>
+
+<script src="http://gist.github.com/643311.js"></script>
+
+<h5>Ordered List</h5>
+
+<ol> 
+	<li>You need <a href="http://jquery.com">jQuery</a> library and <a href="http://www.infinite-scroll.com">Infinite Scroll</a>, put them at <code>/v/14/js/</code>. And if you use other paths in <a href="http://github.com/sparanoid/lindsay-koinaka/blob/master/section-infinitescroll.php"><code>section-infinitescroll.php</code></a>, you need to change them.</li> 
+	<li>You also need (and it's better to) use <a href="http://code.google.com/p/minify">Minify</a> to merge all my CSS files into one. Setup minify on your own server and add <a href="http://gist.github.com/636691">this</a> line in <code>groupsConfig.php</code>.</li> 
+	<li>Change the minified CSS URL in <a href="http://github.com/sparanoid/lindsay-koinaka/blob/master/header.php#L8"><code>header.php</code></a> like <a href="http://gist.github.com/636699">this</a></li> 
+	<li>Download two fonts, <a href="http://www.campivisivi.net/titillium">Titillium</a> and <a href="http://new.myfonts.com/fonts/exljbris/calluna/regular">Calluna Regular</a> (Yes, Calluna Regular is free), and convert them into webfonts by using <a href="http://www.fontsquirrel.com/fontface/generator">@font-face Kit Generator</a>, if you think it's verbose, you can just download my font-face package <a href="http://github.com/downloads/sparanoid/lindsay-koinaka/font-face.tar.gz/qr_code">here</a>.</li> 
+	<li>Download <a href="http://github.com/downloads/sparanoid/lindsay-koinaka/font-face.tar.gz/qr_code">these</a> images and distribute them to your CDN or upload to your server.</li> 
+	<li>Install <a href="http://wordpress.org/extend/plugins/yet-another-related-posts-plugin">Yet Another Related Posts Plugin</a> on your WordPress, then uncheck <code>Automatically display related posts</code> and check <code>Display using a custom template file</code> in YARPP preferences.</li> 
+	<li>Change all your fonts and images URLs in <a href="http://github.com/sparanoid/lindsay-koinaka/blob/master/css/prefs.css"><code>css/prefs.css</code></a></li> 
+</ol>
+
+<h5>Multi-level</h5>
+
+<ol>
+	<li>有序列表項目</li>
+	<li>中國當代政治與中國知識份子 <a href="//sparanoid.com" title="Element link child">link</a></li>
+	<li>Critique on Choice - Dialogue with Le Zehou
+		<ol>
+			<li>形而上學的迷霧</li>
+			<li>Monologue:Survivors of Doomsday
+				<ol>
+					<li>A Single Blade and Toxic Sword: Critique on Comtempory Chinese Nationalism</li>
+					<li>Sinking of Big Country: Memorandum to China
+				</ol>
+			</li>
+			<li>Under pen name Lao Xia and co-authored with Wang Shuo (2000). A Belle Gave me Knockout Drug</li>
+		</ol>
+	</li>
+	<li>Naked to meet God</li>
+	<li>The Future of Free China in our life</li>
+</ol>
+
+<h5>Unordered List</h5>
+
+<ul>
+	<li>無序列表項目</li>
+	<li>中國當代政治與中國知識份子 <a href="//sparanoid.com" title="Element link child">link</a></li>
+	<li>Critique on Choice - Dialogue with Le Zehou
+		<ul>
+			<li>形而上學的迷霧</li>
+			<li>Monologue:Survivors of Doomsday
+				<ul>
+					<li>A Single Blade and Toxic Sword: Critique on Comtempory Chinese Nationalism</li>
+					<li>Sinking of Big Country: Memorandum to China
+				</ul>
+			</li>
+			<li>Under pen name Lao Xia and co-authored with Wang Shuo (2000). A Belle Gave me Knockout Drug</li>
+		</ul>
+	</li>
+	<li>Naked to meet God</li>
+	<li>The Future of Free China in our life</li>
+</ul>
+
+<h5>Long Text Wraping Test</h5>
+
+<code class="codeblock">HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\{C95FFEAE-A32E-4122-A5C4-49B5BFB69795}
+HKEY_CLASSES_ROOT\Directory\Background\shellex\ContextMenuHandlers\{C95FFEAE-A32E-4122-A5C4-49B5BFB69795}
+HKEY_CLASSES_ROOT\Drive\shellex\ContextMenuHandlers\{C95FFEAE-A32E-4122-A5C4-49B5BFB69795}</code>
+
+<code>HKEY_CLASSES_ROOT\Directory\Background\shellex\ContextMenuHandlers\{C95FFEAE-A32E-4122-A5C4-49B5BFB69795}</code>
+
+<code>Looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooog</code>
+
+<pre lang=bash>Looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooog</pre>
+
+<p class="download"><a href="#">Download</a> 立即下載 Download Now</p>
+<p class="note">Get More Info <a href="#">Here</a></p>

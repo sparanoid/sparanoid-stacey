@@ -4,7 +4,7 @@ date: 6 Jul 2007
 -
 timestamp: 2007-07-06T08:00:00+08:00
 -
-short-url: hg8war
+short-url: hQ0qJ8
 -
 latest: 
 -
@@ -12,8 +12,8 @@ excerpt:
 The same place, the different time
 -
 content:
-<p><a href="http://static.sparanoid.com/work/0653-pm.jpg" rel="lightbox"><img src="http://static.sparanoid.com/work/0653-pm.jpg" alt="6:53 PM"></a></p>
+<p><img src="http://static.sparanoid.com/work/0653-pm.jpg" alt="6:53 PM"></p>
 
-<p><a href="http://static.sparanoid.com/work/0025-am.jpg" rel="lightbox"><img src="http://static.sparanoid.com/work/0025-am.jpg" alt="00:25 AM"></a></p>
+<p><img src="http://static.sparanoid.com/work/0025-am.jpg" alt="00:25 AM"></p>
 
-<p><a href="http://static.sparanoid.com/work/0025-am-inv.jpg" rel="lightbox"><img src="http://static.sparanoid.com/work/0025-am-inv.jpg" alt="00:25 AM [INV]"></a></p>
+<p><img src="http://static.sparanoid.com/work/0025-am-inv.jpg" alt="00:25 AM [INV]"></p>

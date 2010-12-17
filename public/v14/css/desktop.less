@@ -56,9 +56,9 @@ article, aside, figure, footer, header, hgroup, nav, section {display: block;}
 @font-face {
 	font-family: 'Titillium';
 	src: url('../font/titilliumtext22l003_lite.eot');
-	/* use smiley to ignore mac local fonts */
 	src: local('☺'), url('../font/titilliumtext22l003_lite.otf') format('opentype'), url('../font/titilliumtext22l003_lite.svg#webfontV40h4p6z') format('svg');
-	font-weight: 400;
+	/* font-weight = 500 is a trick, or browser won't treat it as a semi-bold weight. */
+	font-weight: 500;
 	font-style: normal;
 }
 
@@ -102,13 +102,11 @@ a:hover,
 	color: rgba(255, 93, 38, 1);
 }
 
-.entry-content a,
-.entry-title:hover .entry-meta a {
+.entry-content a {
 	color: rgba(255, 93, 38, 1);
 }
 
-.entry-content a:hover,
-.entry-title:hover .entry-meta a:hover {
+.entry-content a:hover {
 	color: rgba(160, 50, 38, 1);
 }
 
@@ -122,7 +120,7 @@ a:hover,
 
 li, blockquote,
 #post-nav {
-	color: rgba(0, 0, 0, 0.4);
+	color: rgba(0, 0, 0, 0.6);
 }
 
 h1, h2, h3, h4, h5, h6, 
@@ -231,7 +229,7 @@ abbr[title], dfn[title] {border-bottom: 1px dotted; cursor: help;}
 
 .dark li, .dark blockquote,
 .dark #post-nav {
-	color: rgba(255, 93, 38, 0.4);
+	color: rgba(255, 93, 38, 0.6);
 }
 
 .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6,
@@ -325,7 +323,7 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 400;
+	font-weight: 500;
 	letter-spacing: -.02em; 
 }
 
@@ -363,7 +361,7 @@ footer,
 
 #wrap {
 /* 	background: rgba(0,0,0,0.05); */
-	padding-top: 4.6em;
+	padding-top: 3.6em;
 }
 
 code, pre, input[type="search"],
@@ -436,18 +434,20 @@ code, pre, input[type="search"],
 /* img p, blockquote p are workaround for WordPress auto paragraph */
 /* all paragraph should use margin-bottom instead of padding-bottom */
 .entry-title {
-	margin-bottom: 3em;
+	margin-bottom: 3.6em;
+}
+
+.entry-title time {
+	font-weight: normal;
+	text-transform: uppercase;
+	opacity: 0.2;
 }
 
 .entry-meta {
+	clear: both;
 	margin-top: 0.6em;
-	font-size: 0.8125em;
 	text-transform: uppercase;
 	opacity: 0.4;
-}
-
-.entry-title:hover .entry-meta, .entry-content:hover {
-	opacity: 1;
 }
 
 .entry-content section {
@@ -812,7 +812,7 @@ a.continue-reading:hover {
 	text-align: center !important;
 	margin-left: auto !important;
 	margin-right: auto !important;
-	max-width: 600px !important;
+	max-width: 800px !important;
 }
 
 /* @end */
@@ -874,7 +874,7 @@ a.continue-reading:hover {
 
 .archive-excerpt li {
 	line-height: 1;
-	margin-top: 3em;
+	margin-top: 2em;
 }
 
 .archive-excerpt li a:hover {

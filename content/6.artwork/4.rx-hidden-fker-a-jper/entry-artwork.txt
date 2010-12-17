@@ -12,4 +12,4 @@ excerpt:
 Finished in my high school
 -
 content:
-<p><a href="http://static.sparanoid.com/work/rx-hidden-fker-a-jper.jpg" rel="lightbox"><img src="http://static.sparanoid.com/work/rx-hidden-fker-a-jper.jpg" alt="RX Hidden FKER A JPER"></a></p>
+<p><img src="http://static.sparanoid.com/work/rx-hidden-fker-a-jper.jpg" alt="RX Hidden FKER A JPER"></p>

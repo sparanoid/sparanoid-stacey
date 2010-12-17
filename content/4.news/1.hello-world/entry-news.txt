@@ -4,7 +4,7 @@ date: 17 Jun 1989
 -
 timestamp: 1989-06-17T08:00:00+08:00
 -
-short-url: test
+short-url: e0DVoL
 -
 latest: 
 -
@@ -12,4 +12,4 @@ excerpt:
 It's me.
 -
 content:
-It's me.
+Yes, it's me.

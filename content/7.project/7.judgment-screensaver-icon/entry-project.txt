@@ -4,7 +4,7 @@ date: 7 Mar 2010
 -
 timestamp: 2010-03-07T08:00:00+08:00
 -
-short-url: dPUVlB
+short-url: fwWP3C
 -
 latest: 
 -
@@ -12,7 +12,7 @@ excerpt:
 Antiskill and Judgment Screensaver / Icon from Academy City, based on Japanese anime Toaru Kagaku no Railgun 「とある科学の超電磁砲」
 -
 content:
-<h3>學園都市風紀委員 177 支部＆警備員 スクリーンセーバー＆アイコン from「とある科學の超電磁砲」</h3>
+<h4>學園都市風紀委員 177 支部＆警備員 スクリーンセーバー＆アイコン from「とある科學の超電磁砲」</h4>
 
 <p><img src="http://static.sparanoid.com/judgment-screensaver-icon-from-academy-city-00.png" alt="Judgment Icon from Academy City" class="no-border"></p>
 

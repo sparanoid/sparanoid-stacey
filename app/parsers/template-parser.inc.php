@@ -208,4 +208,6 @@ Class TemplateParser {
 
 }
 
+include 'html-minify.php';
+
 ?>
