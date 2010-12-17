@@ -26,6 +26,13 @@ class lindsay_koinaka_html_compression {
 		$compressed = strlen($compressed);
 		$savings = ($raw-$compressed) / $raw * 100;
 		$savings = round($savings, 2);
+		// add '.$totaltime.' in the comment below to see load time
+		$time = microtime();
+		$time = explode(" ", $time);
+		$time = $time[1] + $time[0];
+		$endtime = $time;
+		$totaltime = ($endtime - $begintime);
+
 return '<!-- theme \'lindsay-koinaka\', view the original HTML markup at http://github.com/sparanoid/sparanoid.com
                                     _    __
   ___ ___  ___ ________ ____  ___  (_)__/ /
