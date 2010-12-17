@@ -8,8 +8,7 @@ short-url: e0DVoL
 -
 latest: 
 -
-excerpt:
-It's me.
+excerpt: It's me.
 -
 content:
 Yes, it's me.

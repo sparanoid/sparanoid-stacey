@@ -8,8 +8,7 @@ short-url: dK65Km
 -
 latest: 
 -
-excerpt:
-We're all stars now, in the dope show
+excerpt: We're all stars now, in the dope show
 -
 content:
 <p><img src="http://static.sparanoid.com/work/upc-dope-show.jpg" alt="UPC Dope Show"></p>

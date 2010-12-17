@@ -8,8 +8,7 @@ short-url: gWdLdr
 -
 latest: 
 -
-excerpt:
-An iGoogle theme
+excerpt: An iGoogle theme
 -
 content:
 <p>爲 <a href="http://www.google.cn/intl/zh-CN/landing/igcontest09/">iGoogle 中國大學生創新設計大賽</a> 而做的一款 iGoogle 主題，預覽頁面在 <a href="http://www.google.com/ig/directory?hl=en&gl=us&type=themes&url=somilody.googlecode.com/files/somilody2.xml">這裏</a>，目前全部文件儲存在 <a href="http://code.google.com/p/somilody/">Google Code 上</a></p>

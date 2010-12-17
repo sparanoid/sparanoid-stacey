@@ -8,8 +8,7 @@ short-url: eZBAM1
 -
 latest: 
 -
-excerpt:
-RAW HTML Markup Example, used for theming test
+excerpt: RAW HTML Markup Example, used for theming test
 -
 content:
 <h1>st firefox different flash & ffl ffi fb ffb ffh ffj ffk fh fk gis ct cb chinese cp share skin sparanoid quit fj it ip 1/2 3/4 1/4 [test] [TAbawW] sb Queen, 1000</h1> 

@@ -8,8 +8,7 @@ short-url: gyrZOd
 -
 latest: 
 -
-excerpt:
-A foobar2000 theme based on Columns UI
+excerpt: A foobar2000 theme based on Columns UI
 -
 content:
 <p class="note">Lastest Version: <strong>0.4.3</strong> for foobar2000 1.0 / <strong>0.2</strong> for foobar2000 0.9.6.9</p>

@@ -8,8 +8,7 @@ short-url: hBGo4i
 -
 latest: 
 -
-excerpt:
-A redesigned iconset for 7-Zip File Manager
+excerpt: A redesigned iconset for 7-Zip File Manager
 -
 content:
 <p><img src="http://static.sparanoid.com/7z-icon-2_logo_large.png" alt="7-Zip 美化圖標組"></p>

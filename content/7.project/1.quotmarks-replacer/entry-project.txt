@@ -8,8 +8,7 @@ short-url: i6xyDl
 -
 latest: 
 -
-excerpt:
-Quotmarks Replacer is a plugin disables wptexturize function that keeps all quotation marks and suspension points in half-width form
+excerpt: Quotmarks Replacer is a plugin disables wptexturize function that keeps all quotation marks and suspension points in half-width form
 -
 content:
 <blockquote class=slogan><strong>Quotmarks Replacer</strong> is a plugin disables <code>wptexturize</code> function that keeps all quotation marks and suspension points in half-width form.</blockquote>

@@ -8,8 +8,7 @@ short-url: eoPHSB
 -
 latest: 
 -
-excerpt:
-
+excerpt: 
 -
 content:
 <p>明天還有期中考試，我卻在這裏亂塗亂畫，這的確是罪該萬死了</p>

@@ -8,8 +8,7 @@ short-url: hQ0qJ8
 -
 latest: 
 -
-excerpt:
-The same place, the different time
+excerpt: The same place, the different time
 -
 content:
 <p><img src="http://static.sparanoid.com/work/0653-pm.jpg" alt="6:53 PM"></p>

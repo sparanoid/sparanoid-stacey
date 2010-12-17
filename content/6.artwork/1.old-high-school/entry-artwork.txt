@@ -8,8 +8,7 @@ short-url: hg8war
 -
 latest: 
 -
-excerpt:
-My old high school, before we moved to a new one.
+excerpt: My old high school, before we moved to a new one.
 -
 content:
 <p><img src="http://static.sparanoid.com/work/old_high_school.jpg" alt="Old High School" class="center"></p>

@@ -8,8 +8,7 @@ short-url: gLnbq3
 -
 latest: 
 -
-excerpt:
-I dont't like Firefox, what about you?
+excerpt: I dont't like Firefox, what about you?
 -
 content:
 <p>I dont't like Firefox, what about you?</p>

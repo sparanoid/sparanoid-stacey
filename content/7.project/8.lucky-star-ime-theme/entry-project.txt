@@ -8,8 +8,7 @@ short-url: hGUSd0
 -
 latest: 
 -
-excerpt:
-A theme for QQ / Sogou Pinyin IME. based on Japanese anime Lucky☆Star 「らき☆すた」
+excerpt: A theme for QQ / Sogou Pinyin IME. based on Japanese anime Lucky☆Star 「らき☆すた」
 -
 content:
 <p><img src="http://static.sparanoid.com/lucky-star-for-sogou_large.png" alt="Lucky Star Theme for QQ/Sogou Pinyin IME" /></p>

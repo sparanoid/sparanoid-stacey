@@ -8,8 +8,7 @@ short-url: gcDKsr
 -
 latest: 
 -
-excerpt:
-An article about how to use an US World of Warcraft client to login Chinese servers
+excerpt: An article about how to use an US World of Warcraft client to login Chinese servers
 -
 content:
 <p class="note">本文作者已 <a href="//sparanoid.com/game/make-love-not-warcraft-something-about-me-and-wow/">徹底告別魔獸世界</a>，故本文永久停止更新。最後更新：2009-09-19</p>
