@@ -54,7 +54,7 @@ Class Cache {
   }
 
   function write_cache() {
-    echo "\n".$this->comment_tags[0].' Stacey('.Stacey::$version.'): '.$this->hash.' '.$this->comment_tags[1];
+    echo "\n<!--no-html-compression-->\n".$this->comment_tags[0].' Stacey('.Stacey::$version.'): '.$this->hash.' '.$this->comment_tags[1];
     $fp = fopen($this->cachefile, 'w');
     fwrite($fp, ob_get_contents());
     fclose($fp);

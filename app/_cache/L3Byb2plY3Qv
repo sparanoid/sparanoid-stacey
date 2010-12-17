@@ -84,6 +84,11 @@
 
 					</li>
 									<li>
+						<a href="../project/lindsay-koinaka/" rel=bookmark title="lindsay-koinaka 3.0">lindsay-koinaka 3.0</a>
+						<p>lindsay-koinaka ver. 3.0, used to be a WordPress theme, now it's on Stacey</p>
+
+					</li>
+									<li>
 						<a href="../project/lucky-star-ime-theme/" rel=bookmark title="Lucky Star Skin for QQ/Sogou Pinyin IME">Lucky Star Skin for QQ/Sogou Pinyin IME</a>
 						<p>A theme for QQ / Sogou Pinyin IME. based on Japanese anime Lucky☆Star 「らき☆すた」</p>
 
@@ -178,4 +183,4 @@ function SelectShortURL(id) {
 </html>
 
 
-<!-- Stacey(2.2.1): c0d8396afc9f9833cba24551c6fd9bac -->
+<!-- Stacey(2.2.1): 9e3b31dc15640753aa9d24de7ae30600 -->

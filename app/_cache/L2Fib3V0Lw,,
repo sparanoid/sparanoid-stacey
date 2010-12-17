@@ -85,9 +85,9 @@
 
 <p>Tunghsiao Liu, a.k.a. Tongxiao Liu, is a designer, artist living in China, now study at Tianjin Academy of Fine Arts. (You can find me at <a href="http://twitter.com/sparanoid" title="My Twitter">Twitter</a>, <a href="http://www.google.com/reader/shared/sparanoid" title="My Google Reader Shared">Google Reader Shared</a>, <a href=http://www.last.fm/user/Sparanoid title="My Last.fm">Last.fm</a>, <a href=http://zh.wikipedia.org/wiki/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/Sparanoid title="My Wikipedia Activities">Wikipedia</a> and <a href=http://www.google.com/profiles/sparanoid title="View more at my Google Profle">more</a>). I am currently <del>not</del> accepting freelance projects. Contact me via <a href="http://mailhide.recaptcha.net/d?k=01VNLn2xuHhnTPM2YxtDK4NQ==&amp;c=8liI5d0ExplhVkXiGBaPL6VNKzm3HvPduEJIO71QngU=" onclick="window.open('http://mailhide.recaptcha.net/d?k=01VNLn2xuHhnTPM2YxtDK4NQ==&amp;c=8liI5d0ExplhVkXiGBaPL6VNKzm3HvPduEJIO71QngU=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address" rel=nofollow>my email</a>. 
 
-<p>This domain went active in 2005. I used spirit.org.cn before this. but that one has been shut down because of its terrible suffix and then I didn't use the nickname Junior.Spirit on the internet. So I began to call myself Sparanoid. Since that time, The new domain sparanoid.com has undergone several revisions leading up to the current design, which is the 14<sup>th</sup> version. You can also check out the source code on my <a href="http://github.com/sparanoid" title="GitHub">GitHub</a>.</p>
+<p>This domain went active in 2005. I used spirit.org.cn before this. but that one has been shut down because of its bad suffix and then I didn't use the nickname Junior.Spirit on the internet. So I began to call myself Sparanoid. Since that time, The new domain sparanoid.com has undergone several revisions leading up to the current design, which is the 14<sup>th</sup> version. You can get more information about the theme on <a href="//sparanoid.com/project/lindsay-koinaka/" title="GitHub">this post</a>.</p>
 
-<p>This site is based on <a href="http://wordpress.org/">WordPress</a>, a state-of-art semantic personal publishing platform, and it works fine with major modern browsers. You can also use mobile devices to access this site. The whole site used to be hosted by my friend <a href="http://astonysh.com/">Tony</a> on DreamHost from 2008-2010. Now it's hosted by myself on <a href="http://rackspace.com/" title="Rackspace">Rackspace</a> and <a href="http://aws.amazon.com/"><abbr title="Amazon Web Services" lang=en>AWS</abbr></a>.</p>
+<p>This site is based on <a href="http://staceyapp.com/">Stacey</a>, a lightweight content management system. This site works fine with major modern browsers. You can also use mobile devices to access this site. The whole site used to be hosted by my friend <a href="http://astonysh.com/">Tony</a> on DreamHost from 2008-2010. Now it's hosted by myself on <a href="http://rackspace.com/" title="Rackspace">Rackspace</a> and <a href="http://aws.amazon.com/"><abbr title="Amazon Web Services" lang=en>AWS</abbr></a>.</p>
 </section>
 
 <h2>Small Projects <a href="/goodies/" title="View Goodies page to see more" class=continue-reading>more</a></h2>
@@ -155,4 +155,4 @@ function SelectShortURL(id) {
 </html>
 
 
-<!-- Stacey(2.2.1): 33d28208da79a0c17731cacf2f600f9e -->
+<!-- Stacey(2.2.1): 8233187c36a2b138a921fc0db0a02e4a -->

@@ -80,27 +80,27 @@
 					<ul class=archive-excerpt>
 									<li>
 						<a href="../artwork/upc-dope-show/" rel=bookmark title="UPC Dope Show">UPC Dope Show</a>
-						<span><p>We're all stars now, in the dope show</p>
-</span>
+						<p>We're all stars now, in the dope show</p>
+
 					</li>
 									<li>
 						<a href="../artwork/rx-hidden-fker-a-jper/" rel=bookmark title="RX Hidden FKER a JPER">RX Hidden FKER a JPER</a>
-						<span><p>Finished in my high school</p>
-</span>
+						<p>Finished in my high school</p>
+
 					</li>
 									<li>
 						<a href="../artwork/rx-rts/" rel=bookmark title="RX R.T.S_01-04">RX R.T.S_01-04</a>
-						<span></span>
+						
 					</li>
 									<li>
 						<a href="../artwork/1853-0025-0025-inv/" rel=bookmark title="06:53 PM / 00:25 AM / 00:25 AM [INV]">06:53 PM / 00:25 AM / 00:25 AM [INV]</a>
-						<span><p>The same place, the different time</p>
-</span>
+						<p>The same place, the different time</p>
+
 					</li>
 									<li>
 						<a href="../artwork/old-high-school/" rel=bookmark title="Old High School">Old High School</a>
-						<span><p>學校搬家前的校舍，正在上最後一課</p>
-</span>
+						<p>學校搬家前的校舍，正在上最後一課</p>
+
 					</li>
 				
 			</ul>
@@ -157,4 +157,4 @@ function SelectShortURL(id) {
 </html>
 
 
-<!-- Stacey(2.2.1): 58f70d3eb97f48aa921e2c8c60b62145 -->
+<!-- Stacey(2.2.1): 93860b1dcc78375b6e693cd558092bd2 -->
