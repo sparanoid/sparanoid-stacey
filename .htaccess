@@ -39,7 +39,7 @@ AddType video/mp4 mp4
 # gzip compression.
 <IfModule mod_deflate.c>
 	# html, xml, css, and js:
-	AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css application/x-javascript text/javascript application/javascript application/json 
+	AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css application/x-javascript text/javascript application/javascript application/json application/atom+xml
 	
 	# webfonts and svg:
 	<FilesMatch "\.(ttf|otf|woff|eot|svg|svgz)$" >
@@ -58,9 +58,9 @@ AddType video/mp4 mp4
 	Header set Cache-Control "max-age=315360000"
 </FilesMatch>
 
-# 2 days
+# 1 year
 <FilesMatch "\.(html|htm|xml|txt)$">
-	Header set Cache-Control "max-age=172800, must-revalidate"
+	Header set Cache-Control "max-age=31536000, must-revalidate"
 </FilesMatch>
 
 # custom error pages
