@@ -1,18 +1,16 @@
 <section class=entry-content>
 <section>
-foreach $root do
+get "/project" do
 	if $children do
 		<ul class=archive-excerpt>
 			foreach $children do
 				<li>
 					<a href="@url" rel=bookmark title="@title">@title</a>
-					<span>
-						<p>@excerpt</p>
-					</span>
+						@excerpt
 				</li>
 			endforeach
 		</ul>
 	endif
-endforeach
+end
 </section>
 </section>

@@ -1,0 +1,19 @@
+title: Angel Beats! + Girls Dead Monster Logo
+-
+date: 3 Jul 2010
+-
+timestamp: 2010-07-03T08:00:00+08:00
+-
+short-url: eZBAM1
+-
+latest: 
+-
+excerpt:
+Logo from Japanese anime Angel Beats! 「エンジェルビーツ!」
+-
+content:
+<p><a href="http://static.sparanoid.com/angel_beats!_logo.png"><img src="http://static.sparanoid.com/angel_beats!_logo.png" alt="Angel Beats! Logo" class="no-border"></a></p>
+
+<p><a href="http://static.sparanoid.com/girls_dead_monster_logo.png"><img src="http://static.sparanoid.com/girls_dead_monster_logo.png" alt="Girls Dead Monster Logo" class="no-border"></a></p>
+
+<p>這是用 CS5 描的，感覺的確比 CS4 舒服，至少在操作感上還是有所改進的，點擊上圖即可查看大圖，ai 出于某些因素的考慮就不放了</p>

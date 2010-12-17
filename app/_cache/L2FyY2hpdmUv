@@ -1,112 +1,229 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
-  "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-  <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <title>Archives, Sparanoid's Portfolio </title>
-    <link rel="alternate" type="application/atom+xml" href="../?/feed/">
-    <link rel="stylesheet" href="../public/docs/css/screen.css" type="text/css" media="screen"> 
-  </head>
-  <body>
-    <div id="container">
-      <h1 class="col three">
-        <a href="../">Sparanoid</a>
-        <strong>Gräphic Designer</strong>
-      </h1>
-      <em class="col three"><p><a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#111;:&#x69;&#110;&#102;&#x6f;&#x40;&#115;p&#x61;&#114;&#97;&#x6e;&#x6f;&#105;&#100;&#x2e;&#x63;&#111;&#x6d;">&#x69;&#110;&#102;&#x6f;&#x40;&#115;p&#x61;&#114;&#97;&#x6e;&#x6f;&#105;&#100;&#x2e;&#x63;&#111;&#x6d;</a></p>
-</em>
-      <hr>
-      <div class=pages>
-<ul>
-	<li><a href="../">Home</a></li>
-			<li>
-			<a href="../project/">Projects</a>
-<!-- 			  <ol class="children">
-      <li>
-      <a href="../project/slimbox-and-voxgrowl/">Slimbox And Voxgrowl</a>
-      
-    </li>
-      <li>
-      <a href="../project/project-1/">Project 1</a>
-      
-    </li>
-      <li>
-      <a href="../project/movie-project-2/">Movie Project 2</a>
-      
-    </li>
-      <li>
-      <a href="../project/project-name-3/">Project Name 3</a>
-      
-    </li>
-      <li>
-      <a href="../project/youtube-project-4/">Youtube Project 4</a>
-      
-    </li>
-      <li>
-      <a href="../project/vimeo-project-5/">Vimeo Project 5</a>
-      
-    </li>
-      <li>
-      <a href="../project/swf-project-6/">Swf Project 6</a>
-      
-    </li>
-      <li>
-      <a href="../project/mixed-media-project-7/">Mixed Media Project 7</a>
-      
-    </li>
-      <li>
-      <a href="../project/project-name-8/">Project Name 8</a>
-      
-    </li>
-      <li>
-      <a href="../project/project-name-9/">Project Name 9</a>
-      
-    </li>
-      <li>
-      <a href="../project/project-name-10/">Project Name 10</a>
-      
-    </li>
-  
-  </ol>
- -->
-		</li>
-			<li>
-			<a href="../archive/">Archives</a>
-<!-- 			 -->
-		</li>
-			<li>
-			<a href="../read/">Read</a>
-<!-- 			 -->
-		</li>
-			<li>
-			<a href="../goodies/">Goodies</a>
-<!-- 			 -->
-		</li>
-			<li>
-			<a href="../about/">About</a>
-<!-- 			 -->
-		</li>
-	
-</ul>
-</div>
+<!DOCTYPE html>
+<html dir=ltr lang=en-US>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name=HandheldFriendly content=True>
 
-      <div id="content" class="col eight">
-        <p class="date col one">&para;</p>
-        <div class="description col six">
-          <h2 class="col six"><a href="../">Archives</a></h2>
-          
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et mauris eu magna convallis cursus. Pellentesque a justo nisl. Duis vel velit at libero ultricies consectetur. Ut sem libero, ornare in ullamcorper eget, molestie sit amet tellus. Aenean auctor porttitor consectetur. Aliquam erat volutpat.</p>
+<title>Archives |  Sparanoid</title>
 
-<p>I can be contacted at: <a href="&#109;&#x61;&#105;&#108;&#x74;&#111;&#x3a;&#x68;&#105;&#x40;y&#111;&#x75;&#114;&#100;&#x6f;&#109;&#x61;i&#110;&#x2e;&#99;&#111;&#x6d;">&#x68;&#105;&#x40;y&#111;&#x75;&#114;&#100;&#x6f;&#109;&#x61;i&#110;&#x2e;&#99;&#111;&#x6d;</a>.</p>
+<link rel=stylesheet media=all href="../public/docs/css/desktop.css" type=text/css>
+<link rel=alternate type=application/atom+xml title="Atom - All Posts" href="../feed/">
 
-          
-        </div>
-      </div>
-      <hr>
-      <p id="footer" class="col six">&copy; Copyright Sparanoid 2010 <a class="atom-rss" href="../?/feed/">RSS</a><br>
-        <em>Content managed by <a href="http://www.staceyapp.com">stacey</a></em></p>
-    </div>
-    <script src="../public/docs/js/jquery-1.3.2.js" type="text/javascript" charset="utf-8"></script>
-  </body>
+
+
+<!--[if lt IE 9]>
+<script>(function(){if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,bb,canvas,datagrid,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(',');for(var i=0;i<e.length;i++){document.createElement(e[i])}})()</script>
+<![endif]-->
+</head>
+
+<body >
+<!--section style="text-align:center; background:#fffeeb; font-size:0.75em;">
+	<p>This new theme is still under constructions.</p>
+</section-->
+
+<header id=top-logo>
+<h1 id=site-title>
+	<a href="../" title="Sparanoid [x]" rel=home accesskey=x>Sparanoid</a>
+</h1>
+</header>
+
+
+<header id=pages>
+	<div class=pages>
+	<ul>
+		<li><a href="../">Home</a></li>
+					<li>
+				<a href="../project/">Projects</a>
+			</li>
+					<li>
+				<a href="../artwork/">Artworks</a>
+			</li>
+					<li>
+				<a href="../notebook/">Notebook</a>
+			</li>
+					<li>
+				<a href="../news/">News</a>
+			</li>
+					<li>
+				<a href="../archive/">Archives</a>
+			</li>
+					<li>
+				<a href="../about/">About</a>
+			</li>
+		
+	</ul>
+	</div>
+</header>
+
+
+<section id=decoration-wrap>
+<section id=decoration>
+<p>Archives</p>
+</section>
+</section>
+
+
+<section id=wrap>
+<!-- This is a wrap for this theme, limiting the width except the navigation, end in footer.html -->
+
+<article>
+	<header class=entry-title>
+		<h1>Archives</h1>
+		<section class=entry-meta>
+			<p>A full list of entries of this site</p>
+		</section>
+	</header>
+
+	<section class=entry-content>
+	<section>
+					<ul class=archive-excerpt>
+									<li>
+						<a href="../project/slimbox-and-voxgrowl/" rel=bookmark title="SlimBox & VoxGrowl: The Missing Growl Styles for Mac">SlimBox & VoxGrowl: The Missing Growl Styles for Mac</a>
+						<p>Two Growl Styles for Mac OS X. Slimbox is used for normal notifications. VoxGrowl is used for Vox music player.</p>
+
+					</li>
+									<li>
+						<a href="../project/lucky-star-ime-theme/" rel=bookmark title="Lucky Star Skin for QQ/Sogou Pinyin IME">Lucky Star Skin for QQ/Sogou Pinyin IME</a>
+						<p>A theme for QQ / Sogou Pinyin IME. based on Japanese anime Lucky☆Star 「らき☆すた」</p>
+
+					</li>
+									<li>
+						<a href="../project/judgment-screensaver-icon/" rel=bookmark title="Antiskill, Judgment Screensaver / Icon">Antiskill, Judgment Screensaver / Icon</a>
+						<p>Antiskill and Judgment Screensaver / Icon from Academy City, based on Japanese anime Toaru Kagaku no Railgun 「とある科学の超電磁砲」</p>
+
+					</li>
+									<li>
+						<a href="../project/monolite-plus/" rel=bookmark title="foobar2000 Skin: MonoLite Plus">foobar2000 Skin: MonoLite Plus</a>
+						<p>A foobar2000 theme based on Columns UI</p>
+
+					</li>
+									<li>
+						<a href="../project/7z-language-revision/" rel=bookmark title="7-Zip Chinese Simplified Language File Revision #1">7-Zip Chinese Simplified Language File Revision #1</a>
+						<p>7-Zip 正體中文語言文件修訂工程</p>
+
+					</li>
+									<li>
+						<a href="../project/7z-icon/" rel=bookmark title="7-Zip Icon Set Redesigned [Version 2]">7-Zip Icon Set Redesigned [Version 2]</a>
+						<p>7-Zip 美化圖標組</p>
+
+					</li>
+									<li>
+						<a href="../project/zomnk/" rel=bookmark title="Font 'Zomnk'">Font 'Zomnk'</a>
+						<p>I true-type font used for my old WordPress theme</p>
+
+					</li>
+									<li>
+						<a href="../project/anti-firefox/" rel=bookmark title="WordPress Plugin: Anti-Firefox">WordPress Plugin: Anti-Firefox</a>
+						<p>I dont't like Firefox, what about you?</p>
+
+					</li>
+									<li>
+						<a href="../project/quotmarks-replacer/" rel=bookmark title="WordPress Plugin: Quotmarks Replacer">WordPress Plugin: Quotmarks Replacer</a>
+						<p>Quotmarks Replacer is a plugin disables wptexturize function that keeps all quotation marks and suspension points in half-width form</p>
+
+					</li>
+				
+			</ul>
+						<ul class=archive-excerpt>
+									<li>
+						<a href="../artwork/upc-dope-show/" rel=bookmark title="UPC Dope Show">UPC Dope Show</a>
+						<p>We're all stars now, in the dope show</p>
+
+					</li>
+									<li>
+						<a href="../artwork/rx-hidden-fker-a-jper/" rel=bookmark title="RX Hidden FKER a JPER">RX Hidden FKER a JPER</a>
+						<p>Finished in my high school</p>
+
+					</li>
+									<li>
+						<a href="../artwork/rx-rts/" rel=bookmark title="RX R.T.S_01-04">RX R.T.S_01-04</a>
+						
+					</li>
+									<li>
+						<a href="../artwork/1853-0025-0025-inv/" rel=bookmark title="06:53 PM / 00:25 AM / 00:25 AM [INV]">06:53 PM / 00:25 AM / 00:25 AM [INV]</a>
+						<p>The same place, the different time</p>
+
+					</li>
+									<li>
+						<a href="../artwork/old-high-school/" rel=bookmark title="Old High School">Old High School</a>
+						<p>學校搬家前的校舍，正在上最後一課</p>
+
+					</li>
+				
+			</ul>
+						<ul class=archive-excerpt>
+									<li>
+						<a href="../notebook/igoogle-theme-somilody-2/" rel=bookmark title="My First iGoogle Theme: Somilody 2">My First iGoogle Theme: Somilody 2</a>
+						<p>An iGoogle theme</p>
+
+					</li>
+									<li>
+						<a href="../notebook/logging-cwow-with-us-client/" rel=bookmark title="Logging Chinese WoW with US Client">Logging Chinese WoW with US Client</a>
+						<p>An article about how to use an US World of Warcraft client to login Chinese servers</p>
+
+					</li>
+				
+			</ul>
+						<ul class=archive-excerpt>
+									<li>
+						<a href="../news/hello-world/" rel=bookmark title="Hello World">Hello World</a>
+						<p>It's me.</p>
+
+					</li>
+				
+			</ul>
+				
+	</section>
+	</section>
+</article>
+
+<section class=shortener>
+	<section class=fleuron>&#10086;</section><input type=text id=short-url-archive readonly=readonly title="Short URL for this post" onclick="SelectShortURL('short-url-archive');" value="http://ѕ.ws/hhtfdb">
+	<a href="http://twitter.com/share?url=archive/&amp;via=sparanoid&amp;text=Archives>&amp;related=sparanoid&amp;lang=en&amp;count=none&amp;counturl=archive/" class="twitter-share-button" target="_blank">Tweet!</a>
+</section>
+
+
+<!-- 
+Make this hook a single file in order to avoid repeating within the wordpress query post. 
+Have to add this script manually here because no footer and footer hock here. 
+-->
+<script>
+function SelectShortURL(id) {
+    document.getElementById(id).focus();
+    document.getElementById(id).select();
+}
+</script>
+
+
+<footer>
+	<a href="#footer" id=footer accesskey=b class=hide-this-shortcut-for-print-style></a>
+	<section id=search-form>
+	<form action=http://www.google.com/cse id=cse-search-box>
+			<input type=hidden name=cx value=012621050422714259885:jabcs0nmacy>
+			<input type=hidden name=ie value=utf-8>
+			<input type=search name=q size=16 placeholder="search">
+			<!--input type=submit name=sa value=Search-->
+	</form>
+	</section>
+
+	<p id=footer-meta>
+		<a href="../feed/" title="Atom (The Atom Syndication Format)">(Atom) Feed</a> - 
+		<a href="../about/#license" title="Contents licensed under a Creative Commons License (Attribution-NonCommercial-NoDerivs 3.0 Unported" rel=license>by-nc-nd</a> - 
+		<a href="#" title="Back to top [t]" accesskey=t>top</a>
+	</p>
+
+	<p class=footer-printable>
+		<a href="../" title="Sparanoid" rel=home>Sparanoid</a>
+		<a href="http://sparanoid.com/project/lindsay-koinaka/" class=lindsayisgod title="lindsay-koinaka - built with WordPress without love and hope.">&#9829; lindsay wu</a>
+	</p>
+</footer>
+
+</section>
+<!-- #wrap -->
+
+</body>
 </html>
-<!-- Stacey(2.2.1): 5946f4805c5a6a53bb5102af2022103b -->
+
+
+<!-- Stacey(2.2.1): 86d138a9cc9024137c0708cfec4ead78 -->

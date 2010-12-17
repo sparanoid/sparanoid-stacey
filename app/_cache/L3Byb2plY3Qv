@@ -1,184 +1,181 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
-  "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-  <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <title>Projects, Sparanoid's Portfolio </title>
-    <link rel="alternate" type="application/atom+xml" href="../?/feed/">
-    <link rel="stylesheet" href="../public/docs/css/screen.css" type="text/css" media="screen"> 
-  </head>
-  <body>
-    <div id="container">
-      <h1 class="col three">
-        <a href="../">Sparanoid</a>
-        <strong>Gräphic Designer</strong>
-      </h1>
-      <em class="col three"><p><a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#111;:&#x69;&#110;&#102;&#x6f;&#x40;&#115;p&#x61;&#114;&#97;&#x6e;&#x6f;&#105;&#100;&#x2e;&#x63;&#111;&#x6d;">&#x69;&#110;&#102;&#x6f;&#x40;&#115;p&#x61;&#114;&#97;&#x6e;&#x6f;&#105;&#100;&#x2e;&#x63;&#111;&#x6d;</a></p>
-</em>
-      <hr>
-      <header id=pages>
+<!DOCTYPE html>
+<html dir=ltr lang=en-US>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name=HandheldFriendly content=True>
+
+<title>Projects |  Sparanoid</title>
+
+<link rel=stylesheet media=all href="../public/docs/css/desktop.css" type=text/css>
+<link rel=alternate type=application/atom+xml title="Atom - All Posts" href="../feed/">
+
+
+
+<!--[if lt IE 9]>
+<script>(function(){if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,bb,canvas,datagrid,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(',');for(var i=0;i<e.length;i++){document.createElement(e[i])}})()</script>
+<![endif]-->
+</head>
+
+<body >
+<!--section style="text-align:center; background:#fffeeb; font-size:0.75em;">
+	<p>This new theme is still under constructions.</p>
+</section-->
+
+<header id=top-logo>
+<h1 id=site-title>
+	<a href="../" title="Sparanoid [x]" rel=home accesskey=x>Sparanoid</a>
+</h1>
+</header>
+
+
+<header id=pages>
 	<div class=pages>
 	<ul>
 		<li><a href="../">Home</a></li>
 					<li>
 				<a href="../project/">Projects</a>
-<!-- 				  <ol class="children">
-      <li>
-      <a href="../project/slimbox-and-voxgrowl/">Slimbox And Voxgrowl</a>
-      
-    </li>
-      <li>
-      <a href="../project/project-1/">Project 1</a>
-      
-    </li>
-      <li>
-      <a href="../project/movie-project-2/">Movie Project 2</a>
-      
-    </li>
-      <li>
-      <a href="../project/project-name-3/">Project Name 3</a>
-      
-    </li>
-      <li>
-      <a href="../project/youtube-project-4/">Youtube Project 4</a>
-      
-    </li>
-      <li>
-      <a href="../project/vimeo-project-5/">Vimeo Project 5</a>
-      
-    </li>
-      <li>
-      <a href="../project/swf-project-6/">Swf Project 6</a>
-      
-    </li>
-      <li>
-      <a href="../project/mixed-media-project-7/">Mixed Media Project 7</a>
-      
-    </li>
-      <li>
-      <a href="../project/project-name-8/">Project Name 8</a>
-      
-    </li>
-      <li>
-      <a href="../project/project-name-9/">Project Name 9</a>
-      
-    </li>
-      <li>
-      <a href="../project/project-name-10/">Project Name 10</a>
-      
-    </li>
-  
-  </ol>
- -->
+			</li>
+					<li>
+				<a href="../artwork/">Artworks</a>
+			</li>
+					<li>
+				<a href="../notebook/">Notebook</a>
+			</li>
+					<li>
+				<a href="../news/">News</a>
 			</li>
 					<li>
 				<a href="../archive/">Archives</a>
-<!-- 				 -->
-			</li>
-					<li>
-				<a href="../read/">Read</a>
-<!-- 				 -->
-			</li>
-					<li>
-				<a href="../goodies/">Goodies</a>
-<!-- 				 -->
 			</li>
 					<li>
 				<a href="../about/">About</a>
-<!-- 				 -->
 			</li>
 		
 	</ul>
 	</div>
 </header>
 
-      <div id="content" class="col eight">
-          <ul class="projects">
-          <li class="col seven">
-        <p class="date col one">5 Dec 2010</p>
-        <h2 class="col five">
-          <img src="../content/5.project/11.slimbox-and-voxgrowl/thumb.jpg" class="project-thumb" alt=""> 
-          <a href="../project/slimbox-and-voxgrowl/">SlimBox & VoxGrowl - The Missing Growl Styles for Your Mac</a>
-        </h2>
-      </li>
-          <li class="col seven">
-        <p class="date col one">2009, Jun–</p>
-        <h2 class="col five">
-          <img src="../content/5.project/10.project-1/thumb.jpg" class="project-thumb" alt=""> 
-          <a href="../project/project-1/">The Test Project 1</a>
-        </h2>
-      </li>
-          <li class="col seven">
-        <p class="date col one">2009, Feb–</p>
-        <h2 class="col five">
-          <img src="../content/5.project/9.movie-project-2/thumb.jpg" class="project-thumb" alt=""> 
-          <a href="../project/movie-project-2/">Movie Project 2</a>
-        </h2>
-      </li>
-          <li class="col seven">
-        <p class="date col one">2009, Aug–</p>
-        <h2 class="col five">
-          <img src="../content/5.project/8.project-name-3/thumb.jpg" class="project-thumb" alt=""> 
-          <a href="../project/project-name-3/">The Test Project 3</a>
-        </h2>
-      </li>
-          <li class="col seven">
-        <p class="date col one">2009, Dec–</p>
-        <h2 class="col five">
-          <img src="../content/5.project/7.youtube-project-4/thumb.jpg" class="project-thumb" alt=""> 
-          <a href="../project/youtube-project-4/">Youtube Project 4</a>
-        </h2>
-      </li>
-          <li class="col seven">
-        <p class="date col one">2009, Jun–</p>
-        <h2 class="col five">
-          <img src="../content/5.project/6.vimeo-project-5/thumb.jpg" class="project-thumb" alt=""> 
-          <a href="../project/vimeo-project-5/">The Vimeo Project 5</a>
-        </h2>
-      </li>
-          <li class="col seven">
-        <p class="date col one">2009, Jun–</p>
-        <h2 class="col five">
-          <img src="../content/5.project/5.swf-project-6/thumb.jpg" class="project-thumb" alt=""> 
-          <a href="../project/swf-project-6/">The SWF Project 6</a>
-        </h2>
-      </li>
-          <li class="col seven">
-        <p class="date col one">2009, Jun–</p>
-        <h2 class="col five">
-          <img src="../content/5.project/4.mixed-media-project-7/thumb.jpg" class="project-thumb" alt=""> 
-          <a href="../project/mixed-media-project-7/">The Mixed Media Project 7</a>
-        </h2>
-      </li>
-          <li class="col seven">
-        <p class="date col one">2009, Jun–</p>
-        <h2 class="col five">
-          <img src="../content/5.project/3.project-name-8/thumb.jpg" class="project-thumb" alt=""> 
-          <a href="../project/project-name-8/">The Test Project 8</a>
-        </h2>
-      </li>
-          <li class="col seven">
-        <p class="date col one">2009, Jun–</p>
-        <h2 class="col five">
-          <img src="../content/5.project/2.project-name-9/thumb.jpg" class="project-thumb" alt=""> 
-          <a href="../project/project-name-9/">Project 9</a>
-        </h2>
-      </li>
-          <li class="col seven">
-        <p class="date col one">2009, Jun–</p>
-        <h2 class="col five">
-          <img src="../content/5.project/1.project-name-10/thumb.jpg" class="project-thumb" alt=""> 
-          <a href="../project/project-name-10/">The Test Project 10</a>
-        </h2>
-      </li>
-    
-  </ul>
 
-      </div>
-      <hr>
-      <p id="footer" class="col six">&copy; Copyright Sparanoid 2010 <a class="atom-rss" href="../?/feed/">RSS</a><br>
-        <em>Content managed by <a href="http://www.staceyapp.com">stacey</a></em></p>
-    </div>
-  </body>
+<section id=decoration-wrap>
+<section id=decoration>
+<p>Projects</p>
+</section>
+</section>
+
+
+<section id=wrap>
+<!-- This is a wrap for this theme, limiting the width except the navigation, end in footer.html -->
+
+<article>
+	<header class=entry-title>
+		<h1>Projects</h1>
+		<section class=entry-meta>
+			<p>A collection of Tunghsiao's design work and project</p>
+		</section>
+	</header>
+
+	<section class=entry-content>
+	<section>
+					<ul class=archive-excerpt>
+									<li>
+						<a href="../project/slimbox-and-voxgrowl/" rel=bookmark title="SlimBox & VoxGrowl: The Missing Growl Styles for Mac">SlimBox & VoxGrowl: The Missing Growl Styles for Mac</a>
+						<p>Two Growl Styles for Mac OS X. Slimbox is used for normal notifications. VoxGrowl is used for Vox music player.</p>
+
+					</li>
+									<li>
+						<a href="../project/lucky-star-ime-theme/" rel=bookmark title="Lucky Star Skin for QQ/Sogou Pinyin IME">Lucky Star Skin for QQ/Sogou Pinyin IME</a>
+						<p>A theme for QQ / Sogou Pinyin IME. based on Japanese anime Lucky☆Star 「らき☆すた」</p>
+
+					</li>
+									<li>
+						<a href="../project/judgment-screensaver-icon/" rel=bookmark title="Antiskill, Judgment Screensaver / Icon">Antiskill, Judgment Screensaver / Icon</a>
+						<p>Antiskill and Judgment Screensaver / Icon from Academy City, based on Japanese anime Toaru Kagaku no Railgun 「とある科学の超電磁砲」</p>
+
+					</li>
+									<li>
+						<a href="../project/monolite-plus/" rel=bookmark title="foobar2000 Skin: MonoLite Plus">foobar2000 Skin: MonoLite Plus</a>
+						<p>A foobar2000 theme based on Columns UI</p>
+
+					</li>
+									<li>
+						<a href="../project/7z-language-revision/" rel=bookmark title="7-Zip Chinese Simplified Language File Revision #1">7-Zip Chinese Simplified Language File Revision #1</a>
+						<p>7-Zip 正體中文語言文件修訂工程</p>
+
+					</li>
+									<li>
+						<a href="../project/7z-icon/" rel=bookmark title="7-Zip Icon Set Redesigned [Version 2]">7-Zip Icon Set Redesigned [Version 2]</a>
+						<p>7-Zip 美化圖標組</p>
+
+					</li>
+									<li>
+						<a href="../project/zomnk/" rel=bookmark title="Font 'Zomnk'">Font 'Zomnk'</a>
+						<p>I true-type font used for my old WordPress theme</p>
+
+					</li>
+									<li>
+						<a href="../project/anti-firefox/" rel=bookmark title="WordPress Plugin: Anti-Firefox">WordPress Plugin: Anti-Firefox</a>
+						<p>I dont't like Firefox, what about you?</p>
+
+					</li>
+									<li>
+						<a href="../project/quotmarks-replacer/" rel=bookmark title="WordPress Plugin: Quotmarks Replacer">WordPress Plugin: Quotmarks Replacer</a>
+						<p>Quotmarks Replacer is a plugin disables wptexturize function that keeps all quotation marks and suspension points in half-width form</p>
+
+					</li>
+				
+			</ul>
+		
+	</section>
+	</section>
+</article>
+
+<section class=shortener>
+	<section class=fleuron>&#10086;</section><input type=text id=short-url-project readonly=readonly title="Short URL for this post" onclick="SelectShortURL('short-url-project');" value="http://ѕ.ws/sparanoid">
+	<a href="http://twitter.com/share?url=project/&amp;via=sparanoid&amp;text=Projects>&amp;related=sparanoid&amp;lang=en&amp;count=none&amp;counturl=project/" class="twitter-share-button" target="_blank">Tweet!</a>
+</section>
+
+
+<!-- 
+Make this hook a single file in order to avoid repeating within the wordpress query post. 
+Have to add this script manually here because no footer and footer hock here. 
+-->
+<script>
+function SelectShortURL(id) {
+    document.getElementById(id).focus();
+    document.getElementById(id).select();
+}
+</script>
+
+
+<footer>
+	<a href="#footer" id=footer accesskey=b class=hide-this-shortcut-for-print-style></a>
+	<section id=search-form>
+	<form action=http://www.google.com/cse id=cse-search-box>
+			<input type=hidden name=cx value=012621050422714259885:jabcs0nmacy>
+			<input type=hidden name=ie value=utf-8>
+			<input type=search name=q size=16 placeholder="search">
+			<!--input type=submit name=sa value=Search-->
+	</form>
+	</section>
+
+	<p id=footer-meta>
+		<a href="../feed/" title="Atom (The Atom Syndication Format)">(Atom) Feed</a> - 
+		<a href="../about/#license" title="Contents licensed under a Creative Commons License (Attribution-NonCommercial-NoDerivs 3.0 Unported" rel=license>by-nc-nd</a> - 
+		<a href="#" title="Back to top [t]" accesskey=t>top</a>
+	</p>
+
+	<p class=footer-printable>
+		<a href="../" title="Sparanoid" rel=home>Sparanoid</a>
+		<a href="http://sparanoid.com/project/lindsay-koinaka/" class=lindsayisgod title="lindsay-koinaka - built with WordPress without love and hope.">&#9829; lindsay wu</a>
+	</p>
+</footer>
+
+</section>
+<!-- #wrap -->
+
+</body>
 </html>
-<!-- Stacey(2.2.1): 284e47e96aae2735df355d992cba898e -->
+
+
+<!-- Stacey(2.2.1): c0d8396afc9f9833cba24551c6fd9bac -->

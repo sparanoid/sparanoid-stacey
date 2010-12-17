@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html dir=ltr lang=en-US>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name=HandheldFriendly content=True>
+
+<title>Angel Beats! + Girls Dead Monster Logo &middot;  Sparanoid</title>
+
+<link rel=stylesheet media=all href="../../public/docs/css/desktop.css" type=text/css>
+<link rel=alternate type=application/atom+xml title="Atom - All Posts" href="../../feed/">
+
+
+
+<!--[if lt IE 9]>
+<script>(function(){if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,bb,canvas,datagrid,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(',');for(var i=0;i<e.length;i++){document.createElement(e[i])}})()</script>
+<![endif]-->
+</head>
+
+<body>
+<!--section style="text-align:center; background:#fffeeb; font-size:0.75em;">
+	<p>This new theme is still under constructions.</p>
+</section-->
+
+<header id=top-logo>
+<h1 id=site-title>
+	<a href="../../" title="Sparanoid [x]" rel=home accesskey=x>Sparanoid</a>
+</h1>
+</header>
+
+
+<header id=pages>
+	<div class=pages>
+	<ul>
+		<li><a href="../../">Home</a></li>
+					<li>
+				<a href="../../project/">Projects</a>
+<!-- 				  <ol class="children">
+      <li>
+      <a href="../../project/slimbox-and-voxgrowl/">Slimbox And Voxgrowl</a>
+      
+    </li>
+      <li>
+      <a href="../../project/lucky-star-ime-theme/">Lucky Star Ime Theme</a>
+      
+    </li>
+      <li>
+      <a href="../../project/judgment-screensaver-icon/">Judgment Screensaver Icon</a>
+      
+    </li>
+      <li>
+      <a href="../../project/monolite-plus/">Monolite Plus</a>
+      
+    </li>
+      <li>
+      <a href="../../project/7z-language-revision/">7z Language Revision</a>
+      
+    </li>
+      <li>
+      <a href="../../project/7z-icon/">7z Icon</a>
+      
+    </li>
+      <li>
+      <a href="../../project/anti-firefox/">Anti Firefox</a>
+      
+    </li>
+      <li>
+      <a href="../../project/quotmarks-replacer/">Quotmarks Replacer</a>
+      
+    </li>
+  
+  </ol>
+ -->
+			</li>
+					<li>
+				<a href="../../artwork/">Artworks</a>
+<!-- 				 -->
+			</li>
+					<li>
+				<a href="../../goodies/">Goodies</a>
+<!-- 				 -->
+			</li>
+					<li>
+				<a href="../../news/">News</a>
+<!-- 				  <ol class="children">
+      <li>
+      <a href="../../news/hello-world/">Hello World</a>
+      
+    </li>
+  
+  </ol>
+ -->
+			</li>
+					<li>
+				<a href="../../archive/">Archives</a>
+<!-- 				 -->
+			</li>
+					<li>
+				<a href="../../about/">About</a>
+<!-- 				 -->
+			</li>
+		
+	</ul>
+	</div>
+</header>
+
+
+<section id=decoration-wrap>
+<section id=decoration>
+<p>Angel Beats! + Girls Dead Monster Logo</p>
+</section>
+</section>
+
+
+<section id=wrap>
+<!-- This is a wrap for this theme, limiting the width except the navigation, end in footer.html -->
+
+<article>
+	<header class=entry-title>
+		<h1>Angel Beats! + Girls Dead Monster Logo</h1>
+		<section class=entry-meta>
+			<a href="../../project/angel-beats-and-girls-dead-monster/" title="2010-07-03T08:00:00+08:00" rel=bookmark><time pubdate datetime="2010-07-03T08:00:00+08:00">3 Jul 2010</time></a>
+		</section>
+	</header>
+	
+	<section class=entry-content>
+		<p><a href="http://static.sparanoid.com/angel_beats!_logo.png"><img src="http://static.sparanoid.com/angel_beats!_logo.png" alt="Angel Beats! Logo" class="no-border"></a></p>
+
+<p><a href="http://static.sparanoid.com/girls_dead_monster_logo.png"><img src="http://static.sparanoid.com/girls_dead_monster_logo.png" alt="Girls Dead Monster Logo" class="no-border"></a></p>
+
+<p>這是用 CS5 描的，感覺的確比 CS4 舒服，至少在操作感上還是有所改進的，點擊上圖即可查看大圖，ai 出于某些因素的考慮就不放了</p>
+
+	</section>
+</article>
+
+
+<section class=shortener>
+	<section class=fleuron>&#10086;</section><input type=text id=short-url-angel-beats-and-girls-dead-monster readonly=readonly title="Short URL for this post" onclick="SelectShortURL('short-url-angel-beats-and-girls-dead-monster');" value="http://ѕ.ws/eZBAM1">
+	<a href="http://twitter.com/share?url=project/angel-beats-and-girls-dead-monster/&amp;via=sparanoid&amp;text=Angel Beats! + Girls Dead Monster Logo>&amp;related=sparanoid&amp;lang=en&amp;count=none&amp;counturl=project/angel-beats-and-girls-dead-monster/" class="twitter-share-button" target="_blank">Tweet!</a>
+</section>
+
+
+<!-- 
+Make this hook a single file in order to avoid repeating within the wordpress query post. 
+Have to add this script manually here because no footer and footer hock here. 
+-->
+<script>
+function SelectShortURL(id) {
+    document.getElementById(id).focus();
+    document.getElementById(id).select();
+}
+</script>
+
+
+<section id=post-nav>
+	<section>
+				<nav class=nav-previous><a href="../../project/angel-beats-and-girls-dead-monster/">Angel Beats! + Girls Dead Monster Logo</a></nav>
+
+
+			<nav class=nav-next><a href="../../project/angel-beats-and-girls-dead-monster/">Angel Beats! + Girls Dead Monster Logo</a></nav>
+
+
+	
+	</section>
+</section>
+
+<section class=yoggrtad-wrap>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	document.write('<scr' + 'ipt type="text/javascript" src="http://ads.yoggrt.com/www/delivery/ajs.php?zoneid=72&charset=UTF-8&withtext=1&referer='+ escape(document.referrer) +'&loc='+ escape(window.location) +'&cb=' + Math.floor(Math.random() * 99999999999) + '"></scr' + 'ipt>');
+	/* ]]> */ 
+	</script>
+	<p class="adby"><a href="http://www.yoggrt.com">Ads by Yoggrt</a></p>
+</section>
+
+
+<footer>
+	<a href="#footer" id=footer accesskey=b class=hide-this-shortcut-for-print-style></a>
+	<section id=search-form>
+	<form action=http://www.google.com/cse id=cse-search-box>
+			<input type=hidden name=cx value=012621050422714259885:jabcs0nmacy>
+			<input type=hidden name=ie value=utf-8>
+			<input type=search name=q size=16 placeholder="search">
+			<!--input type=submit name=sa value=Search-->
+	</form>
+	</section>
+
+	<p id=footer-meta>
+		<a href="../../feed/" title="Atom (The Atom Syndication Format)">(Atom) Feed</a> - 
+		<a href="../../about/#license" title="Contents licensed under a Creative Commons License (Attribution-NonCommercial-NoDerivs 3.0 Unported" rel=license>by-nc-nd</a> - 
+		<a href="#" title="Back to top [t]" accesskey=t>top</a>
+	</p>
+
+	<p class=footer-printable>
+		<a href="../../" title="Sparanoid" rel=home>Sparanoid</a>
+		<a href="http://sparanoid.com/project/lindsay-koinaka/" class=lindsayisgod title="lindsay-koinaka - built with WordPress without love and hope.">&#9829; lindsay wu</a>
+	</p>
+</footer>
+
+</section>
+<!-- #wrap -->
+
+</body>
+</html>
+
+
+<!-- Stacey(2.2.1): 96f1f461b86cb6f3a7b86be6f706b9f4 -->

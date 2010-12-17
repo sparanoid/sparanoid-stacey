@@ -2,6 +2,8 @@ name: Sparanoid
 -
 full-name: Tunghiao Liu
 -
+twitter: sparanoid
+-
 profession: Gräphic Designer
 -
 googe-custom-search: 012621050422714259885:jabcs0nmacy

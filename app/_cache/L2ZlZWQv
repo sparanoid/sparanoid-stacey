@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
   <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 
-  <title>Sparanoid's Portfolio Feed</title>
+  <title>Sparanoid</title>
   <subtitle>Gräphic Designer</subtitle>
   <link href="http://localhost/feed/" hreflang="en" rel="self" type="application/atom+xml"/>
   <link href="http://localhost/" hreflang="en" rel="alternate" type="text/html"/>
   
-  <updated>2010-12-17T12:15:48+11:00</updated>
+  <updated>2010-12-17T17:41:58+11:00</updated>
   <generator uri="http://staceyapp.com/" version="2.2.1">Stacey</generator>
 
   <author>
@@ -18,9 +18,9 @@
   <rights>©2010 Sparanoid</rights>
     <entry>
    <title>Projects</title>
-   <id>tag:localhost,2010:/projects/</id>
-   <updated>2010-11-08T09:29:36+11:00</updated>
-   <link rel="alternate" type="text/html" href="http://localhost/projects/" />
+   <id>tag:localhost,2010:/project/</id>
+   <updated>2010-12-17T14:43:50+11:00</updated>
+   <link rel="alternate" type="text/html" href="http://localhost/project/" />
    <content type="xhtml" xml:lang="en">
       <div xmlns="http://www.w3.org/1999/xhtml">
           
@@ -30,24 +30,22 @@
 </entry>
     <entry>
    <title>SlimBox &#38; VoxGrowl - The Missing Growl Styles for Your Mac</title>
-   <id>tag:localhost,2010:/projects/slimbox-and-voxgrowl/</id>
-   <updated>2010-12-17T12:15:48+11:00</updated>
-   <link rel="alternate" type="text/html" href="http://localhost/projects/slimbox-and-voxgrowl/" />
+   <id>tag:localhost,2010:/project/slimbox-and-voxgrowl/</id>
+   <updated>2010-12-17T17:02:27+11:00</updated>
+   <link rel="alternate" type="text/html" href="http://localhost/project/slimbox-and-voxgrowl/" />
    <content type="xhtml" xml:lang="en">
       <div xmlns="http://www.w3.org/1999/xhtml">
           
           
             <p><img src="http://static.sparanoid.com/slimbox-voxgrowl.png" alt="VoxGrowl - Just Another Growl Styles for Vox" /></p>
 
-<p><section></p>
-
+<section>
 <p>Yes, These two <a href="http://growl.info/">Growl</a> styles are now updated, I'm fed up with the white one so I change the SlimBox to the dark one in this version. VoxGrowl is used for <a href="http://www.voxapp.uni.cc/">Vox</a> music player for Mac OS X, but it also can be used by any other music player that displays album art. You can have a quick preview here:</p>
+</section>
 
-<p></section></p>
-
-<p><video controls>
+<video controls>
     <source src="http://static.sparanoid.com/slimbox-voxgrowl.mov" type=video/mp4>
-</video></p>
+</video>
 
 <p class=download><a href="http://github.com/downloads/sparanoid/slimbox/SlimBox-1.1.dmg">SlimBox-1.1.dmg</a> (70 KB) / <a href="http://github.com/downloads/sparanoid/voxgrowl/VoxGrowl-1.1.dmg">VoxGrowl-1.1.dmg</a> (370 KB)</p>
 
@@ -57,19 +55,19 @@
 </entry>
   
   <entry>
-   <title>The Test Project 1</title>
-   <id>tag:localhost,2010:/projects/project-1/</id>
-   <updated>2010-12-16T18:36:06+11:00</updated>
-   <link rel="alternate" type="text/html" href="http://localhost/projects/project-1/" />
+   <title>Lucky Star Skin for QQ/Sogou Pinyin IME</title>
+   <id>tag:localhost,2010:/project/lucky-star-ime-theme/</id>
+   <updated>2010-12-17T17:35:21+11:00</updated>
+   <link rel="alternate" type="text/html" href="http://localhost/project/lucky-star-ime-theme/" />
    <content type="xhtml" xml:lang="en">
       <div xmlns="http://www.w3.org/1999/xhtml">
-            <img src="../content/4.projects/10.project-1/04.jpg" alt="04." />
-  <img src="../content/4.projects/10.project-1/03.jpg" alt="03." />
-  <img src="../content/4.projects/10.project-1/02.jpg" alt="02." />
-  <img src="../content/4.projects/10.project-1/01.jpg" alt="01." />
-
           
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est &#38;amp; laborum.</p>
+          
+            <p><img src="http://static.sparanoid.com/lucky-star-for-sogou_large.png" alt="Lucky Star Theme for QQ/Sogou Pinyin IME" /></p>
+
+<p>之前的 for Sogou 版本被誤刪除，這次重新發一下，新增了 QQ 輸入法的皮膚</p>
+
+<p class=download><a href="http://skin.py.qq.com/fcgi-bin/showdetail?skinid=4293199403">lucky-star.qpys</a> (? KB) / <a href="http://pinyin.sogou.com/skins/sv_307818.html">lucky-star.ssf</a> (? KB)</p>
 
           
       </div>
@@ -77,15 +75,42 @@
 </entry>
   
   <entry>
-   <title>Movie Project 2</title>
-   <id>tag:localhost,2010:/projects/movie-project-2/</id>
-   <updated>2010-11-08T09:29:36+11:00</updated>
-   <link rel="alternate" type="text/html" href="http://localhost/projects/movie-project-2/" />
+   <title>Antiskill, Judgment Screensaver / Icon</title>
+   <id>tag:localhost,2010:/project/judgment-screensaver-icon/</id>
+   <updated>2010-12-17T17:36:12+11:00</updated>
+   <link rel="alternate" type="text/html" href="http://localhost/project/judgment-screensaver-icon/" />
    <content type="xhtml" xml:lang="en">
       <div xmlns="http://www.w3.org/1999/xhtml">
           
           
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h3>學園都市風紀委員 177 支部＆警備員 スクリーンセーバー＆アイコン from「とある科學の超電磁砲」</h3>
+
+<p><img src="http://static.sparanoid.com/judgment-screensaver-icon-from-academy-city-00.png" alt="Judgment Icon from Academy City" class="no-border" /></p>
+
+<p><img src="http://static.sparanoid.com/judgment-screensaver-icon-from-academy-city-02.png" alt="Judgment Screensaver from Academy City Screenshot" /></p>
+
+<p><img src="http://static.sparanoid.com/antiskill-screensaver-from-academy-city-02.jpg" alt="Original Antiskill Screensaver from Academy City" /></p>
+
+<section><p>來自學園都市風紀委員 177 支部的屏保，網上之前貌似有人做過，但效果不理想，重新做一下，自適應寬高比，最大測試過 2560x1600 的顯示器。另外做安裝包的同時順帶做了個圖標，<a href="http://static.sparanoid.com/judgment-screensaver-icon-from-academy-city-01.png">內含七種顔色</a></p>
+
+<p>來自學園都市警備員的屏幕保護，在第 24 話中出現過，自適應寬高比，最大測試過 2560x1600 的顯示器。由于警備員的圖標並不十分美觀，所以安裝包就沿用了風紀委員的</p>
+</section>
+
+<p class=download><a href="http://static.sparanoid.com/download/judgment_icon.7z">Download</a> / judgment_icon.7z</p>
+
+<p class=download><a href="http://static.sparanoid.com/download/judgment_library.7z">Download</a> / judgment_library.7z</p>
+
+<p class=download><a href="http://static.sparanoid.com/download/judgment_screensaver.7z">Download</a> / judgment_screensaver.7z</p>
+
+<p class=download><a href="http://static.sparanoid.com/download/judgment_screensaver_chs.7z">Download</a> / judgment_screensaver_chs.7z</p>
+
+<p class=download><a href="http://static.sparanoid.com/download/judgment_screensaver_en.7z">Download</a> / judgment_screensaver_en.7z</p>
+
+<p class=download><a href="http://static.sparanoid.com/download/antiskill_screensaver.7z">Download</a> / antiskill_screensaver.7z</p>
+
+<p class=download><a href="http://static.sparanoid.com/download/antiskill_screensaver_chs.7z">Download</a> / antiskill_screensaver_chs.7z</p>
+
+<p class=download><a href="http://static.sparanoid.com/download/antiskill_screensaver_en.7z">Download</a> / antiskill_screensaver_en.7z</p>
 
           
       </div>
@@ -93,19 +118,131 @@
 </entry>
   
   <entry>
-   <title>The Test Project 3</title>
-   <id>tag:localhost,2010:/projects/project-name-3/</id>
-   <updated>2010-11-08T09:29:36+11:00</updated>
-   <link rel="alternate" type="text/html" href="http://localhost/projects/project-name-3/" />
+   <title>foobar2000 Skin: MonoLite Plus</title>
+   <id>tag:localhost,2010:/project/monolite-plus/</id>
+   <updated>2010-12-17T17:24:03+11:00</updated>
+   <link rel="alternate" type="text/html" href="http://localhost/project/monolite-plus/" />
    <content type="xhtml" xml:lang="en">
       <div xmlns="http://www.w3.org/1999/xhtml">
-            <img src="../content/4.projects/8.project-name-3/04.jpg" alt="04." />
-  <img src="../content/4.projects/8.project-name-3/03.jpg" alt="03." />
-  <img src="../content/4.projects/8.project-name-3/02.jpg" alt="02." />
-  <img src="../content/4.projects/8.project-name-3/01.jpg" alt="01." />
-
           
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          
+            <p class="note">Lastest Version: <strong>0.4.3</strong> for foobar2000 1.0 / <strong>0.2</strong> for foobar2000 0.9.6.9</p>
+
+<p class="note">0.4.* 版本的 Last.fm 同步功能可能會在退出 foobar2000 時隨機出現錯誤提示，但不會影響正常使用</p>
+
+<p><img src="http://static.sparanoid.com/monolite-plus-04.jpg" alt="" /></p>
+
+<h3>什麽是 MonoLite Plus？</h3>
+
+<p>MonoLite Plus 是一款基于 <a href="http://yuo.be/columns.php">Columns UI</a> 組件創建的 <a href="http://www.foobar2000.org/">foobar2000</a> 皮膚</p>
+
+<h3>與原版 MonoLite 有什麽不同？</h3>
+
+<ul>
+<li>增加歌詞顯示功能，支持自動下載歌詞</li>
+<li>增加藝術家簡介功能，信息來自 Last.fm</li>
+<li>集成 Last.fm 同步功能，支持點擊圖標增加 Love 曲目</li>
+<li>增加多種列表顯示模式（普通、<del datetime="2010-01-11T12:48:16+00:00">緊湊</del>、大圖標、小圖標等）</li>
+<li>專輯標題樣式美化，增加陰影效果，修改字體</li>
+<li>多處界面細節調整</li>
+</ul>
+
+<p><strong>MonoLite Plus 0.4.* 界面截圖：</strong><a href="http://static.sparanoid.com/monolite-plus-04-01.png" rel="lightbox[monolite_04]">#1</a> <a href="http://static.sparanoid.com/monolite-plus-04-02.png" rel="lightbox[monolite_04]">#2</a><br />
+<strong>MonoLite Plus 0.2 / 0.3.* 界面截圖：</strong><a href="http://static.sparanoid.com/monolite-plus-02-01.png" rel="lightbox[monolite_02]">#1</a> <a href="http://static.sparanoid.com/monolite-plus-02-02.png" rel="lightbox[monolite_02]">#2</a> <a href="http://static.sparanoid.com/monolite-plus-02-03.png" rel="lightbox[monolite_02]">#3</a> <a href="http://static.sparanoid.com/monolite-plus-02-04.png" rel="lightbox[monolite_02]">#4</a> <a href="http://static.sparanoid.com/monolite-plus-02-05.png" rel="lightbox[monolite_02]">#5</a> <a href="http://static.sparanoid.com/monolite-plus-02-06.png" rel="lightbox[monolite_02]">#6</a> <a href="http://static.sparanoid.com/monolite-plus-02-07.png" rel="lightbox[monolite_02]">#7</a><br />
+<strong>MonoLite Plus 0.1 界面截圖：</strong><a href="http://static.sparanoid.com/monolite-plus-01.png" rel="lightbox[monolite_01]">#1</a> <a href="http://static.sparanoid.com/monolite-plus-02.png" rel="lightbox[monolite_01]">#2</a> <a href="http://static.sparanoid.com/monolite-plus-03.png" rel="lightbox[monolite_01]">#3</a></p>
+
+<h3>MonoLite Plus 安裝向導 (Portable 模式)</h3>
+
+<ul>
+<li>複制壓縮包中所有文件到 fooobar2000 文件夾</li>
+<li>運行 foobar2000 並選擇 Columns UI</li>
+<li>依次打開 Preferences &#38;#8250; Display &#38;#8250; Columns UI，然後導入皮膚 <code>file mono_lite.fcl</code> <em>（foobar2000 1.0 無需此設置）</em></li>
+<li>大功告成</li>
+</ul>
+
+<h3>MonoLite Plus 安裝向導 (標准模式)</h3>
+
+<ul>
+<li>將配置文件位置修改爲應用程序安裝目錄，位于選項中的 General 處修改</li>
+<li>這樣會重制你的設置，因此修改爲 portable 後請手動轉移原配置到新目錄</li>
+<li>然後照做 Portable 模式下的安裝方法</li>
+</ul>
+
+<h3>Last.fm 功能安裝向導</h3>
+
+<ul>
+<li>首先執行 monolite_lastfm_install.bat 文件，相關組件會自動安裝</li>
+<li>在心形圖標的右鍵菜單處輸入用戶名與 API 密鑰</li>
+<li>如沒有 API 密鑰則需要從 <a href="http://www.last.fm/api/account">這裏</a> 申請</li>
+<li>運行 foobar2000 並在設置窗口中的 Tools / Audioscrobbler 與 Tools / Soft Playlists 面板中輸入您的帳戶信息</li>
+</ul>
+
+<h3>Last.fm 功能移除向導</h3>
+
+<ul>
+<li>退出 foobar2000，然後運行 monolite_remove_lastfm.bat，所有的相關文件會被移動到 monolite_backup 文件夾</li>
+<li>如果哪天突然想用 Last.fm 了，則運行 monolite_restore_lastfm.bat 然後菜單中選回 Monolite Plus with Last.fm 所有的相關文件及配置即可還原</li>
+<li>選中菜單中的 View / Layout / MonoLite Plus (Without Last.fm Icon) 可以去掉其圖標</li>
+</ul>
+
+<h3>會自動生成的內容</h3>
+
+<ul>
+<li><code>%foobar_dir%\lyrics\*</code> - 歌詞存放目錄 (foo_uie_lyrics.dl)</li>
+<li><code>%foobar_dir%\lastfm\*</code> - 藝術家、專輯圖片 (foo_uie_biography.dll)</li>
+<li><code>%foobar_dir%\customdb_sqlite.db</code> - Last.fm 數據庫 (foo_customdb.dll)</li>
+</ul>
+
+<p>如果不想自動生成這些文件，可在設置中禁用</p>
+
+<h3>使用技巧</h3>
+
+<ul>
+<li>左鍵雙擊專輯分類=全選該分類下的曲目；中鍵單擊曲目=打開曲目屬性窗口</li>
+<li>音樂庫中中鍵點擊某項=將該項目添加到新播放列表並播放</li>
+<li>通過右鍵菜單 Tagging / Quick Tagger / Set <rating> to... 可以爲曲目評星，也可在設置界面中爲此功能綁定快捷鍵，例如 ALT 1-5，ALT + 6 取消評星</li>
+<li>隱藏菜單欄、狀態欄會有更好的視覺效果。菜單欄可以在需要的時候點擊右上角的按鈕顯示</li>
+<li>在播放列表任意位置點擊右鍵，即可修改 Sort 與 Group by 類型</li>
+<li>當修改了 Group by 類型後，專輯封面大小會發生變化，導致專輯封面顯示模糊，此時右鍵點擊列表任意位置選 Refresh all 即可</li>
+<li>建議 <a href="http://static.sparanoid.com/monolite-plus-04.png" rel="lightbox">如圖修改</a> 快捷鍵設置，從此敲擊空格即可定位到正在播放的曲目</li>
+</ul>
+
+<h3>Windows XP 用戶</h3>
+
+<ul>
+<li>需要安裝 Segoe UI 才能顯示正確字體，字體請從 <del datetime="2010-10-17T08:34:52+00:00">下方下載區下載</del> 網上自行搜索</li>
+</ul>
+
+<h3>聲明</h3>
+
+<ul>
+<li>MonoLite 原作者爲 fanco86 <a href="http://fanco86.deviantart.com/art/MonoLite-122756120">#</a></li>
+<li>MonoLite Plus 由 Sparanoid 修改 <a href="http://junior-spirit.deviantart.com/art/MonoLite-Plus-144505359/">#</a></li>
+<li>MonoLite Plus 爲 MonoLite 的修改版</li>
+<li>Last.fm WSH Panel 代碼由 marc2003 編寫 <a href="http://www.hydrogenaudio.org/forums/index.php?showtopic=76772">#</a></li>
+<li>光盤圖標由 PaulEnsane 制作 <a href="http://paulensane.deviantart.com/art/CD-Icon-115783933">#</a></li>
+<li>心形圖標由 Tango Desktop Project 制作 <a href="http://tango.freedesktop.org/Tango_Desktop_Project">#</a></li>
+<li>感歎號圖標由 Yusuke Kamiyamane 制作 <a href="http://www.pinvoke.com/">#</a></li>
+<li>媒體庫查看方式代碼基于 hydrogenaudio.org 論壇的 2E7AH 修改 <a href="http://www.hydrogenaudio.org/forums/index.php?s=&#38;showtopic=68552&#38;view=findpost&#38;p=684400">#</a></li>
+</ul>
+
+<p class="note">該主題基于 <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh">署名-非商業性使用-相同方式共享 3.0 發布</a></p>
+
+<p class="download"><a href="http://static.sparanoid.com/download/monolite-plus-043.7z">Download</a> / monolite-plus-043.7z</p>
+
+<p class="download"><a href="http://static.sparanoid.com/download/monolite-plus-043.7z">Download</a> / monolite-plus-042.7z</p>
+
+<p class="download"><a href="http://static.sparanoid.com/download/monolite-plus-043.7z">Download</a> / monolite-plus-041.7z</p>
+
+<p class="download"><a href="http://static.sparanoid.com/download/monolite-plus-043.7z">Download</a> / monolite-plus-04.7z</p>
+
+<p class="download"><a href="http://static.sparanoid.com/download/monolite-plus-043.7z">Download</a> / monolite-plus-031.7z</p>
+
+<p class="download"><a href="http://static.sparanoid.com/download/monolite-plus-043.7z">Download</a> / monolite-plus-03.7z</p>
+
+<p class="download"><a href="http://static.sparanoid.com/download/monolite-plus-043.7z">Download</a> / monolite-plus-02.7z</p>
+
+<p class="download"><a href="http://static.sparanoid.com/download/monolite-plus-043.7z">Download</a> / monolite-plus-01.7z</p>
 
           
       </div>
@@ -113,15 +250,39 @@
 </entry>
   
   <entry>
-   <title>Youtube Project 4</title>
-   <id>tag:localhost,2010:/projects/youtube-project-4/</id>
-   <updated>2010-11-08T09:29:36+11:00</updated>
-   <link rel="alternate" type="text/html" href="http://localhost/projects/youtube-project-4/" />
+   <title>7-Zip Chinese Simplified Language File Revision #1</title>
+   <id>tag:localhost,2010:/project/7z-language-revision/</id>
+   <updated>2010-12-17T17:18:18+11:00</updated>
+   <link rel="alternate" type="text/html" href="http://localhost/project/7z-language-revision/" />
    <content type="xhtml" xml:lang="en">
       <div xmlns="http://www.w3.org/1999/xhtml">
           
           
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p class="note">今後的語言文件修訂工作將在 <a href="http://code.google.com/p/7-zip/">Google Code</a> 上進行</p>
+
+<p class="download"><del datetime="2009-12-07T13:22:11+00:00">12072009 修訂 (tagged)</del> / <a href="http://sparanoid.com/lab/7z/l10n/zh-cn.txt">簡體</a> / <a href="http://sparanoid.com/lab/7z/l10n/en.txt">英文</a></p>
+
+<p class="download"><a href="http://sparanoid.com/lab/7z/l10n/09182009.html">09182009 修訂</a> / <a href="http://sparanoid.com/lab/7z/l10n/zh-cn.txt">簡體</a> / <a href="http://sparanoid.com/lab/7z/l10n/en.txt">英文</a></p>
+
+<p class="download"><a href="http://sparanoid.com/lab/7z/l10n/09112009.html">09112009 修訂</a> / <a href="http://sparanoid.com/lab/7z/l10n/zh-cn.txt">簡體</a> / <a href="http://sparanoid.com/lab/7z/l10n/en.txt">英文</a></p>
+
+<p class="download"><a href="http://sparanoid.com/lab/7z/l10n/08292009_2.html">08292009 第二次修訂</a> / <a href="http://sparanoid.com/lab/7z/l10n/zh-cn.txt">簡體</a> / <a href="http://sparanoid.com/lab/7z/l10n/en.txt">英文</a></p>
+
+<p class="download"><a href="http://sparanoid.com/lab/7z/l10n/08292009.html">08292009 修訂</a> / <a href="http://sparanoid.com/lab/7z/l10n/zh-cn.txt">簡體</a> / <a href="http://sparanoid.com/lab/7z/l10n/en.txt">英文</a></p>
+
+<p class="download"><a href="http://sparanoid.com/lab/7z/l10n/08252009.html">08252009 修訂</a> / <a href="http://sparanoid.com/lab/7z/l10n/zh-cn.txt">簡體</a> / <a href="http://sparanoid.com/lab/7z/l10n/en.txt">英文</a></p>
+
+<section>
+<p>這個語言文件從 7-Zip 3.13 一直沿用至今，期間在 4.1x~4.2x 的時候小範圍的更改過三五個字串。沒有什麽大的修改過，這次稍微修訂一下，修改了部分感覺翻譯不妥的字串，詳細的修改點擊上面的粗體鏈接查看（<strong>修改的內容以黃色背景高亮，新增字串爲灰色背景。左側爲修改後的內容，右側爲舊內容</strong>）。另外多嘴一下，爲了讓本地化工作做的更好，加上我只是個業余翻譯，個人能力有限，希望有人能對本次修訂提出意見或建議，認爲翻譯有誤或有更貼切的翻譯，<del datetime="2010-12-03T09:10:59+00:00">請在本文下方盡情留言</del>，謝謝</p>
+</section>
+
+<h3>翻譯上的一些補充</h3>
+
+<p><strong>02000A92="数据“{0}”发生错误，文件已损坏。"</strong><br />
+实际输出形式为：数据“C:\Download\test.7z”发生错误，文件已损坏。</p>
+
+<p><strong>02000A93="CRC 校验“{0}”失败，文件已损坏。"</strong><br />
+实际输出形式为：CRC 校验“C:\Download\test.7z”失败，文件已损坏。</p>
 
           
       </div>
@@ -129,15 +290,28 @@
 </entry>
   
   <entry>
-   <title>The Vimeo Project 5</title>
-   <id>tag:localhost,2010:/projects/vimeo-project-5/</id>
-   <updated>2010-11-08T09:29:36+11:00</updated>
-   <link rel="alternate" type="text/html" href="http://localhost/projects/vimeo-project-5/" />
+   <title>7-Zip Icon Set Redesigned [Version 2]</title>
+   <id>tag:localhost,2010:/project/7z-icon/</id>
+   <updated>2010-12-17T17:13:28+11:00</updated>
+   <link rel="alternate" type="text/html" href="http://localhost/project/7z-icon/" />
    <content type="xhtml" xml:lang="en">
       <div xmlns="http://www.w3.org/1999/xhtml">
           
           
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p><img src="http://static.sparanoid.com/7z-icon-2_logo_large.png" alt="7-Zip 美化圖標組" /></p>
+
+<p class="download"><a href="http://static.sparanoid.com/7z-icon-2_details_large.png">圖標詳細樣式預覽</a> / <a href="http://static.sparanoid.com/download/7z-icon-set-v2.7z">下載</a> (for 4.6.1 beta x86)</p>
+
+<p class="note">尋找 7-Zip 可用的圖標組？可以試試 <a href="http://7ztm.de.vu/">這個工具</a></p>
+
+<p>此爲第二版美化圖標組，新版本圖標可以在 Vista 下完美顯示。圖標中使用的字體爲 <a href="http://www.myfonts.com/fonts/larabie/saved-by-zero/">Saved by Zero</a>。紙箱子的 <a href="http://thvg.deviantart.com/art/Package-Icons-93530123">原素材</a> 由來自 deviantART 的 <a href="http://thvg.deviantart.com/">Thvg</a> 授權提供</p>
+
+<h3>注意事項</h3>
+
+<ul>
+<li>安裝本圖標組之前請確定您已經正確安裝了 7-Zip 原程序</li>
+<li>安裝前會對原作者的圖標文件進行備份，附刪除程序。刪除後可恢複原圖標</li>
+</ul>
 
           
       </div>
@@ -145,15 +319,26 @@
 </entry>
   
   <entry>
-   <title>The SWF Project 6</title>
-   <id>tag:localhost,2010:/projects/swf-project-6/</id>
-   <updated>2010-11-08T09:29:36+11:00</updated>
-   <link rel="alternate" type="text/html" href="http://localhost/projects/swf-project-6/" />
+   <title>WordPress Plugin: Anti-Firefox</title>
+   <id>tag:localhost,2010:/project/anti-firefox/</id>
+   <updated>2010-12-17T17:09:07+11:00</updated>
+   <link rel="alternate" type="text/html" href="http://localhost/project/anti-firefox/" />
    <content type="xhtml" xml:lang="en">
       <div xmlns="http://www.w3.org/1999/xhtml">
           
           
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>I dont't like Firefox, what about you?</p>
+
+<ul>
+<li>Upload the "anti-firefox" directory to /wp-content/plugins/</li>
+<li>Go to Plugins page and activate Anti-Firefox</li>
+<li>Have fun :)</li>
+</ul>
+
+<p class="note">This plugin is released under the Creative Commons license found at the following URL:<br />
+<a href="http://creativecommons.org/licenses/by/2.0/legalcode/">http://creativecommons.org/licenses/by/2.0/legalcode/</a></p>
+
+<p class="download"><a href="http://static.sparanoid.com/download/antiff.7z">Download</a> / antiff.7z</p>
 
           
       </div>
@@ -161,77 +346,21 @@
 </entry>
   
   <entry>
-   <title>The Mixed Media Project 7</title>
-   <id>tag:localhost,2010:/projects/mixed-media-project-7/</id>
-   <updated>2010-11-08T09:29:36+11:00</updated>
-   <link rel="alternate" type="text/html" href="http://localhost/projects/mixed-media-project-7/" />
+   <title>WordPress Plugin: Quotmarks Replacer</title>
+   <id>tag:localhost,2010:/project/quotmarks-replacer/</id>
+   <updated>2010-12-17T17:29:48+11:00</updated>
+   <link rel="alternate" type="text/html" href="http://localhost/project/quotmarks-replacer/" />
    <content type="xhtml" xml:lang="en">
       <div xmlns="http://www.w3.org/1999/xhtml">
-            <img src="../content/4.projects/4.mixed-media-project-7/3.jpg" alt="3." />
-
           
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
           
-      </div>
-   </content>
-</entry>
-  
-  <entry>
-   <title>The Test Project 8</title>
-   <id>tag:localhost,2010:/projects/project-name-8/</id>
-   <updated>2010-11-08T09:29:36+11:00</updated>
-   <link rel="alternate" type="text/html" href="http://localhost/projects/project-name-8/" />
-   <content type="xhtml" xml:lang="en">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-            <img src="../content/4.projects/3.project-name-8/04.jpg" alt="04." />
-  <img src="../content/4.projects/3.project-name-8/03.jpg" alt="03." />
-  <img src="../content/4.projects/3.project-name-8/02.jpg" alt="02." />
-  <img src="../content/4.projects/3.project-name-8/01.jpg" alt="01." />
+            <blockquote class=slogan><strong>Quotmarks Replacer</strong> is a plugin disables <code>wptexturize</code> function that keeps all quotation marks and suspension points in half-width form.</blockquote>
 
-          
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p><strong>Quotmarks Replacer</strong> 是一個通過禁用 <code>wptexturize</code> 函數，解決 WordPress 自動將半角的單引號、雙引號和省略號轉換爲全角標點的問題。使後台輸入的標點格式與前台讀者浏覽的標點格式保持一致的插件。</p>
 
-          
-      </div>
-   </content>
-</entry>
-  
-  <entry>
-   <title>Project 9</title>
-   <id>tag:localhost,2010:/projects/project-name-9/</id>
-   <updated>2010-11-08T09:29:36+11:00</updated>
-   <link rel="alternate" type="text/html" href="http://localhost/projects/project-name-9/" />
-   <content type="xhtml" xml:lang="en">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-            <img src="../content/4.projects/2.project-name-9/04.jpg" alt="04." />
-  <img src="../content/4.projects/2.project-name-9/03.jpg" alt="03." />
-  <img src="../content/4.projects/2.project-name-9/02.jpg" alt="02." />
-  <img src="../content/4.projects/2.project-name-9/01.jpg" alt="01." />
+<p class="note">Version history available at: <a href="http://wordpress.org/extend/plugins/quotmarks-replacer/changelog/">wordpress.org</a></p>
 
-          
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-          
-      </div>
-   </content>
-</entry>
-  
-  <entry>
-   <title>The Test Project 10</title>
-   <id>tag:localhost,2010:/projects/project-name-10/</id>
-   <updated>2010-12-16T18:35:13+11:00</updated>
-   <link rel="alternate" type="text/html" href="http://localhost/projects/project-name-10/" />
-   <content type="xhtml" xml:lang="en">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-            <img src="../content/4.projects/1.project-name-10/04.jpg" alt="04." />
-  <img src="../content/4.projects/1.project-name-10/03.jpg" alt="03." />
-  <img src="../content/4.projects/1.project-name-10/02.jpg" alt="02." />
-  <img src="../content/4.projects/1.project-name-10/01.jpg" alt="01." />
-
-          
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Iñtërnâtiônàlizætiøn</p>
+<p class="download"><a href="http://wordpress.org/extend/plugins/quotmarks-replacer/">Download</a> @ WordPress Officail Plugin Directory</p>
 
           
       </div>
@@ -240,9 +369,93 @@ Iñtërnâtiônàlizætiøn</p>
   
 
   <entry>
-   <title>About Ñame</title>
+   <title>Artworks</title>
+   <id>tag:localhost,2010:/artwork/</id>
+   <updated>2010-12-17T16:15:01+11:00</updated>
+   <link rel="alternate" type="text/html" href="http://localhost/artwork/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Goodies</title>
+   <id>tag:localhost,2010:/goodies/</id>
+   <updated>2010-12-17T13:40:11+11:00</updated>
+   <link rel="alternate" type="text/html" href="http://localhost/goodies/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../content/5.goodies/01.jpg" alt="01." />
+
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et mauris eu magna convallis cursus. Pellentesque a justo nisl. Duis vel velit at libero ultricies consectetur. Ut sem libero, ornare in ullamcorper eget, molestie sit amet tellus. Aenean auctor porttitor consectetur. Aliquam erat volutpat.</p>
+
+<p>I can be contacted at: <a href="&#38;#109;&#38;#x61;&#38;#105;&#38;#108;&#38;#x74;&#38;#111;&#38;#x3a;&#38;#x68;&#38;#105;&#38;#x40;y&#38;#111;&#38;#x75;&#38;#114;&#38;#100;&#38;#x6f;&#38;#109;&#38;#x61;i&#38;#110;&#38;#x2e;&#38;#99;&#38;#111;&#38;#x6d;">&#38;#x68;&#38;#105;&#38;#x40;y&#38;#111;&#38;#x75;&#38;#114;&#38;#100;&#38;#x6f;&#38;#109;&#38;#x61;i&#38;#110;&#38;#x2e;&#38;#99;&#38;#111;&#38;#x6d;</a>.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>News</title>
+   <id>tag:localhost,2010:/news/</id>
+   <updated>2010-12-17T16:17:15+11:00</updated>
+   <link rel="alternate" type="text/html" href="http://localhost/news/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et mauris eu magna convallis cursus. Pellentesque a justo nisl. Duis vel velit at libero ultricies consectetur. Ut sem libero, ornare in ullamcorper eget, molestie sit amet tellus. Aenean auctor porttitor consectetur. Aliquam erat volutpat.</p>
+
+<p>I can be contacted at: <a href="&#38;#109;&#38;#x61;&#38;#105;&#38;#108;&#38;#x74;&#38;#111;&#38;#x3a;&#38;#x68;&#38;#105;&#38;#x40;y&#38;#111;&#38;#x75;&#38;#114;&#38;#100;&#38;#x6f;&#38;#109;&#38;#x61;i&#38;#110;&#38;#x2e;&#38;#99;&#38;#111;&#38;#x6d;">&#38;#x68;&#38;#105;&#38;#x40;y&#38;#111;&#38;#x75;&#38;#114;&#38;#100;&#38;#x6f;&#38;#109;&#38;#x61;i&#38;#110;&#38;#x2e;&#38;#99;&#38;#111;&#38;#x6d;</a>.</p>
+
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Hello World</title>
+   <id>tag:localhost,2010:/news/hello-world/</id>
+   <updated>2010-12-17T17:02:42+11:00</updated>
+   <link rel="alternate" type="text/html" href="http://localhost/news/hello-world/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>It's me.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>Archives</title>
+   <id>tag:localhost,2010:/archive/</id>
+   <updated>2010-12-17T13:40:33+11:00</updated>
+   <link rel="alternate" type="text/html" href="http://localhost/archive/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et mauris eu magna convallis cursus. Pellentesque a justo nisl. Duis vel velit at libero ultricies consectetur. Ut sem libero, ornare in ullamcorper eget, molestie sit amet tellus. Aenean auctor porttitor consectetur. Aliquam erat volutpat.</p>
+
+<p>I can be contacted at: <a href="&#38;#109;&#38;#x61;&#38;#105;&#38;#108;&#38;#x74;&#38;#111;&#38;#x3a;&#38;#x68;&#38;#105;&#38;#x40;y&#38;#111;&#38;#x75;&#38;#114;&#38;#100;&#38;#x6f;&#38;#109;&#38;#x61;i&#38;#110;&#38;#x2e;&#38;#99;&#38;#111;&#38;#x6d;">&#38;#x68;&#38;#105;&#38;#x40;y&#38;#111;&#38;#x75;&#38;#114;&#38;#100;&#38;#x6f;&#38;#109;&#38;#x61;i&#38;#110;&#38;#x2e;&#38;#99;&#38;#111;&#38;#x6d;</a>.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>About</title>
    <id>tag:localhost,2010:/about/</id>
-   <updated>2010-12-17T00:06:40+11:00</updated>
+   <updated>2010-12-17T13:39:59+11:00</updated>
    <link rel="alternate" type="text/html" href="http://localhost/about/" />
    <content type="xhtml" xml:lang="en">
       <div xmlns="http://www.w3.org/1999/xhtml">
@@ -260,26 +473,7 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
    </content>
 </entry>
   
-  <entry>
-   <title>Contact details</title>
-   <id>tag:localhost,2010:/contact-me/</id>
-   <updated>2010-11-08T09:29:36+11:00</updated>
-   <link rel="alternate" type="text/html" href="http://localhost/contact-me/" />
-   <content type="xhtml" xml:lang="en">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-            <img src="../content/2.contact-me/01.jpg" alt="01." />
-
-          
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et mauris eu magna convallis cursus. Pellentesque a justo nisl. Duis vel velit at libero ultricies consectetur. Ut sem libero, ornare in ullamcorper eget, molestie sit amet tellus. Aenean auctor porttitor consectetur. Aliquam erat volutpat.</p>
-
-<p>I can be contacted at: <a href="&#38;#109;&#38;#x61;&#38;#105;&#38;#108;&#38;#x74;&#38;#111;&#38;#x3a;&#38;#x68;&#38;#105;&#38;#x40;y&#38;#111;&#38;#x75;&#38;#114;&#38;#100;&#38;#x6f;&#38;#109;&#38;#x61;i&#38;#110;&#38;#x2e;&#38;#99;&#38;#111;&#38;#x6d;">&#38;#x68;&#38;#105;&#38;#x40;y&#38;#111;&#38;#x75;&#38;#114;&#38;#100;&#38;#x6f;&#38;#109;&#38;#x61;i&#38;#110;&#38;#x2e;&#38;#99;&#38;#111;&#38;#x6d;</a>.</p>
-
-          
-      </div>
-   </content>
-</entry>
-  
 
 
 </feed>
-<!-- Stacey(2.2.1): 6ca7008ad3cb1a5829fab45dceac95bd -->
+<!-- Stacey(2.2.1): fc0807acf75838b4437ed659eaf4fea8 -->

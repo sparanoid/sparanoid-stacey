@@ -1,0 +1,5 @@
+title: News
+-
+short-url: sparanoid
+-
+page_description: News updates about this site and me

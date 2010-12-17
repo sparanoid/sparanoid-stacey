@@ -5,7 +5,7 @@
 <meta name=viewport content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta name=HandheldFriendly content=True>
 
-<title>Sparanoid &middot;  Sparanoid</title>
+<title>Sparanoid |  Sparanoid</title>
 
 <link rel=stylesheet media=all href="./public/docs/css/desktop.css" type=text/css>
 <link rel=alternate type=application/atom+xml title="Atom - All Posts" href="./feed/">
@@ -17,7 +17,7 @@
 <![endif]-->
 </head>
 
-<body>
+<body >
 <!--section style="text-align:center; background:#fffeeb; font-size:0.75em;">
 	<p>This new theme is still under constructions.</p>
 </section-->
@@ -35,70 +35,21 @@
 		<li><a href="./">Home</a></li>
 					<li>
 				<a href="./project/">Projects</a>
-<!-- 				  <ol class="children">
-      <li>
-      <a href="./project/slimbox-and-voxgrowl/">Slimbox And Voxgrowl</a>
-      
-    </li>
-      <li>
-      <a href="./project/project-1/">Project 1</a>
-      
-    </li>
-      <li>
-      <a href="./project/movie-project-2/">Movie Project 2</a>
-      
-    </li>
-      <li>
-      <a href="./project/project-name-3/">Project Name 3</a>
-      
-    </li>
-      <li>
-      <a href="./project/youtube-project-4/">Youtube Project 4</a>
-      
-    </li>
-      <li>
-      <a href="./project/vimeo-project-5/">Vimeo Project 5</a>
-      
-    </li>
-      <li>
-      <a href="./project/swf-project-6/">Swf Project 6</a>
-      
-    </li>
-      <li>
-      <a href="./project/mixed-media-project-7/">Mixed Media Project 7</a>
-      
-    </li>
-      <li>
-      <a href="./project/project-name-8/">Project Name 8</a>
-      
-    </li>
-      <li>
-      <a href="./project/project-name-9/">Project Name 9</a>
-      
-    </li>
-      <li>
-      <a href="./project/project-name-10/">Project Name 10</a>
-      
-    </li>
-  
-  </ol>
- -->
+			</li>
+					<li>
+				<a href="./artwork/">Artworks</a>
+			</li>
+					<li>
+				<a href="./notebook/">Notebook</a>
+			</li>
+					<li>
+				<a href="./news/">News</a>
 			</li>
 					<li>
 				<a href="./archive/">Archives</a>
-<!-- 				 -->
-			</li>
-					<li>
-				<a href="./read/">Read</a>
-<!-- 				 -->
-			</li>
-					<li>
-				<a href="./goodies/">Goodies</a>
-<!-- 				 -->
 			</li>
 					<li>
 				<a href="./about/">About</a>
-<!-- 				 -->
 			</li>
 		
 	</ul>
@@ -108,9 +59,7 @@
 
 <section id=decoration-wrap>
 <section id=decoration>
-<!-- -->
 <p>Sparanoid</p>
-<!--  -->
 </section>
 </section>
 
@@ -120,24 +69,22 @@
 
 <article id=home-sticky>
 		<header class=entry-title>
-		<h1>SlimBox & VoxGrowl - The Missing Growl Styles for Your Mac</h1>
+		<h1>SlimBox & VoxGrowl: The Missing Growl Styles for Mac</h1>
 		<section class=entry-meta>
-			<a href="project/slimbox-and-voxgrowl/" title="2010-09-17T08:00:00-05:00" rel=bookmark><time pubdate datetime="2010-09-17T08:00:00-05:00">5 Dec 2010</time></a>
+			<a href="./project/slimbox-and-voxgrowl/" title="2010-12-05T08:00:00+08:00" rel=bookmark><time pubdate datetime="2010-12-05T08:00:00+08:00">5 Dec 2010</time></a>
 		</section>
 	</header>
 
 	<section class=entry-content>
 		<p><img src="http://static.sparanoid.com/slimbox-voxgrowl.png" alt="VoxGrowl - Just Another Growl Styles for Vox"></p>
 
-<p><section></p>
-
+<section>
 <p>Yes, These two <a href="http://growl.info/">Growl</a> styles are now updated, I'm fed up with the white one so I change the SlimBox to the dark one in this version. VoxGrowl is used for <a href="http://www.voxapp.uni.cc/">Vox</a> music player for Mac OS X, but it also can be used by any other music player that displays album art. You can have a quick preview here:</p>
+</section>
 
-<p></section></p>
-
-<p><video controls>
+<video controls>
     <source src="http://static.sparanoid.com/slimbox-voxgrowl.mov" type=video/mp4>
-</video></p>
+</video>
 
 <p class=download><a href="http://github.com/downloads/sparanoid/slimbox/SlimBox-1.1.dmg">SlimBox-1.1.dmg</a> (70 KB) / <a href="http://github.com/downloads/sparanoid/voxgrowl/VoxGrowl-1.1.dmg">VoxGrowl-1.1.dmg</a> (370 KB)</p>
 
@@ -148,76 +95,61 @@
 
 <section class=entry-content>
 <section>
-		<ul class=archive-excerpt>
+			<ul class=archive-excerpt>
 							<li>
-					<a href="./project/slimbox-and-voxgrowl/" rel=bookmark title="SlimBox & VoxGrowl - The Missing Growl Styles for Your Mac">SlimBox & VoxGrowl - The Missing Growl Styles for Your Mac</a>
-					<span>
-						<p>@excerpt</p>
-					</span>
+					<a href="./project/slimbox-and-voxgrowl/" rel=bookmark title="SlimBox & VoxGrowl: The Missing Growl Styles for Mac">SlimBox & VoxGrowl: The Missing Growl Styles for Mac</a>
+						<p>Two Growl Styles for Mac OS X. Slimbox is used for normal notifications. VoxGrowl is used for Vox music player.</p>
+
 				</li>
 							<li>
-					<a href="./project/project-1/" rel=bookmark title="The Test Project 1">The Test Project 1</a>
-					<span>
-						<p>@excerpt</p>
-					</span>
+					<a href="./project/lindsay-koinaka/" rel=bookmark title="lindsay-koinaka 3.0">lindsay-koinaka 3.0</a>
+						<p>lindsay-koinaka ver. 3.0, used to be a WordPress theme, now it's on Stacey</p>
+
 				</li>
 							<li>
-					<a href="./project/movie-project-2/" rel=bookmark title="Movie Project 2">Movie Project 2</a>
-					<span>
-						<p>@excerpt</p>
-					</span>
+					<a href="./project/lucky-star-ime-theme/" rel=bookmark title="Lucky Star Skin for QQ/Sogou Pinyin IME">Lucky Star Skin for QQ/Sogou Pinyin IME</a>
+						<p>A theme for QQ / Sogou Pinyin IME. based on Japanese anime Lucky☆Star 「らき☆すた」</p>
+
 				</li>
 							<li>
-					<a href="./project/project-name-3/" rel=bookmark title="The Test Project 3">The Test Project 3</a>
-					<span>
-						<p>@excerpt</p>
-					</span>
+					<a href="./project/judgment-screensaver-icon/" rel=bookmark title="Antiskill, Judgment Screensaver / Icon">Antiskill, Judgment Screensaver / Icon</a>
+						<p>Antiskill and Judgment Screensaver / Icon from Academy City, based on Japanese anime Toaru Kagaku no Railgun 「とある科学の超電磁砲」</p>
+
 				</li>
 							<li>
-					<a href="./project/youtube-project-4/" rel=bookmark title="Youtube Project 4">Youtube Project 4</a>
-					<span>
-						<p>@excerpt</p>
-					</span>
+					<a href="./project/monolite-plus/" rel=bookmark title="foobar2000 Skin: MonoLite Plus">foobar2000 Skin: MonoLite Plus</a>
+						<p>A foobar2000 theme based on Columns UI</p>
+
 				</li>
 							<li>
-					<a href="./project/vimeo-project-5/" rel=bookmark title="The Vimeo Project 5">The Vimeo Project 5</a>
-					<span>
-						<p>@excerpt</p>
-					</span>
+					<a href="./project/7z-language-revision/" rel=bookmark title="7-Zip Chinese Simplified Language File Revision #1">7-Zip Chinese Simplified Language File Revision #1</a>
+						<p>7-Zip 正體中文語言文件修訂工程</p>
+
 				</li>
 							<li>
-					<a href="./project/swf-project-6/" rel=bookmark title="The SWF Project 6">The SWF Project 6</a>
-					<span>
-						<p>@excerpt</p>
-					</span>
+					<a href="./project/7z-icon/" rel=bookmark title="7-Zip Icon Set Redesigned [Version 2]">7-Zip Icon Set Redesigned [Version 2]</a>
+						<p>7-Zip 美化圖標組</p>
+
 				</li>
 							<li>
-					<a href="./project/mixed-media-project-7/" rel=bookmark title="The Mixed Media Project 7">The Mixed Media Project 7</a>
-					<span>
-						<p>@excerpt</p>
-					</span>
+					<a href="./project/zomnk/" rel=bookmark title="Font 'Zomnk'">Font 'Zomnk'</a>
+						<p>I true-type font used for my old WordPress theme</p>
+
 				</li>
 							<li>
-					<a href="./project/project-name-8/" rel=bookmark title="The Test Project 8">The Test Project 8</a>
-					<span>
-						<p>@excerpt</p>
-					</span>
+					<a href="./project/anti-firefox/" rel=bookmark title="WordPress Plugin: Anti-Firefox">WordPress Plugin: Anti-Firefox</a>
+						<p>I dont't like Firefox, what about you?</p>
+
 				</li>
 							<li>
-					<a href="./project/project-name-9/" rel=bookmark title="Project 9">Project 9</a>
-					<span>
-						<p>@excerpt</p>
-					</span>
-				</li>
-							<li>
-					<a href="./project/project-name-10/" rel=bookmark title="The Test Project 10">The Test Project 10</a>
-					<span>
-						<p>@excerpt</p>
-					</span>
+					<a href="./project/quotmarks-replacer/" rel=bookmark title="WordPress Plugin: Quotmarks Replacer">WordPress Plugin: Quotmarks Replacer</a>
+						<p>Quotmarks Replacer is a plugin disables wptexturize function that keeps all quotation marks and suspension points in half-width form</p>
+
 				</li>
 			
 		</ul>
 	
+
 </section>
 </section>
 
@@ -252,4 +184,4 @@
 </html>
 
 
-<!-- Stacey(2.2.1): 284e47e96aae2735df355d992cba898e -->
+<!-- Stacey(2.2.1): 5e524303fc4b0268179457b5d5d72630 -->

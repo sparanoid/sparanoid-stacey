@@ -1,0 +1,17 @@
+title: UPC Dope Show
+-
+date: 19 Jul 2008
+-
+timestamp: 2008-07-19T08:00:00+08:00
+-
+short-url: dK65Km
+-
+latest: 
+-
+excerpt:
+We're all stars now, in the dope show
+-
+content:
+<p><a href="http://static.sparanoid.com/work/upc-dope-show.jpg" rel="lightbox"><img src="http://static.sparanoid.com/work/upc-dope-show.jpg" alt="UPC Dope Show"></a></p>
+
+<p><a href="http://static.sparanoid.com/work/upc-dope-show-single.jpg" rel="lightbox"><img src="http://static.sparanoid.com/work/upc-dope-show-single.jpg" alt="UPC Dope Show [Single]"></a></p>

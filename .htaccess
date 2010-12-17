@@ -4,6 +4,65 @@ RewriteEngine on
 # ie. if in a folder named 'stacey', RewriteBase /stacey
 #RewriteBase /
 
+Options -Indexes
+Header unset Pragma
+FileETag None
+Header unset ETag
+Header set Vary Accept-Encoding
+
+# no-www.org/faq.php?q=class_b
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+# allow access from all domains for webfonts
+<FilesMatch "\.(ttf|otf|eot|woff|font.css)$">
+	<IfModule mod_headers.c>
+		Header set Access-Control-Allow-Origin "sparanoid.com"
+	</IfModule>
+</FilesMatch>
+
+# webfonts
+AddType application/vnd.ms-fontobject eot
+AddType font/ttf                      ttf
+AddType font/otf                      otf
+AddType font/x-woff                   woff
+AddType image/svg+xml                 svg svgz 
+
+# video
+AddType video/ogg ogg ogv
+AddType video/mp4 mp4
+
+# HTML5 cache
+# AddType text/cache-manifest manifest
+
+# gzip compression.
+<IfModule mod_deflate.c>
+	# html, xml, css, and js:
+	AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css application/x-javascript text/javascript application/javascript application/json 
+	
+	# webfonts and svg:
+	<FilesMatch "\.(ttf|otf|woff|eot|svg|svgz)$" >
+		SetOutputFilter DEFLATE
+	</FilesMatch>
+</IfModule>
+
+# global expires header
+<IfModule mod_expires.c>
+	ExpiresActive On
+	ExpiresDefault "access plus 10 years"
+</IfModule>
+
+# 10 years
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf|tff|otf|svg|svgz|eot)$">
+	Header set Cache-Control "max-age=315360000"
+</FilesMatch>
+
+# 2 days
+<FilesMatch "\.(html|htm|xml|txt)$">
+	Header set Cache-Control "max-age=172800, must-revalidate"
+</FilesMatch>
+
 ErrorDocument 404 /404.html
 
 # Rewrite any calls to *.html, *.json, *.xml, *.atom, *.rss, *.rdf or *.txt if a folder matching * exists

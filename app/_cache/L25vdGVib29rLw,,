@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html dir=ltr lang=en-US>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name=HandheldFriendly content=True>
+
+<title>Notebook |  Sparanoid</title>
+
+<link rel=stylesheet media=all href="../public/docs/css/desktop.css" type=text/css>
+<link rel=alternate type=application/atom+xml title="Atom - All Posts" href="../feed/">
+
+
+
+<!--[if lt IE 9]>
+<script>(function(){if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,bb,canvas,datagrid,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(',');for(var i=0;i<e.length;i++){document.createElement(e[i])}})()</script>
+<![endif]-->
+</head>
+
+<body >
+<!--section style="text-align:center; background:#fffeeb; font-size:0.75em;">
+	<p>This new theme is still under constructions.</p>
+</section-->
+
+<header id=top-logo>
+<h1 id=site-title>
+	<a href="../" title="Sparanoid [x]" rel=home accesskey=x>Sparanoid</a>
+</h1>
+</header>
+
+
+<header id=pages>
+	<div class=pages>
+	<ul>
+		<li><a href="../">Home</a></li>
+					<li>
+				<a href="../project/">Projects</a>
+			</li>
+					<li>
+				<a href="../artwork/">Artworks</a>
+			</li>
+					<li>
+				<a href="../notebook/">Notebook</a>
+			</li>
+					<li>
+				<a href="../news/">News</a>
+			</li>
+					<li>
+				<a href="../archive/">Archives</a>
+			</li>
+					<li>
+				<a href="../about/">About</a>
+			</li>
+		
+	</ul>
+	</div>
+</header>
+
+
+<section id=decoration-wrap>
+<section id=decoration>
+<p>Notebook</p>
+</section>
+</section>
+
+
+<section id=wrap>
+<!-- This is a wrap for this theme, limiting the width except the navigation, end in footer.html -->
+
+<article>
+	<header class=entry-title>
+		<h1>Notebook</h1>
+		<section class=entry-meta>
+			<p>Tunghsiao's notebook</p>
+		</section>
+	</header>
+
+	<section class=entry-content>
+	<section>
+					<ul class=archive-excerpt>
+									<li>
+						<a href="../notebook/igoogle-theme-somilody-2/" rel=bookmark title="My First iGoogle Theme: Somilody 2">My First iGoogle Theme: Somilody 2</a>
+						<p>An iGoogle theme</p>
+
+					</li>
+									<li>
+						<a href="../notebook/logging-cwow-with-us-client/" rel=bookmark title="Logging Chinese WoW with US Client">Logging Chinese WoW with US Client</a>
+						<p>An article about how to use an US World of Warcraft client to login Chinese servers</p>
+
+					</li>
+				
+			</ul>
+		
+	</section>
+	</section>
+</article>
+
+<section class=shortener>
+	<section class=fleuron>&#10086;</section><input type=text id=short-url-notebook readonly=readonly title="Short URL for this post" onclick="SelectShortURL('short-url-notebook');" value="http://ѕ.ws/sparanoid">
+	<a href="http://twitter.com/share?url=notebook/&amp;via=sparanoid&amp;text=Notebook>&amp;related=sparanoid&amp;lang=en&amp;count=none&amp;counturl=notebook/" class="twitter-share-button" target="_blank">Tweet!</a>
+</section>
+
+
+<!-- 
+Make this hook a single file in order to avoid repeating within the wordpress query post. 
+Have to add this script manually here because no footer and footer hock here. 
+-->
+<script>
+function SelectShortURL(id) {
+    document.getElementById(id).focus();
+    document.getElementById(id).select();
+}
+</script>
+
+
+<footer>
+	<a href="#footer" id=footer accesskey=b class=hide-this-shortcut-for-print-style></a>
+	<section id=search-form>
+	<form action=http://www.google.com/cse id=cse-search-box>
+			<input type=hidden name=cx value=012621050422714259885:jabcs0nmacy>
+			<input type=hidden name=ie value=utf-8>
+			<input type=search name=q size=16 placeholder="search">
+			<!--input type=submit name=sa value=Search-->
+	</form>
+	</section>
+
+	<p id=footer-meta>
+		<a href="../feed/" title="Atom (The Atom Syndication Format)">(Atom) Feed</a> - 
+		<a href="../about/#license" title="Contents licensed under a Creative Commons License (Attribution-NonCommercial-NoDerivs 3.0 Unported" rel=license>by-nc-nd</a> - 
+		<a href="#" title="Back to top [t]" accesskey=t>top</a>
+	</p>
+
+	<p class=footer-printable>
+		<a href="../" title="Sparanoid" rel=home>Sparanoid</a>
+		<a href="http://sparanoid.com/project/lindsay-koinaka/" class=lindsayisgod title="lindsay-koinaka - built with WordPress without love and hope.">&#9829; lindsay wu</a>
+	</p>
+</footer>
+
+</section>
+<!-- #wrap -->
+
+</body>
+</html>
+
+
+<!-- Stacey(2.2.1): 7daaa0cad7be98f4c1989fcd153d5884 -->

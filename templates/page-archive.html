@@ -1,0 +1,40 @@
+:html-head
+
+:navigation
+
+:decoration
+
+<section id=wrap>
+<!-- This is a wrap for this theme, limiting the width except the navigation, end in footer.html -->
+
+<article>
+	<header class=entry-title>
+		<h1>@title</h1>
+		<section class=entry-meta>
+			<p>@page_description</p>
+		</section>
+	</header>
+
+	<section class=entry-content>
+	<section>
+	foreach $root do
+		if $children do
+			<ul class=archive-excerpt>
+				foreach $children do
+					<li>
+						<a href="@url" rel=bookmark title="@title">@title</a>
+						@excerpt
+					</li>
+				endforeach
+			</ul>
+		endif
+	endforeach
+	</section>
+	</section>
+</article>
+
+:shortener
+
+:shortener-hook
+
+:footer
