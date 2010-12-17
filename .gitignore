@@ -28,3 +28,5 @@ section-sponsor.php
 # for stacey only
 ~*
 app/_cache/*
+favicon.ico
+
