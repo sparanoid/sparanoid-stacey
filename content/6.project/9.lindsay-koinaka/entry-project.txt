@@ -11,7 +11,7 @@ latest:
 excerpt: A WordPress theme, now it's on Stacey
 -
 content:
-<p class="note">Now lindsay-koinaka has two versions: one for WordPress and another for <a href="http://staceyapp.com/">Stacey</a>, check in download boxes below</p>
+<p class="note">Now lindsay-koinaka has two versions: one for WordPress and another for <a href="http://staceyapp.com/">Stacey</a>, check out the download boxes below</p>
 
 <p><a href="//sparanoid.com/about/"><img src="http://static.sparanoid.com/lindsay-koinaka-3.png" alt="lindsay-koinaka 3.0" /></a></p>
 
