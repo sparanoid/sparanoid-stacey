@@ -1,4 +1,2 @@
-page_description: A collection of Ñame's graphic design work
--
-title: Sparanoid
+front_page: yes
 -

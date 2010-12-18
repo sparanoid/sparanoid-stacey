@@ -96,9 +96,7 @@ a {
 }
 
 a:hover,
-.current-tag,
-.current-cat a,
-.current_page_item a {
+.current a {
 	color: rgba(255, 93, 38, 1);
 }
 
@@ -213,9 +211,7 @@ abbr[title], dfn[title] {border-bottom: 1px dotted; cursor: help;}
 }
 
 .dark a:hover,
-.dark .current-tag,
-.dark .current-cat a,
-.dark .current_page_item a {
+.dark .current a {
 	color: rgba(255, 180, 0, 1);
 }
 
@@ -296,22 +292,12 @@ abbr[title], dfn[title] {border-bottom: 1px dotted; cursor: help;}
 /* P.S. Still some font-family coded outside this group */
 
 body {
+	/* en / en alternate / ja / zh / zh alternate (windows) / fallback */
 	font: normal normal normal 100%/1 Titillium, Verdana, 'Hiragino Sans GB', STHeiti, 'Microsoft JhengHei', sans-serif;
 	-moz-font-feature-settings: "liga=1,dlig=1,hlig=1,calt=1,frac=1,salt=1,swsh=1,cswh=1";
 	     font-feature-settings: "liga=1,dlig=1,hlig=1,calt=1,frac=1,salt=1,swsh=1,cswh=1";
 	-webkit-font-smoothing: antialiased;
 	text-rendering: geometricPrecision;
-}
-
-.entry-content, .entry-content p, .entry-content li {
-/* 	font-family: Calluna, Constantia, Georgia, 'Droid Serif', 'Hiragino Sans GB', STHeiti, 'Microsoft JhengHei', serif; */
-}
-
-h1, h2, h3, h4, h5, h6, 
-#pages, 
-.entry-meta, .entry-content .note, .entry-content .download, .entry-content .continue-reading, .archive-tag-cloud li a, .archive-date-list li a, .have-post, .no-post {
-	/* this avoiding overiding by .entry-content class */
-/* 	font-family: Titillium, 'Helvetica Neue', Helvetica, Arial, 'Myriad Pro', 'Hiragino Sans GB', STHeiti, 'Microsoft JhengHei', sans-serif; */
 }
 
 code, pre, input {
@@ -351,7 +337,6 @@ footer,
 .archive-title,
 .yoggrtad-wrap,
 .read-through-nav,
-.goodies-title>span,
 #post-nav>section {
 	max-width: 1200px;
 	padding: 0 4%;
@@ -633,23 +618,6 @@ a.continue-reading:hover {
 
 
 /* @group Post Extra (single.php) */
-/*
-.goodies-title {
-	padding: 1.5em 4%;
-	background: rgba(0, 0, 0, 0.04);
-}
-*/
-
-.goodies-title {
-/* 	margin-bottom: 3em; */
-	padding: 1.5em 0;
-	background: rgba(0, 0, 0, 0.03);
-}
-
-.goodies-title>span {
-	display: block;
-}
-
 #post-nav {
 	/* .entry-extra just below the post-content */
 	font-size: 0.875em;
@@ -746,10 +714,11 @@ a.continue-reading:hover {
 	padding-bottom: 5em;
 	margin: 0 auto;
 	height: 90px;
+	opacity: 0.5;
 }
 
-.yoggrtad-wrap:hover .yoggrttext a, .adby:hover a {
-	color: black;
+.yoggrtad-wrap:hover{
+	opacity: 1;
 }
 
 .yoggrtad {
@@ -771,10 +740,6 @@ a.continue-reading:hover {
 	display: block;
 }
 
-.yoggrttext, .yoggrttext a {
-	color: grey;
-}
-
 .yoggrttext:before {
 	content: "\201C";
 	font-weight: normal;
@@ -787,12 +752,7 @@ a.continue-reading:hover {
 
 .adby {
 	display: inline-block;
-	font-size: 0.7em;
-}
-
-.adby a {
-	color: #bbb;
-	font-family: Arial, sans-serif;
+	font-size: 0.8em;
 }
 
 /* @end */
@@ -964,7 +924,7 @@ p.self-intro {
 }
 
 input[type="search"] {
-	font-size: 1.2em;
+	font-size: 1.1em;
 	float: right;
 	outline: none;
 	padding: 0.3em 0.5em;
@@ -980,7 +940,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 footer {
-	font-size: 0.625em;
+	font-size: 0.8125em;
+/* 	font-size: 0.625em; */
 	padding-bottom: 8em;
 	line-height: 1.2em;
 	text-transform: uppercase; 
@@ -1010,17 +971,17 @@ footer #search-form {
 	body {font-size: 95%;}
 	.archive-date-list {-webkit-column-count: 0; -moz-column-count: 0; column-count: 0;}
 	.entry-content section {-webkit-column-count: 1; -moz-column-count: 1; column-count: 1;}
+	.yoggrttext, .adby {display: inline;}
 }
 
 @media screen and (max-width: 600px) {
 	body {font-size: 80%;}
-	.yoggrtad {float: none; text-align: left;}
 }
 
 @media screen and (max-width: 480px) {
 	/* a really small screen for debugging */
 	.pages ul li {padding: 0 0.5em;}
-	.archive-list {list-style-position: inside !important;}
+	.archive-list, .entry-content ul {list-style-position: inside !important;}
 	.archive-list li time {float: none;}
 	.archive-list li time:before {content: " - ";}
 	.nav-next {max-width: 100%; float: none; text-align: left; margin-top: 1.5em;}
@@ -1028,12 +989,13 @@ footer #search-form {
 	.nav-previous:after {content: "";}
 	.nav-previous:before {content: "Previous Entry - ";}
 	.nav-next:before {content: "Next Entry - ";}
+	.yoggrttext {font-size: 1em;}
 }
 
 @media screen and (max-device-width: 480px) {
 	body {-webkit-text-size-adjust: none; /* fix font-size on iphone */}
 	.pages ul li {padding: 0 0.5em;}
-	.archive-list {list-style-position: inside !important;}
+	.archive-list, .entry-content ul {list-style-position: inside !important;}
 	.archive-list li time {float: none;}
 	.archive-list li time:before {content: " - ";}
 }

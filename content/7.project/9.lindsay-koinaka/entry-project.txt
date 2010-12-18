@@ -8,7 +8,7 @@ short-url: egX5Jn
 -
 latest: 
 -
-excerpt: lindsay-koinaka ver. 3.0, used to be a WordPress theme, now it's on Stacey
+excerpt: A WordPress theme, now it's on Stacey
 -
 content:
 <p class="note">Now lindsay-koinaka has two versions: one for WordPress and another for <a href="http://staceyapp.com/">Stacey</a>, check in download boxes below</p>

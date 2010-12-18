@@ -1,9 +1,3 @@
-RewriteEngine on
-
-# Some hosts require a rewritebase rule, if so, uncomment the RewriteBase line below. If you are running from a subdirectory, your rewritebase should match the name of the path to where stacey is stored.
-# ie. if in a folder named 'stacey', RewriteBase /stacey
-#RewriteBase /
-
 Options -Indexes
 Header unset Pragma
 FileETag None
@@ -87,6 +81,12 @@ Redirect 301 /project/angel-beats-girls-dead-monster-logo						/project/angel-be
 Redirect 301 /project/lucky-star-skin-qq-sogou-pinyin							/project/lucky-star-ime-theme
 
 # BEGIN Stacey
+RewriteEngine on
+
+# Some hosts require a rewritebase rule, if so, uncomment the RewriteBase line below. If you are running from a subdirectory, your rewritebase should match the name of the path to where stacey is stored.
+# ie. if in a folder named 'stacey', RewriteBase /stacey
+#RewriteBase /
+
 # Rewrite any calls to *.html, *.json, *.xml, *.atom, *.rss, *.rdf or *.txt if a folder matching * exists
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_URI} !public/

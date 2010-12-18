@@ -8,7 +8,7 @@ short-url: fSfbfM
 -
 latest: 
 -
-excerpt: I true-type font used for my old WordPress theme
+excerpt: A true-type font used for my old WordPress theme
 -
 content:
 <p><img src="http://static.sparanoid.com/work/font-zomnk_large.png" alt="Font 'Zomnk'" /></p>

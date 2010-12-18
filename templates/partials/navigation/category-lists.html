@@ -6,7 +6,7 @@ get "/project" do
 			foreach $children do
 				<li>
 					<a href="@url" rel=bookmark title="@title">@title</a>
-						@excerpt
+						<p>@excerpt</p>
 				</li>
 			endforeach
 		</ul>

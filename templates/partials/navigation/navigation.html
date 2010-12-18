@@ -1,9 +1,9 @@
 <header id=pages>
 	<div class=pages>
 	<ul>
-		<li><a href="@root_path">Home</a></li>
+		<li if @front_page do class=current endif><a href="@root_path">Home</a></li>
 		foreach $root do
-			<li>
+			<li if @is_current do class=current endif>
 				<a href="@url">@title</a>
 			</li>
 		endforeach

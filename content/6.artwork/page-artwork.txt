@@ -2,4 +2,4 @@ title: Artworks
 -
 short-url: h6cKCu
 -
-page_description: A collection of Tunghsiao's hand-drawn / computer-drawn / freehand works
+page_description: A collection of hand-drawn / computer-drawn / freehand works

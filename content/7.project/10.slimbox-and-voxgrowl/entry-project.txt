@@ -1,4 +1,4 @@
-title: SlimBox & VoxGrowl: The Missing Growl Styles for Mac
+title: SlimBox & VoxGrowl
 -
 date: 5 Dec 2010
 -
@@ -8,7 +8,7 @@ short-url: fpVYsn
 -
 latest: yes
 -
-excerpt: Two Growl Styles for Mac OS X. Slimbox is used for normal notifications. VoxGrowl is used for Vox music player.
+excerpt: The missing Growl styles for Mac OS X
 -
 content:
 <p><img src="http://static.sparanoid.com/slimbox-voxgrowl.png" alt="VoxGrowl - Just Another Growl Styles for Vox"></p>

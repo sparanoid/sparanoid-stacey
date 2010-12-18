@@ -2,4 +2,4 @@ title: Projects
 -
 short-url: fHNNHB
 -
-page_description: A collection of Tunghsiao's design work and project
+page_description: A collection of design works and projects
