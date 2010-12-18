@@ -4,25 +4,24 @@ lindsay-loinaka (Stacey Version)
 A [Stacey][st] theme for sparanoid.com, Codename lindsay-koinaka, version 14. Looking for WordPress version? Go [here][lk].
 
 
-How to Setup (Short ver.)
--------------------------
+Installation
+------------
 
-1. Download and upload the theme to your `wp-content/themes/`.
+1. For basic installation of Stacey, go [here][st].
 
 
 More Setup / Tweaking / Things You Should Know
 ----------------------------------------------
 
-1. For basic installation of Stacey, go [here][st].
-2. A list of files you can modify:
+1. A list of files you can modify:
     1. [`_shared.txt`][f13] - Change default settings to yours.
     2. [`latest.html`][f14] - Choose which post to display on index in this file.
     3. [`footer.html`][f11] - you can delete this if you don't know who is lindsay wu.
 	4. [`sponsor.html`][f12] - Used for my own ad sponsor. Delete it or just modify it to yours.
     5. There're some page templates in the package names that begin with `page-`. You can modify them.
-3. By default, the 'About' page is using a dark color version, based on what `persona` string you define to it, change it in *.txt and add your own styles
-4. You'd better upload your image with min-with 1200px, if it must be smaller, apply a `class=center` on `img` tag.
-5. For Chinese users:
+2. By default, the 'About' page is using a dark color version, based on what `persona` string you define to it, change it in *.txt and add your own styles
+3. You'd better upload your image with min-with 1200px, if it must be smaller, apply a `class=center` on `img` tag.
+4. For Chinese users:
     1. `#decoration` 如果出現中文字符會非常的醜陋，解決方案：
         1. 訪問 webfonts.fonts.com 並申請帳號，其中有可供嵌入的中文字型，例如 `M Banquet Simplified Chinese™ Medium`。
         2. 不使用中文標題。
