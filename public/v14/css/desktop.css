@@ -29,20 +29,20 @@ a.twitter-share-button:active,a.continue-reading:active{background:#a03226;}
 ins,mark{background-color:rgba(255, 255, 0, 0.3);}
 del{text-decoration:line-through;}
 abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help;}
-.dark,.dark input{color:#ff5d26;background:#222222;}
+.dark,.dark input{color:#ff5d26;background:#141414;}
 .dark a{color:#ff8600;}
 .dark a:hover,.dark .current a{color:#ffb400;}
 .dark .entry-content a{color:#ff8300;}
 .dark .entry-content a:hover{color:#ffb400;}
 .dark li,.dark blockquote,.dark #post-nav{color:rgba(255, 93, 38, 0.6);}
-.dark h1,.dark h2,.dark h3,.dark h4,.dark h5,.dark h6,.dark .self-intro{text-shadow:#222222 0 0 20px;}
+.dark h1,.dark h2,.dark h3,.dark h4,.dark h5,.dark h6,.dark .self-intro{text-shadow:#141414 0 0 20px;}
 .dark code,.dark pre{color:rgba(0, 0, 102, 0.75);background-color:#00ffff;}
 .dark abbr{border-color:rgba(255, 93, 38, 0.3);}
 .dark input[type="search"]{border:rgba(255, 93, 38, 0.5) 1px solid;background:rgba(255, 93, 38, 0.1);}
 .dark input[type="search"]:focus{-webkit-box-shadow:0 0 10px rgba(255, 134, 0, 0.3);-moz-box-shadow:0 0 10px rgba(255, 134, 0, 0.3);box-shadow:0 0 10px rgba(255, 134, 0, 0.3);}
-.dark #decoration-wrap{background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255, 124, 8, 0.4)), color-stop(35%, rgba(0, 0, 0, 0)), color-stop(100%, rgba(0, 0, 0, 0)));background:-moz-linear-gradient(top, rgba(255, 124, 8, 0.4) 0%, rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 0) 100%);}
+.dark #decoration-wrap{background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255, 124, 8, 0.4)), color-stop(35%, rgba(20, 20, 20, 0)), color-stop(100%, rgba(20, 20, 20, 0)));background:-moz-linear-gradient(top, rgba(255, 124, 8, 0.4) 0%, rgba(20, 20, 20, 0) 35%, rgba(20, 20, 20, 0) 100%);}
 .dark .note,.dark .download,.dark .note a,.dark .download a,.dark .note a:hover,.dark .download a:hover{color:#ffffff;}
-.dark a.twitter-share-button,.dark a.continue-reading{color:#222222;background:#ff5d26;}
+.dark a.twitter-share-button,.dark a.continue-reading{color:#141414;background:#ff5d26;}
 .dark a.twitter-share-button:hover,.dark a.continue-reading:hover{color:#000000;background:#ff8600;}
 .dark a.twitter-share-button:active,.dark a.continue-reading:active{background:#d54e20;}
 body{font:normal normal normal 100%/1 Titillium,Verdana,'Hiragino Sans GB',STHeiti,'Microsoft JhengHei',sans-serif;-moz-font-feature-settings:"liga=1,dlig=1,hlig=1,calt=1,frac=1,salt=1,swsh=1,cswh=1";font-feature-settings:"liga=1,dlig=1,hlig=1,calt=1,frac=1,salt=1,swsh=1,cswh=1";-webkit-font-smoothing:antialiased;text-rendering:geometricPrecision;}

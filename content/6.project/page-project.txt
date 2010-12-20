@@ -1,4 +1,4 @@
-title: Projects
+title: Project
 -
 short-url: fHNNHB
 -

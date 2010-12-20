@@ -1,4 +1,4 @@
-title: Artworks
+title: Artwork
 -
 short-url: h6cKCu
 -
