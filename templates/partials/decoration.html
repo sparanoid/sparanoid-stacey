@@ -4,8 +4,13 @@
 			if @front_page do
 				@profession
 			endif
+			if @about_page do
+				@full-name
+			endif
 			if !@front_page do
-				@title
+				if !@about_page do
+					@title
+				endif
 			endif
 		</p>
 	</section>

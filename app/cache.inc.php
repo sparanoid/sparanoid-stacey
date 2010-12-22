@@ -7,9 +7,9 @@ Class Cache {
   var $hash;
   var $comment_tags = array('<!--', '-->');
 
-  function __construct($template_file) {
+  function __construct($file_path, $template_file) {
     # turn a base64 of the current route into the name of the cache file
-    $this->cachefile = './app/_cache/'.$this->base64_url($_SERVER['REQUEST_URI']);
+    $this->cachefile = './app/_cache/'.$this->base64_url($file_path);
     # collect an md5 of all files
     $this->hash = $this->create_hash();
     # if we're serving JSON or CSS, use appropriate comment tags
