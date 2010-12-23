@@ -10,7 +10,7 @@
 <generator uri="http://staceyapp.com/" version="@stacey_version">Stacey</generator>
 
 <author>
-	<name>@name</name>
+	<name>@full-name</name>
 	<uri>http://@base_url</uri>
 </author>
 

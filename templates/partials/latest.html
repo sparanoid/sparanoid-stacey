@@ -1,7 +1,7 @@
 <article id=home-sticky>
 	get "/project/slimbox-and-voxgrowl" do
 	<hgroup class=entry-title>
-		<h1><a href="@url" title="@title" rel=bookmark>@title</a> if @timestamp do <time pubdate datetime="@timestamp">@date</time>endif</h1>
+		<h1><a href="@url" rel=bookmark>@title</a> if @timestamp do <time pubdate datetime="@timestamp">@date</time>endif</h1>
 		if @excerpt do
 		<h2 class=entry-meta>@excerpt</h2>
 		endif
