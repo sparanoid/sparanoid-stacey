@@ -8,7 +8,7 @@ short-url: ihwiJv
 -
 latest: 
 -
-excerpt: 7-Zip 正體中文語言文件修訂工程
+excerpt: 7-Zip 簡體中文語言文件修訂工程
 -
 content:
 <p class="note">今後的語言文件修訂工作將在 <a href="http://code.google.com/p/7-zip/">Google Code</a> 上進行</p>

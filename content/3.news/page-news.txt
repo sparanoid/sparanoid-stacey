@@ -1,5 +1,0 @@
-title: News
--
-short-url: iflEKZ
--
-page_description: News updates about this site and me

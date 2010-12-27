@@ -48,6 +48,7 @@ AddType video/mp4                     mp4
 # 10 years
 <FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf|tff|otf|svg|svgz|eot)$">
 	Header set Cache-Control "max-age=315360000"
+	Header unset Last-Modified
 </FilesMatch>
 
 # 1 year

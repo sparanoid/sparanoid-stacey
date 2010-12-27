@@ -623,33 +623,32 @@ a.continue-reading:hover {
 	font-size: 0.875em;
 	margin-bottom: 5em;
 	padding: 3em 0;
-/* 	opacity: 0.4; */
 	background: rgba(0, 0, 0, 0.04);
 	overflow: auto;
 }
 
 #post-nav:hover {
-/* 	opacity: 1; */
-	background: rgba(0, 0, 0, 0.06);
+	/* this is buggy in dark mode in all css3 browsers */
+/* 	background: rgba(0, 0, 0, 0.08); */
 }
 
-.nav-previous {
+.nav-next {
 	float: left;
 	max-width: 45%;
 }
 
-.nav-previous:after {
-	content: " - Newer Entry";
+.nav-next:before {
+	content: "Older Entry - ";
 }
 
-.nav-next {
+.nav-previous {
 	float: right;
 	max-width: 45%;
 	text-align: right;
 }
 
-.nav-next:before {
-	content: "Older Entry - ";
+.nav-previous:after {
+	content: " - Newer Entry";
 }
 
 .gist .gist-file .gist-meta {

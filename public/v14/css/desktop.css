@@ -99,11 +99,11 @@ code,pre,input[type="search"],.note,.download,.continue-reading{border-radius:0.
 a.continue-reading,a.continue-reading:hover{text-shadow:none;text-decoration:none;}
 .entry-content code>em{font-style:normal;}
 #post-nav{font-size:0.875em;margin-bottom:5em;padding:3em 0;background:rgba(0, 0, 0, 0.04);overflow:auto;}
-#post-nav:hover{background:rgba(0, 0, 0, 0.06);}
-.nav-previous{float:left;max-width:45%;}
-.nav-previous:after{content:" - Newer Entry";}
-.nav-next{float:right;max-width:45%;text-align:right;}
+#post-nav:hover{}
+.nav-next{float:left;max-width:45%;}
 .nav-next:before{content:"Older Entry - ";}
+.nav-previous{float:right;max-width:45%;text-align:right;}
+.nav-previous:after{content:" - Newer Entry";}
 .gist .gist-file .gist-meta{font-size:11px !important;}
 .shortener{font-size:0.8em;padding-bottom:5em;opacity:0.4;}
 .shortener:hover{opacity:1;}

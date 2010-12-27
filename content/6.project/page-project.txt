@@ -1,5 +1,0 @@
-title: Project
--
-short-url: fHNNHB
--
-page_description: A collection of design works and projects

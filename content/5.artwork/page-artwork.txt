@@ -1,5 +1,0 @@
-title: Artwork
--
-short-url: h6cKCu
--
-page_description: A collection of hand-drawn / computer-drawn / freehand works
