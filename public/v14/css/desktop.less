@@ -331,12 +331,9 @@ h6, .h6 {font-size: 1;}
 footer,
 .entry-title,
 .entry-content,
-.page-content,
 .pages,
 .shortener,
-.archive-title,
 .yoggrtad-wrap,
-.read-through-nav,
 #post-nav>section {
 	max-width: 1200px;
 	padding: 0 4%;
@@ -783,51 +780,6 @@ a.continue-reading:hover {
 
 /* @group Archive & Pages (archive.php & pages.php) */
 
-.cat-item {
-	/* for category links */
-	font-size: 0.875em;
-}
-
-.archive-tag-cloud {
-	/* the same as 'Read through' intro */
-	margin-top: 0.5em;
-	/* use margin-bottom instead of padding-bottom because of .archive-excerpt */
-	margin-bottom: 3em;
-}
-
-.archive-tag-cloud li {
-	display: inline-block;
-	padding: 0 0.8em 0 0;
-	line-height: 1.4;
-}
-
-.archive-date-list {
-/*	margin: 3.875em auto;*/
-	margin-top: 1em;
-	padding-bottom: 3em;
-	/* set bottom to 0 because this is the end of nav-list, nav-list has its own bottom align */
-	-webkit-column-count: 3;
-	  -webkit-column-gap: 0;
-	   -moz-column-count: 3;
-	     -moz-column-gap: 0;
-	        column-count: 3;
-	          column-gap: 0;
-}
-
-.archive-date-list ul {
-	list-style: none;
-}
-
-.archive-date-list a, .no-post {
-	font-size: 1em;
-	padding: 0 0.4em 0 0;
-}
-
-.archive-date-list li {
-/*	margin: 1em 0;*/
-	line-height: 1.5;
-}
-
 .archive-excerpt {
 	font-size: 1.6em;
 	list-style: none;
@@ -847,33 +799,6 @@ a.continue-reading:hover {
 	font-size: 0.68em;
 }
 
-.archive-list {
-	font-size: 1em;
-	margin-top: 1em;
-	list-style: decimal outside;
-}
-
-.archive-list time {
-	float: right;
-}
-
-#archive-page-nav {
-	font-size: 0.625em;
-/*	margin: 3.5em 0;*/
-}
-
-.page-archive {
-	/* add space between 'Read Through' title and posts list */
-	margin-top: 5em;
-}
-
-.read-through-nav {
-/*	text-align: center;*/
-	margin-bottom: 3em;
-	text-transform: uppercase;
-	font-size: 0.65em;
-}
-
 p.self-intro, p.self-intro abbr {
 	font-family: Titillium, sans-serif;
 }
@@ -890,37 +815,12 @@ p.self-intro {
 	column-span: all;
 }
 
-.a-post {
-	/* used for Read Though page */
-	padding-bottom: 30em;
-}
-
 /* @end */
 
 
 
 
 /* @group Footer */
-
-#infscr-loading {
-	z-index: 9999;
-	padding: 1em 0 0.875em 0;
-	font-size: 0.875em;
-	text-align: center;
-	position: fixed;
-	left: 0;
-	bottom: 0;
-	width: 100%;
-	text-transform: uppercase;
-	color: white;
-	background-color: black; 
-	opacity: 0.3;
-	cursor: default;
-	-webkit-user-select: none;
-	   -moz-user-select: none; 
-	        user-select: none;
-	
-}
 
 input[type="search"] {
 	font-size: 1.1em;
@@ -963,12 +863,10 @@ footer #search-form {
 /* @group Handhelds & Print */
 
 @media screen and (max-width: 1260px) {
-	.archive-date-list {-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;}
 }
 
 @media screen and (max-width: 800px) {
 	body {font-size: 95%;}
-	.archive-date-list {-webkit-column-count: 0; -moz-column-count: 0; column-count: 0;}
 	.entry-content section {-webkit-column-count: 1; -moz-column-count: 1; column-count: 1;}
 	.yoggrttext, .adby {display: inline;}
 }
@@ -980,9 +878,7 @@ footer #search-form {
 @media screen and (max-width: 480px) {
 	/* a really small screen for debugging */
 	.pages ul li {padding: 0 0.5em;}
-	.archive-list, .entry-content ul {list-style-position: inside !important;}
-	.archive-list li time {float: none;}
-	.archive-list li time:before {content: " - ";}
+	.entry-content ul {list-style-position: inside !important;}
 	.nav-next {max-width: 100%; float: none; text-align: left; margin-top: 1.5em;}
 	.nav-previous {max-width: 100%; float: none;}
 	.nav-previous:after {content: "";}
@@ -994,9 +890,6 @@ footer #search-form {
 @media screen and (max-device-width: 480px) {
 	body {-webkit-text-size-adjust: none; /* fix font-size on iphone */}
 	.pages ul li {padding: 0 0.5em;}
-	.archive-list, .entry-content ul {list-style-position: inside !important;}
-	.archive-list li time {float: none;}
-	.archive-list li time:before {content: " - ";}
 }
 
 @media screen and (max-device-width: 320px) {
@@ -1022,7 +915,7 @@ footer #search-form {
 	p, h2, h3 {widows: 3; orphans: 3;}
 	h2, h3{page-break-after: avoid;}
 	#wrap {margin-top: 3em;}
-	#search-form, #pages, #post-nav, #footer-meta, .entry-meta, .yoggrtad-wrap, .continue-reading, .archive-tag-cloud, .entry-extra, .hide-this-shortcut-for-print-style {display: none !important;}
+	#search-form, #pages, #post-nav, #footer-meta, .entry-meta, .yoggrtad-wrap, .continue-reading, .entry-extra, .hide-this-shortcut-for-print-style {display: none !important;}
 	.entry-content a, .entry-content a:visited {text-decoration: none !important; font-weight: bold !important;}
 	.entry-content img, .entry-content p img {width: 100% !important; margin: 0 !important;}
 	.entry-content .note, .entry-content .download {margin: 0 !important; padding: 0 !important;}
