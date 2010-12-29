@@ -1,24 +1,137 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
-	"http://www.w3.org/TR/html4/strict.dtd">
-<html>
-	<head>
-		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-		<title>Page not found (404)</title>
-		<meta name="description" content="">
-		<style type="text/css" media="screen">
-			body { font-family: "Times New Roman", "Times", times, sans-serif; text-align: center; }
-			h1 { margin: 35px 0px 6px 0px; text-decoration: underline; }
-			h2 { margin: 6px 0px; }
-			p { margin: 6px 0px; }
-			a { color: #000; text-decoration: none; border-bottom: 1px solid #999; }
-		</style>
-	</head>
-	<body>
-		<div id="container">
-			<h1>404</h1>
-			<h2>Page could not be found.</h2>
-			<p>Unfortunately, the page you were looking for does not exist here.</p>
-			<p><a href="/">&larr; Index</a></p>
-		</div>
-	</body>
+<!DOCTYPE html>
+<html dir=ltr lang=en-US>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name=HandheldFriendly content=True>
+
+<title>ERROR 404: Page Not Found | Sparanoid</title>
+
+<link rel=alternate type=application/atom+xml title="Atom - All Posts" href="/feed/">
+
+<style type=text/css media=screen>
+/* You say asterisk sucks? I say no. */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font: normal normal normal 14px/1.5 'Helvetica', 'Hiragino Sans GB', 'Microsoft JhengHei', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: geometricPrecision;
+	padding: 10% 5%;
+	color: black;
+	background: white;
+}
+
+div {
+	max-width: 660px;
+	margin: 0 auto;
+}
+
+section {
+	margin-top: 30px;
+}
+
+h1 {
+	display: none;
+}
+
+h2 {
+	height: 56px;
+	max-width: 660px;
+	text-indent: -9999px;
+	margin-bottom: 20px;
+	background: url(data:image/png;base64,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) no-repeat left top;
+	background-size: 100%;
+}
+
+a {
+	color: white;
+	background: black;
+	text-decoration: none;
+	padding: 4px 12px;
+	border-radius: 4px;
+}
+
+a:hover {
+	background: rgba(255, 93, 38, 1);
+}
+
+
+input {
+	font-size: 90%;
+	float: right;
+	outline: none;
+	padding: 0.3em 0.5em;
+	border-radius: 0.3em;
+	border: rgba(0, 0, 0, 0.3) 1px solid;
+	background: rgba(255, 255, 255, 1);
+/*	-webkit-appearance: searchfield;*/
+	-webkit-appearance: none;
+}
+
+input:focus {
+	-webkit-box-shadow: 0 0 10px rgba(255, 134, 0, 0.3);
+	   -moz-box-shadow: 0 0 10px rgba(255, 134, 0, 0.3);
+	        box-shadow: 0 0 10px rgba(255, 134, 0, 0.3);
+}
+
+input::-webkit-search-decoration,
+input::-webkit-search-cancel-button,
+input::-webkit-search-results-button,
+input::-webkit-search-results-decoration {
+	display: none;
+}
+
+a, input {
+	-webkit-transition: -webkit-box-shadow 0.8s ease-in-out, background 0.8s ease-in-out; 
+	   -moz-transition:    -moz-box-shadow 0.8s ease-in-out, background 0.8s ease-in-out; 
+	        transition:         box-shadow 0.8s ease-in-out, background 0.8s ease-in-out; 
+}
+
+a:hover, input:hover {
+	-webkit-transition: -webkit-box-shadow 0.2s ease-in-out, background 0.2s ease-in-out; 
+	   -moz-transition:    -moz-box-shadow 0.2s ease-in-out, background 0.2s ease-in-out; 
+	        transition:         box-shadow 0.2s ease-in-out, background 0.2s ease-in-out; 
+}
+
+::-webkit-input-placeholder {color: rgba(255, 93, 38, 1);}
+:-moz-placeholder {color: rgba(255, 93, 38, 1);}
+::-moz-selection {background: rgba(0, 0, 0, 0.8); color: rgba(0, 255, 255, 1);}
+::selection {background: rgba(0, 0, 0, 0.8); color: rgba(0, 255, 255, 1);}
+
+@media screen and (max-width: 480px) {
+	/* debug only */
+	h2 {height: auto;}
+}
+
+@media screen and (max-device-width: 480px) {
+	body {-webkit-text-size-adjust: none;}
+	h2 {height: auto;}
+}
+</style>
+</head>
+
+<body>
+	<div>
+		<h1>ERROR 404: Page Not Found</h1>
+		<h2>Hide <span>y</span>a kids, hide <span>y</span>o wife.</h2>
+		<p>Unfortunately, the page you were looking for does not exist here.</p>
+		<p>很不幸，您所要找的頁面不存在，或被藏了起來。</p>
+
+		<section>
+			<form action=http://www.google.com/cse id=cse-search-box>
+					<input type=hidden name=cx value=012621050422714259885:jabcs0nmacy>
+					<input type=hidden name=ie value=utf-8>
+					<input type=search name=q size=16 placeholder="search">
+					<!--input type=submit name=sa value=Search-->
+			</form>
+			<p>
+				<a href="/" title="Back to home">&larr;</a>
+			</p>
+		</section>
+	</div>
+</body>
 </html>
