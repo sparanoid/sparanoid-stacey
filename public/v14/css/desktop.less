@@ -203,7 +203,7 @@ abbr[title], dfn[title] {border-bottom: 1px dotted; cursor: help;}
 
 .dark, .dark input {
 	color: rgba(255, 93, 38, 1);
-	background: rgba(20, 20, 20, 1);
+	background: rgba(5, 5, 5, 1);
 }
 
 .dark a {
@@ -230,7 +230,7 @@ abbr[title], dfn[title] {border-bottom: 1px dotted; cursor: help;}
 
 .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6,
 .dark .self-intro {
-	text-shadow: rgba(20, 20, 20, 1) 0 0 20px;
+	text-shadow: rgba(5, 5, 5, 1) 0 0 20px;
 }
 
 .dark code, 
@@ -255,8 +255,8 @@ abbr[title], dfn[title] {border-bottom: 1px dotted; cursor: help;}
 }
 
 .dark #decoration-wrap {
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255, 124, 8, 0.4)), color-stop(35%,rgba(20, 20, 20, 0)), color-stop(100%,rgba(20, 20, 20, 0)));
-	background: -moz-linear-gradient(top, rgba(255, 124, 8, 0.4) 0%, rgba(20, 20, 20, 0) 35%, rgba(20, 20, 20, 0) 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255, 124, 8, 0.4)), color-stop(35%,rgba(5, 5, 5, 0)), color-stop(100%,rgba(5, 5, 5, 0)));
+	background: -moz-linear-gradient(top, rgba(255, 124, 8, 0.4) 0%, rgba(5, 5, 5, 0) 35%, rgba(5, 5, 5, 0) 100%);
 /*	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,0,1)), color-stop(85%,rgba(34,34,34,0)), color-stop(100%,rgba(34,34,34,0)));*/
 /*	-webkit-mask-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(black), to(transparent));*/
 }
@@ -267,7 +267,7 @@ abbr[title], dfn[title] {border-bottom: 1px dotted; cursor: help;}
 
 .dark a.twitter-share-button,
 .dark a.continue-reading {
-	color: rgba(20, 20, 20, 1);
+	color: rgba(5, 5, 5, 1);
 	background: rgba(255, 93, 38, 1);
 }
 
@@ -634,8 +634,8 @@ a.continue-reading:hover {
 	max-width: 45%;
 }
 
-.nav-next:before {
-	content: "Older Entry - ";
+.nav-next:after {
+	content: " - Older Entry";
 }
 
 .nav-previous {
@@ -644,8 +644,8 @@ a.continue-reading:hover {
 	text-align: right;
 }
 
-.nav-previous:after {
-	content: " - Newer Entry";
+.nav-previous:before {
+	content: "Newer Entry - ";
 }
 
 .gist .gist-file .gist-meta {
@@ -880,10 +880,10 @@ footer #search-form {
 	.pages ul li {padding: 0 0.5em;}
 	.entry-content ul {list-style-position: inside !important;}
 	.nav-next {max-width: 100%; float: none; text-align: left; margin-top: 1.5em;}
-	.nav-previous {max-width: 100%; float: none;}
-	.nav-previous:after {content: "";}
-	.nav-previous:before {content: "Previous Entry - ";}
-	.nav-next:before {content: "Next Entry - ";}
+	.nav-next:after {content: " - Older Entry";}
+	.nav-previous {max-width: 100%; float: none; text-align: left;}
+	.nav-previous:before {content: "";}
+	.nav-previous:after {content: " - Newer Entry";}
 	.yoggrttext {font-size: 1em;}
 }
 
