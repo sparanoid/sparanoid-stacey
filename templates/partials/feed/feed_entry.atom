@@ -9,10 +9,10 @@
 	</author>
 	<content type="html" xml:base="http://@base_url/" xml:lang="en">
 		<![CDATA[
-			:feed_images
-			if @content do
-				@content
+			if @excerpt do
+				@excerpt
 			endif
+			... <a href="http://@base_url/@permalink"><small>FULL VERSION</small></a>
 		]]>
 	</content>
 </entry>
