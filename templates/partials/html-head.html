@@ -9,20 +9,12 @@
 
 <link rel=stylesheet media=all href="@root_path/v14/css/desktop.css" type=text/css>
 <link rel=alternate type=application/atom+xml title="Atom - All Posts" href="@root_path/feed/">
-
-if $css do
-	foreach $css do
-		<link rel=stylesheet media=screen href="@url"> 
-	endforeach
-endif
 </head>
 
 <body if @persona do class="@persona" endif>
 
-<!-- :constructions -->
-
 <header id=top-logo>
-<h1 id=site-title>
-	<a href="@root_path" title="@name [x]" rel=home accesskey=x>@name</a>
-</h1>
+	<h1 id=site-title>
+		<a href="@root_path" title="@name [x]" rel=home accesskey=x>@name</a>
+	</h1>
 </header>

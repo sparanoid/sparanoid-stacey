@@ -1,12 +1,12 @@
 <header id=pages>
 	<div class=pages>
-	<ul>
-		<li if @front_page do class=current endif><a href="@root_path">Home</a></li>
-		foreach $root do
+		<ul>
+			<li if @front_page do class=current endif><a href="@root_path">Home</a></li>
+			foreach $root do
 			<li if @is_current do class=current endif>
 				<a href="@url">@title</a>
 			</li>
-		endforeach
-	</ul>
+			endforeach
+		</ul>
 	</div>
 </header>

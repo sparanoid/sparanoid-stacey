@@ -1,17 +1,17 @@
 <section id=decoration-wrap>
 	<section id=decoration>
 		<p>
-			if @front_page do
-				@profession
+		if @front_page do
+			@profession
+		endif
+		if @about_page do
+			@full-name
+		endif
+		if !@front_page do
+			if !@about_page do
+				@title
 			endif
-			if @about_page do
-				@full-name
-			endif
-			if !@front_page do
-				if !@about_page do
-					@title
-				endif
-			endif
+		endif
 		</p>
 	</section>
 </section>

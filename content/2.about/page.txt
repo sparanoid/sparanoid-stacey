@@ -26,7 +26,7 @@ content:
 <p>This site is <abbr title="Not Safe For Work">NSFW</abbr>.</p>
 </section>
 
-<h2>Small Projects <a href="//@base_url/project/" title="View Goodies page to see more" class=continue-reading>more</a></h2>
+<h2>Small Projects <a href="//@base_url/project/" class=continue-reading>more</a></h2>
 
 <ul>
 	<li><a href="//@base_url/lab/7z/">7-Zip L10n Project</a> - An open-source file archiver.</li>

@@ -1,18 +1,18 @@
 <article>
-	:entry-title
+:entry-title
 
 	<section class=entry-content>
-	<section>
-		if $children do
-			<ul class=archive-excerpt>
-				foreach $children do
-					<li>
-						<a href="@url" rel=bookmark>@title</a>
-						<p>@excerpt</p>
-					</li>
-				endforeach
-			</ul>
-		endif
-	</section>
-	</section>
+		<section>
+			if $children do
+				<ul class=archive-excerpt>
+					foreach $children do
+						<li>
+							<a href="@url" rel=bookmark>@title</a>
+							<p>@excerpt</p>
+						</li>
+					endforeach
+				</ul>
+			endif
+		</section>
+	</section><!-- .entry-content -->
 </article>

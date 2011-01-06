@@ -5,7 +5,7 @@
 :decoration
 
 <section id=wrap>
-<!-- This is a wrap for this theme, limiting the width except the navigation, end in footer.html -->
+<!-- !end in footer.html -->
 
 :entry-content
 
@@ -13,12 +13,12 @@
 
 <section id=post-nav>
 	<section>
-	if !@is_first do
-		:previous-page
-	endif
-	if !@is_last do
-		:next-page
-	endif
+		if !@is_first do
+			:previous-page
+		endif
+		if !@is_last do
+			:next-page
+		endif
 	</section>
 </section>
 
