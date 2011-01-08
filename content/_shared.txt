@@ -8,7 +8,7 @@ profession: The net is vast and limitless
 -
 googe-custom-search: 012621050422714259885:jabcs0nmacy
 -
-shortener: http://ѕ.ws/
+shortener: http://bit.ly/
 -
 email: 
 <info@sparanoid.com>

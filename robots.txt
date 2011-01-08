@@ -1,8 +1,6 @@
 Sitemap: http://sparanoid.com/sitemap.xml
 
 User-agent: *
-Disallow: /mint
-Disallow: /v
 Disallow: /*.mp3$
 Disallow: /*.ogg$
 Disallow: /*.mp4$
