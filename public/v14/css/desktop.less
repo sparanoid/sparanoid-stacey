@@ -46,23 +46,8 @@ article, aside, figure, footer, header, hgroup, nav, section {display: block;}
 
 @font-face {
 	font-family: 'Titillium';
-	src: local('☺'), url('../font/titilliumtext22l002_lite.otf') format('opentype'), url('../font/titilliumtext22l002_lite.svg#webfontLbGZICSk') format('svg');
+	src: local('☺'), url('../font/titilliumtext25l003-mod.otf') format('opentype'), url('../font/titilliumtext25l003-mod.svg#webfont2prcZVZ5') format('svg');
 	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Titillium';
-	src: local('☺'), url('../font/titilliumtext22l003_lite.otf') format('opentype'), url('../font/titilliumtext22l003_lite.svg#webfontV40h4p6z') format('svg');
-	/* font-weight = 500 is a trick, or browser won't treat it as a semi-bold weight. */
-	font-weight: 500;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Titillium';
-	src: local('☺'), url('../font/titilliumtext22l005_lite.otf') format('opentype'), url('../font/titilliumtext22l005_lite.svg#webfontHaelggnp') format('svg');
-	font-weight: bold;
 	font-style: normal;
 }
 
@@ -287,9 +272,9 @@ abbr[title], dfn[title] {border-bottom: 1px dotted; cursor: help;}
 
 body {
 	/* en / en alternate / ja / zh / zh alternate (windows) / fallback */
-	font: normal normal normal 100%/1 Titillium, Verdana, 'Hiragino Sans GB', STHeiti, 'Microsoft JhengHei', sans-serif;
-	-moz-font-feature-settings: "liga=1,dlig=1,hlig=1,calt=1,frac=1,salt=1,swsh=1,cswh=1";
-	     font-feature-settings: "liga=1,dlig=1,hlig=1,calt=1,frac=1,salt=1,swsh=1,cswh=1";
+	font: normal normal normal 100%/1 Titillium, Arial, 'Hiragino Sans GB', STHeiti, 'Microsoft JhengHei', sans-serif;
+	-moz-font-feature-settings: "liga=1,dlig=1,hlig=1,calt=1,clig=1,frac=1,salt=1,swsh=1,cswh=1";
+	     font-feature-settings: "liga=1,dlig=1,hlig=1,calt=1,clig=1,frac=1,salt=1,swsh=1,cswh=1";
 	-webkit-font-smoothing: antialiased;
 	text-rendering: geometricPrecision;
 }
@@ -303,7 +288,7 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 500;
+	font-weight: normal;
 	letter-spacing: -.02em; 
 }
 

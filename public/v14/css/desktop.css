@@ -1,6 +1,6 @@
 *{margin:0;padding:0;}
 article,aside,figure,footer,header,hgroup,nav,section{display:block;}
-@font-face{font-family:'Titillium';src:local('☺'),url('../font/titilliumtext22l002_lite.otf') format('opentype'),url('../font/titilliumtext22l002_lite.svg#webfontLbGZICSk') format('svg');font-weight:normal;font-style:normal;}@font-face{font-family:'Titillium';src:local('☺'),url('../font/titilliumtext22l003_lite.otf') format('opentype'),url('../font/titilliumtext22l003_lite.svg#webfontV40h4p6z') format('svg');font-weight:500;font-style:normal;}@font-face{font-family:'Titillium';src:local('☺'),url('../font/titilliumtext22l005_lite.otf') format('opentype'),url('../font/titilliumtext22l005_lite.svg#webfontHaelggnp') format('svg');font-weight:bold;font-style:normal;}@font-face{font-family:'Scriptina Pro';src:local('☺'),url('../font/scriptina_pro.otf') format('opentype'),url('../font/scriptina_pro.svg#webfontaslVB1Cs') format('svg');font-weight:normal;font-style:normal;}body,input{color:#000000;background:#ffffff;}
+@font-face{font-family:'Titillium';src:local('☺'),url('../font/titilliumtext25l003-mod.otf') format('opentype'),url('../font/titilliumtext25l003-mod.svg#webfont2prcZVZ5') format('svg');font-weight:normal;font-style:normal;}@font-face{font-family:'Scriptina Pro';src:local('☺'),url('../font/scriptina_pro.otf') format('opentype'),url('../font/scriptina_pro.svg#webfontaslVB1Cs') format('svg');font-weight:normal;font-style:normal;}body,input{color:#000000;background:#ffffff;}
 a{color:#000000;}
 a:hover,.current a{color:#ff5d26;}
 .entry-content a{color:#ff5d26;}
@@ -45,10 +45,10 @@ abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help;}
 .dark a.twitter-share-button,.dark a.continue-reading{color:#050505;background:#ff5d26;}
 .dark a.twitter-share-button:hover,.dark a.continue-reading:hover{color:#000000;background:#ff8600;}
 .dark a.twitter-share-button:active,.dark a.continue-reading:active{background:#d54e20;}
-body{font:normal normal normal 100%/1 Titillium,Verdana,'Hiragino Sans GB',STHeiti,'Microsoft JhengHei',sans-serif;-moz-font-feature-settings:"liga=1,dlig=1,hlig=1,calt=1,frac=1,salt=1,swsh=1,cswh=1";font-feature-settings:"liga=1,dlig=1,hlig=1,calt=1,frac=1,salt=1,swsh=1,cswh=1";-webkit-font-smoothing:antialiased;text-rendering:geometricPrecision;}
+body{font:normal normal normal 100%/1 Titillium,Arial,'Hiragino Sans GB',STHeiti,'Microsoft JhengHei',sans-serif;-moz-font-feature-settings:"liga=1,dlig=1,hlig=1,calt=1,clig=1,frac=1,salt=1,swsh=1,cswh=1";font-feature-settings:"liga=1,dlig=1,hlig=1,calt=1,clig=1,frac=1,salt=1,swsh=1,cswh=1";-webkit-font-smoothing:antialiased;text-rendering:geometricPrecision;}
 code,pre,input{font:0.875em Consolas,Menlo,'Courier New','Andale Mono','Droid Sans Mono',monospace;}
 a{text-decoration:none;}
-h1,h2,h3,h4,h5,h6{font-weight:500;letter-spacing:-0.02em;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;letter-spacing:-0.02em;}
 h1,.h1{font-size:1.625em;}
 h2,.h2{font-size:1.625em;}
 h3,.h3{font-size:1.5em;}
