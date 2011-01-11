@@ -1,6 +1,6 @@
 *{margin:0;padding:0;}
 article,aside,figure,footer,header,hgroup,nav,section{display:block;}
-@font-face{font-family:'Titillium';src:local('☺'),url('../font/titilliumtext25l003-mod.otf') format('opentype'),url('../font/titilliumtext25l003-mod.svg#webfont2prcZVZ5') format('svg');font-weight:normal;font-style:normal;}@font-face{font-family:'Scriptina Pro';src:local('☺'),url('../font/scriptina_pro.otf') format('opentype'),url('../font/scriptina_pro.svg#webfontaslVB1Cs') format('svg');font-weight:normal;font-style:normal;}body,input{color:#000000;background:#ffffff;}
+@font-face{font-family:'Titillium';src:local('☺'),url('../font/titilliumtext25l003.otf') format('opentype'),url('../font/titilliumtext25l003.ttf') format('truetype');font-weight:normal;font-style:normal;}@font-face{font-family:'Scriptina Pro';src:local('☺'),url('../font/scriptina_pro.otf') format('opentype'),url('../font/scriptina_pro.ttf') format('truetype');font-weight:normal;font-style:normal;}body,input{color:#000000;background:#ffffff;}
 a{color:#000000;}
 a:hover,.current a{color:#ff5d26;}
 .entry-content a{color:#ff5d26;}
