@@ -21,4 +21,4 @@ content:
 	<source src="http://static.sparanoid.com/slimbox-voxgrowl.mov" type=video/mp4>
 </video>
 
-<p class=download><a href="http://github.com/downloads/sparanoid/slimbox/SlimBox-1.1.dmg">SlimBox-1.1.dmg</a> (70 KB) / <a href="http://github.com/downloads/sparanoid/voxgrowl/VoxGrowl-1.1.dmg">VoxGrowl-1.1.dmg</a> (370 KB)</p>
+<p class=download><a href="http://github.com/downloads/sparanoid/slimbox/SlimBox-1.2.dmg">SlimBox-1.2.dmg</a> (70 KB) / <a href="http://github.com/downloads/sparanoid/voxgrowl/VoxGrowl-1.2.dmg">VoxGrowl-1.2.dmg</a> (370 KB)</p>
