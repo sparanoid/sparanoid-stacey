@@ -4,8 +4,6 @@ short-url: sparanoid
 -
 excerpt: A collection of Ñame's graphic design work
 -
-persona: dark
--
 hide_title: yes
 -
 about_page: yes

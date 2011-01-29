@@ -2,4 +2,6 @@ title: Artwork
 -
 short-url: h6cKCu
 -
+persona: dark
+-
 excerpt: A collection of hand-drawn / computer-drawn / freehand works
