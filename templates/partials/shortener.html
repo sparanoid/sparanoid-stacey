@@ -1,4 +1,4 @@
 <section class=shortener>
-	<section class=fleuron>&#10086;</section><input type=text id=short-url-@slug readonly=readonly title="Short URL for this post" onclick="SelectShortURL('short-url-@slug');" value="@shortener@short-url">
+	<section class=fleuron>&#10086;</section><input type=text id=short-url-@slug readonly=readonly title="Short URL for this post" onclick="SelectShortURL('short-url-@slug');" value="if @short-url do @shortener@short-url endif if !@short-url do URL shortener unavailable endif">
 	<a href="http://twitter.com/share?url=http://@base_url/@permalink&amp;via=@twitter&amp;text=@urlencoded_title&amp;related=@twitter&amp;lang=en&amp;count=none&amp;counturl=@permalink" class="twitter-share-button" target="_blank">Tweet!</a>
 </section>
