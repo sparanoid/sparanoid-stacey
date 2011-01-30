@@ -6,8 +6,6 @@ timestamp: 2008-02-05T08:00:00+08:00
 -
 short-url: gcDKsr
 -
-latest: 
--
 excerpt: How to use an US World of Warcraft client to login Chinese servers
 -
 content:

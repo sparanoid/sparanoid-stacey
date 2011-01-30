@@ -6,9 +6,7 @@ timestamp: 2010-03-07T08:00:00+08:00
 -
 short-url: fwWP3C
 -
-latest: 
--
-excerpt: Based on Japanese anime Toaru Kagaku no Railgun 「とある科学の超電磁砲」
+excerpt: Based on Japanese anime Toaru Kagaku no Railgun「とある科学の超電磁砲」
 -
 content:
 <h4>學園都市風紀委員 177 支部＆警備員 スクリーンセーバー＆アイコン from「とある科學の超電磁砲」</h4>

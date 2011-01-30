@@ -6,8 +6,6 @@ timestamp: 1989-06-17T08:00:00+08:00
 -
 short-url: eZBAM1
 -
-latest: 
--
 excerpt: RAW HTML Markup Example, used for theming test
 -
 content:
@@ -15,20 +13,34 @@ content:
 
 <blockquote lang=zh>本頁面可以查看不同的 HTML 元素在這個設計中如何顯示。</blockquote>
 
-<h2>Jules Verne - Around the World in 80 Days</h2>
+<h2>[h2] Jules Verne - Around the World in 80 Days</h2>
 <p>It was Passepartout; and what had happened to him was as follows: Shortly after Fix left the opium den, two waiters had lifted the unconscious Passepartout, and had carried him to the bed reserved for the smokers. Three hours later, pursued even in his dreams by a fixed idea, the poor fellow awoke, and struggled against the stupefying influence of the narcotic. The thought of a duty unfulfilled shook off his torpor, and he hurried from the abode of drunkenness. Staggering and holding himself up by keeping against the walls, falling down and creeping up again, and irresistibly impelled by a kind of instinct, he kept crying out, "The Carnatic! the Carnatic!"</p>
 
-<h3>Edgar Rice Burroughs - At the Earth's Core</h3>
+<h3>[h3] Edgar Rice Burroughs - At the Earth's Core</h3>
 <p>Down the hillside I made my way into the gorgeous field of flowers, and then across the rolling land toward the shadowless columns that guard the ways to buried Phutra. At a quarter-mile from the nearest entrance I was discovered by the Sagoth guard, and in an instant four of the gorilla-men were dashing toward me.</p>
 
-<h4>L. Frank Baum - The Wizard of Oz</h4>
+<h4>[h4] L. Frank Baum - The Wizard of Oz</h4>
 <p>"Get an oil-can and oil my joints," he answered. "They are rusted so badly that I cannot move them at all; if I am well oiled I shall soon be all right again. You will find an oil-can on a shelf in my cottage."</p>
 
-<h4>魯迅－狂人日記</h4>
+<h4>[h4] 魯迅－狂人日記</h4>
 <p>至于我家大哥，也毫不冤枉他。他對我講書的時候，親口說過可以“易子而食”⑸；又一回偶然議論起一個不好的人，他便說不但該殺，還當“食肉寢皮”⑹。我那時年紀還小，心跳了好半天。前天狼子村佃戶來說吃心肝的事，他也毫不奇怪，不住的點頭。可見心思是同從前一樣狠。既然可以“易子而食”，便什麽都易得，什麽人都吃得。我從前單聽他講道理，也胡塗過去；現在曉得他講道理的時候，不但唇邊還抹著人油，而且心裏滿裝著吃人的意思。</p>
 
-<h5>魯迅－黑暗中國的文藝界的現狀</h5>
+<h5>[h5] 魯迅－黑暗中國的文藝界的現狀</h5>
 <p>連契訶夫（Ａ．Chekhov）和安特來夫（L．Andreev）的有些小說也都在禁止之列。於是使書店只好出算學教科書和童話，如 Mr.Cat 和 Miss Rose 談天，稱讚春天如何可愛之類</p>
+
+<h5>Multi-column Test</h5>
+<section>
+<p>Alfred Nobel was born on 21 October 1833 in Stockholm, Sweden, into a family of engineers. He was a chemist, engineer, and inventor. In 1895 Nobel purchased the Bofors iron and steel mill, which he converted into a major armaments manufacturer. Nobel also invented ballistite, a precursor to many smokeless military explosives, especially cordite, the main British smokeless powder. Nobel was even involved in a patent infringement lawsuit over cordite. Nobel amassed a fortune during his lifetime, most of it from his 355 inventions, of which dynamite is the most famous. In 1888, Alfred had the unpleasant surprise of reading his own obituary, titled ‘The merchant of death is dead’, in a French newspaper. As it was Alfred's brother Ludvig who had died, the obituary was eight years premature. Alfred was disappointed with what he read and concerned with how he would be remembered. This inspired him to change his will. On 10 December 1896 Alfred Nobel died in his villa in San Remo, Italy, at the age of 63 from a cerebral haemorrhage.</p>
+<p>To widespread surprise, Nobel's last will requested that his fortune be used to create a series of prizes for those who confer the "greatest benefit on mankind" in physics, chemistry, peace, physiology or medicine, and literature. Nobel wrote several wills during his lifetime. The last was written over a year before he died, signed at the Swedish-Norwegian Club in Paris on 27 November 1895. Nobel bequeathed 94% of his total assets, 31 million SEK (c. US$186 million in 2008), to establish the five Nobel Prizes. Because of the level of scepticism surrounding the will, it was not until 26 April 1897 that it was approved by the Storting in Norway. The executors of Nobel's will, Ragnar Sohlman and Rudolf Lilljequist, formed the Nobel Foundation to take care of Nobel's fortune and organise the award of prizes.</p>
+<p>Nobel's instructions named a Norwegian Nobel Committee to award the Peace Prize, the members of whom were appointed shortly after the will was approved in April 1897. Soon thereafter, the other prize-awarding organisations were established: the Karolinska Institutet on 7 June, the Swedish Academy on 9 June, and the Royal Swedish Academy of Sciences on 11 June. The Nobel Foundation reached an agreement on guidelines for how the prizes should be awarded, and in 1900, the Nobel Foundation's newly-created statutes were promulgated by King Oscar II. In 1905, the Union between Sweden and Norway was dissolved. Thereafter Norway's Nobel Committee remained responsible for awarding the Nobel Peace Prize and the Swedish institutions retained responsibility for the other prizes.</p>
+</section>
+
+<h5>Multi-column Test</h5>
+<section class=three-col>
+<p>Alfred Nobel was born on 21 October 1833 in Stockholm, Sweden, into a family of engineers. He was a chemist, engineer, and inventor. In 1895 Nobel purchased the Bofors iron and steel mill, which he converted into a major armaments manufacturer. Nobel also invented ballistite, a precursor to many smokeless military explosives, especially cordite, the main British smokeless powder. Nobel was even involved in a patent infringement lawsuit over cordite. Nobel amassed a fortune during his lifetime, most of it from his 355 inventions, of which dynamite is the most famous. In 1888, Alfred had the unpleasant surprise of reading his own obituary, titled ‘The merchant of death is dead’, in a French newspaper. As it was Alfred's brother Ludvig who had died, the obituary was eight years premature. Alfred was disappointed with what he read and concerned with how he would be remembered. This inspired him to change his will. On 10 December 1896 Alfred Nobel died in his villa in San Remo, Italy, at the age of 63 from a cerebral haemorrhage.</p>
+<p>To widespread surprise, Nobel's last will requested that his fortune be used to create a series of prizes for those who confer the "greatest benefit on mankind" in physics, chemistry, peace, physiology or medicine, and literature. Nobel wrote several wills during his lifetime. The last was written over a year before he died, signed at the Swedish-Norwegian Club in Paris on 27 November 1895. Nobel bequeathed 94% of his total assets, 31 million SEK (c. US$186 million in 2008), to establish the five Nobel Prizes. Because of the level of scepticism surrounding the will, it was not until 26 April 1897 that it was approved by the Storting in Norway. The executors of Nobel's will, Ragnar Sohlman and Rudolf Lilljequist, formed the Nobel Foundation to take care of Nobel's fortune and organise the award of prizes.</p>
+<p>Nobel's instructions named a Norwegian Nobel Committee to award the Peace Prize, the members of whom were appointed shortly after the will was approved in April 1897. Soon thereafter, the other prize-awarding organisations were established: the Karolinska Institutet on 7 June, the Swedish Academy on 9 June, and the Royal Swedish Academy of Sciences on 11 June. The Nobel Foundation reached an agreement on guidelines for how the prizes should be awarded, and in 1900, the Nobel Foundation's newly-created statutes were promulgated by King Oscar II. In 1905, the Union between Sweden and Norway was dissolved. Thereafter Norway's Nobel Committee remained responsible for awarding the Nobel Peace Prize and the Swedish institutions retained responsibility for the other prizes.</p>
+</section>
 
 <h5>Links in Paragraph</h5>
 <p>The <a href="http://en.wikipedia.org/wiki/Royal_Swedish_Academy_of_Sciences">Royal Swedish Academy of Sciences</a> awards the Nobel Prize in Physics, the Nobel Prize in Chemistry, and the Nobel Memorial Prize in Economic Sciences. The <a href="http://en.wikipedia.org/wiki/Nobel_Assembly_at_Karolinska_Institutet">Nobel Assembly</a> at <a href="http://en.wikipedia.org/wiki/Karolinska_Institutet">Karolinska Institutet</a> awards the Nobel Prize in Physiology or Medicine. The <a href="http://en.wikipedia.org/wiki/Swedish_Academy">Swedish Academy</a> grants the Nobel Prize in Literature. The Nobel Peace Prize is not awarded by a Swedish organisation but by the <a href="http://en.wikipedia.org/wiki/Norwegian_Nobel_Committee">Norwegian Nobel Committee</a>.</p>

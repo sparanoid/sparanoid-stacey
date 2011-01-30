@@ -6,8 +6,6 @@ timestamp: 2006-09-18T08:00:00+08:00
 -
 short-url: hg8war
 -
-latest: 
--
 excerpt: My old high school, before we moved to a new one.
 -
 content:

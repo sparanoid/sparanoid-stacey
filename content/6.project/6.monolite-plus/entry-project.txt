@@ -6,8 +6,6 @@ timestamp: 2009-11-23T08:00:00+08:00
 -
 short-url: gyrZOd
 -
-latest: 
--
 excerpt: A foobar2000 theme based on Columns UI
 -
 content:

@@ -6,8 +6,6 @@ timestamp: 2007-07-06T08:00:00+08:00
 -
 short-url: hQ0qJ8
 -
-latest: 
--
 excerpt: The same place, the different time
 -
 content:

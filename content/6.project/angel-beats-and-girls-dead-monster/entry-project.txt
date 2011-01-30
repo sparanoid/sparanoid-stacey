@@ -6,9 +6,7 @@ timestamp: 2010-07-03T08:00:00+08:00
 -
 short-url: eZBAM1
 -
-latest: 
--
-excerpt: Logo from Japanese anime Angel Beats! 「エンジェルビーツ!」
+excerpt: Logo from Japanese anime Angel Beats!「エンジェルビーツ!」
 -
 content:
 <p><a href="http://static.sparanoid.com/angel_beats!_logo.png"><img src="http://static.sparanoid.com/angel_beats!_logo.png" alt="Angel Beats! Logo" class="no-border"></a></p>

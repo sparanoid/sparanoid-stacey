@@ -6,8 +6,6 @@ timestamp: 2006-01-29T08:00:00+08:00
 -
 short-url: i6xyDl
 -
-latest: 
--
 excerpt: A plugin that disables wptexturize function
 -
 content:

@@ -6,8 +6,6 @@ timestamp: 2010-12-05T08:00:00+08:00
 -
 short-url: fpVYsn
 -
-latest: yes
--
 excerpt: The missing Growl styles for Mac OS X
 -
 content:

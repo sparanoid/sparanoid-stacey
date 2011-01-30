@@ -6,8 +6,6 @@ timestamp: 2008-11-24T08:00:00+08:00
 -
 short-url: hBGo4i
 -
-latest: 
--
 excerpt: A redesigned iconset for 7-Zip File Manager
 -
 content:

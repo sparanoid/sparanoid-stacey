@@ -6,9 +6,7 @@ timestamp: 2010-09-15T08:00:00+08:00
 -
 short-url: hGUSd0
 -
-latest: 
--
-excerpt: Based on Japanese anime Lucky☆Star 「らき☆すた」
+excerpt: Based on Japanese anime Lucky☆Star「らき☆すた」
 -
 content:
 <p><img src="http://static.sparanoid.com/lucky-star-for-sogou_large.png" alt="Lucky Star Theme for QQ/Sogou Pinyin IME" /></p>

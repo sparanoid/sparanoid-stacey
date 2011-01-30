@@ -1,0 +1,12 @@
+title: Nessa
+-
+date: 31 Jan 2011
+-
+timestamp: 2011-01-31T08:00:00+08:00
+-
+short-url: 
+-
+excerpt: Nessa (ネッサ), from Japanese anime Fractale「フラクタル」
+-
+content:
+<p><img src="http://static.sparanoid.com/work/nessa.jpg" alt="Nessa (ネッサ)"></p>

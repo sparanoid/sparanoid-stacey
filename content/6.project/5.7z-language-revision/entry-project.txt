@@ -6,8 +6,6 @@ timestamp: 2009-08-25T08:00:00+08:00
 -
 short-url: ihwiJv
 -
-latest: 
--
 excerpt: 7-Zip 簡體中文語言文件修訂工程
 -
 content:

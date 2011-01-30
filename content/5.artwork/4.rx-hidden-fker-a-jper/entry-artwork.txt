@@ -6,8 +6,6 @@ timestamp: 2007-10-20T08:00:00+08:00
 -
 short-url: gD6EeL
 -
-latest: 
--
 excerpt: Finished in my high school
 -
 content:

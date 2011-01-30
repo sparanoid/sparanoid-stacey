@@ -6,8 +6,6 @@ timestamp: 2010-11-23T08:00:00+08:00
 -
 short-url: egX5Jn
 -
-latest: 
--
 excerpt: A WordPress theme, now it's on Stacey
 -
 content:
