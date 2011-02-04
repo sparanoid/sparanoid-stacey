@@ -4,7 +4,7 @@ date: 3 Jul 2010
 -
 timestamp: 2010-07-03T08:00:00+08:00
 -
-short-url: eZBAM1
+short-url: 
 -
 excerpt: Logo from Japanese anime Angel Beats!「エンジェルビーツ!」
 -

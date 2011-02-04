@@ -4,7 +4,7 @@ date: 17 Jun 1989
 -
 timestamp: 1989-06-17T08:00:00+08:00
 -
-short-url: eZBAM1
+short-url: 
 -
 excerpt: RAW HTML Markup Example, used for theming test
 -

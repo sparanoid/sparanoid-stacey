@@ -4,7 +4,7 @@ date: 31 Jan 2011
 -
 timestamp: 2011-01-31T08:00:00+08:00
 -
-short-url: 
+short-url: ic49B1
 -
 excerpt: Nessa (ネッサ), from Japanese anime Fractale「フラクタル」
 -
