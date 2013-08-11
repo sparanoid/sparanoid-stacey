@@ -9,4 +9,4 @@ short-url: ic49B1
 excerpt: Nessa (ネッサ), from Japanese anime Fractale「フラクタル」
 -
 content:
-<p><img src="http://static.sparanoid.com/work/nessa.jpg" alt="Nessa (ネッサ)"></p>
+<p><img src="http://rsrc.sparanoid.com/work/nessa.jpg" alt="Nessa (ネッサ)"></p>
